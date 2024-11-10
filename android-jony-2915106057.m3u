@@ -18451,8 +18451,7 @@ I P T V   D E P O R T E S
 
 
 
-}
-}#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES IPTV",TYC Sports
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES IPTV",TYC Sports
 http://181.13.173.86:8000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES IPTV",ESPN
@@ -18490,3 +18489,16 @@ http://181.78.105.146:2000/play/a08j/index.m3u8
 https://apollo.production-public.tubi.io/live/ac-bein.m3u8
 #EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES IPTV" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA N
 https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports 
+http://181.13.173.86:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL HD
+http://45.181.123.233:8000/play/a0l8
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL SD
+http://45.181.123.233:8000/play/a18g
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL Premium
+http://45.181.123.233:8000/play/a0ql
