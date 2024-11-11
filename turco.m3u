@@ -18502,3 +18502,12 @@ http://45.181.123.233:8000/play/a0l8
 http://45.181.123.233:8000/play/a18g
 #EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL Premium
 http://45.181.123.233:8000/play/a0ql
+
+
+
+
+#EXTINF:-1 tvg-id="TNT Sports Premium" tvg-name="TNT Sports HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/tntsport.png" group-title="DEPORTES IPTV",TNT Sports HD (Opcion 2)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34683
+
+#EXTINF:-1 tvg-id="AR - "ESPN Premium" tvg-name="ESPN Premium HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="DEPORTES IPTV",ESPN Premium HD (Opcion 2)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123874
