@@ -1,0 +1,283 @@
+#EXTM3U    
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+http://181.209.114.13:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS 
+http://181.13.173.86:8000/play/a02s/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="Tango Sports", ESPN  
+http://181.13.173.86:8000/play/a0af/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="Tango Sports", ESPN 2
+http://181.13.173.86:8000/play/a0ag/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Tango Sports", ESPN 3
+http://181.13.173.86:8000/play/a0ah/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Tango Sports", ESPN 4
+http://181.13.173.86:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Tango Sports", FOX Sports
+http://181.13.173.86:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Tango Sports", FOX Sports 2
+http://181.13.173.86:8000/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Tango Sports", FOX Sports 3 
+http://181.13.173.86:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="Tango Sports", DEPORTV 
+http://181.13.173.86:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="Tango Sports", TyC SPORTS Internacional
+http://181.176.153.106:8090/play/a0x0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS 
+http://38.188.100.27:8000/play/a05m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/file-1-1.png" group-title="Tango Sports", DSPORTS 2 
+http://38.188.100.27:8000/play/a065/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/07/cro1a9IIVYYF0rH8hOn08-transformed.png" group-title="Tango Sports", DSPORTS PLUS HD
+http://38.188.100.27:8000/play/a066/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 
+http://181.209.114.13:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 2
+http://181.209.114.13:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 3
+http://181.13.173.86:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 4
+http://181.13.173.86:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
+http://181.78.27.128:8000/play/a064/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
+http://181.209.95.29:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
+http://216.244.200.34:8000/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 8
+http://216.244.200.34:8000/play/a04j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 9
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local40.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 10
+http://170.246.176.234:9999/Live/90e9f07627106941025bcc95f37631c9/local87.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 11
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6843
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 12
+http://212.102.60.73:25461/celular12usa@gmail.com/b51557b959c8822923d6aa2a31d4f97c45d16baa1332ab4f87f05e9af3eacde76eb06b36ead1508fcc2f136488d2ca0eaa906995ba5e70acd9caef04e370d862/6858
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 13
+http://190.123.90.146:8000/play/a00j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 14
+http://190.123.90.146:8000/play/a00f/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA TV 
+https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/PSdCVquO_vZXDVdlCteix90MWLeLm-47kxUAf6Rk0j3j0yXxPekUt1MnYsdogZOq0t3VhWKuhw=s160-c-k-c0x00ffffff-no-rj" group-title="NACIONALES", TVPUBLICA  
+https://g3.proy-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", EL NUEVE
+http://181.209.95.29:8000/play/a0a9/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", EL TRECE
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/CanalNet.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://170.246.176.234:9999/images/los-simpson-24hs_285.png" group-title="NACIONALES", LOS SIMPSONS
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/online-24-7.playlist.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="NACIONALES", ENCUENTRO
+http://181.209.114.13:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
+http://181.13.173.86:8000/play/a06e/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
+https://unlimited1-buenosaires.dps.live/carastv/carastv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="NACIONALES", TELEMAX
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/512px-Paka-paka.svg.png" group-title="NACIONALES", PAKA PAKA
+http://181.78.27.128:8000/play/a04x/index.m3u8
+
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="NACIONALES", CINEAR
+http://181.13.173.86:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/DeporTV_%282020_Logo_oficial%29.png/800px-DeporTV_%282020_Logo_oficial%29.png" group-title="NACIONALES", DEPORTV
+http://181.13.173.86:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="NACIONALES", TyC SPORTS 
+http://181.13.173.86:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="NACIONALES", AM Sports
+http://181.13.173.86:8000/play/a01v/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalOrbe21.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/100px-Canal_Orbe_21_logo.svg.pngg" group-title="NACIONALES", ORBE 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Wt94ulT522DHedSNj6m-PCw3tWpBMN7LF0VhIslu4x1-udZ9CtMUrHpFQZQ-U97HPIY=w240-h480" group-title="NACIONALES", UNIFE
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/11/logoweb2022.jpg" group-title="NACIONALES", SOLIDARIA TV 
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="NACIONALES", MUSIC TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="NACIONALES", TERRAMIA TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="NACIONALES", CM
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g5.proy-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
+http://181.13.173.86:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="NACIONALES", ARGENTINISIMA SATELITAL
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1409840532529029128/jDV8aWP-_400x400.jpg" group-title="NACIONALES", CIUDAD MAGAZINE
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE PLUTO TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="NACIONALES" , METRO
+http://181.13.173.86:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="NACIONALES" , VOLVER
+http://181.13.173.86:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="NACIONALES" , CANAL A 
+http://181.13.173.86:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="NACIONALES", El Gourmet
+http://181.13.173.86:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV
+https://delivery.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/XUCrrfOiBttJx_e732pxNQqAZxeUlDEaU4NFo7sPdn8sOA2C32vjOMD8LldSIrejWIDu15qV=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", IP NOTICIAS
+http://181.78.27.128:8000/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
+http://181.209.114.13:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD 
+https://g4.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/A_24.jpg" group-title="NOTICIAS NACIONALES", A24
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/TODO_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", TODO NOTICIAS  
+http://181.209.114.13:8000/play/a058/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NOTICIAS NACIONALES", C5N
+http://181.209.114.13:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/LA_NACION_%2B.jpg" group-title="NOTICIAS NACIONALES", LA NACION +    
+http://181.13.173.86:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS NACIONALES", CANAL E
+https://unlimited1-buenosaires.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
+http://170.246.176.234:9999/Live/97babc3dbf134bf0c226c7d6d7c135b6/rural.playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CHACRA TV
+https://g5.vxral-hor.transport.edge-access.net/a11/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NOTICIAS NACIONALES", EL TRECE NOTICIERO 
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", EXTRA TV  
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0021
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lq90qVBWRaNJxcH70Jlko05VWx2iwDf8vL4jGMJ5MnmCs=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Destape TV 
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0075
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/OttUuKTaZLo0tUG6D9uG2_ZRIt7EaVN7_tVQIO4R3NHwb3QZdyBxK01CTn5JsOhVVdiAdUH2_nY=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Telefe Noticias
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0089
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1569312379703365637/fdzc1Tzz_400x400.jpg" group-title="NOTICIAS NACIONALES", RADIO MITRE AM 790
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0004
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Radio_Rivadavia_%282020%29.png/800px-Radio_Rivadavia_%282020%29.png" group-title="NOTICIAS NACIONALES", RADIO RIVADAVIA AM 630
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0002
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="NOTICIAS NACIONALES", RADIO CONTINENTAL AM 590
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0001
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/z5OyIisNuuoNMsoe5L13VtY2gEBqBLxr3Qz6XUpEyv35AKcU3MLBriN72R2XHFmK0Dn-Qkjfnvk=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", RADIO 10 AM 710
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0003
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JxTyO3fqqzmDMpm3NVF8wEZuuyGdJGlYHo4kSjo9BwGEZmuHL5rq3GhMbAjNHb82v20FId6AdQ=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio La Red AM 910
+https://ythls-v3.onrender.com/channel/UCs1U5lRXvUJHn0CgXI6oXAw.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JAFTwg3ZoLX18I-XOlJPqA3VYP2wKuYrAI9N409lphAHgJfBDV4b2W6-Y7mr7-lHFWwF5zo58g=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Nacional Argentina AM870
+https://ythls-v3.onrender.com/channel/UCgcUYL6ODQniPuwD4N-Tlvg.m3u8
+
+#EXTINF:-1 tvg-logo="https://amdelplata.com/wp-content/uploads/2023/08/logo-negativo.png" group-title="NOTICIAS NACIONALES", RADIO DEL PLATA AM 1030
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0007
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9 FM
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0022
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", DIPUTADOS TV 
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0101
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/xK2UU-mjcRno8NcJSFnE9VRaIY_-TRaKNa3Nkyca7ZMxUeFrIIZGk9YsltI64rdmaHgyOQowFg=s160-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", Radio Splendid AM 990
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0005
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/PUZaouBDWH1vPzIAzqIXsn8xx3M_SdIa4gx
