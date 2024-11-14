@@ -5063,3 +5063,261 @@ https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8
 #EXTINF:-1 radio="true" tvg-logo="https://radiomelodia.com.pe/imgs/logo_melodia.png" group-title="RADIO" tvg-name="Radio Nacional Perú",Radio Melodía Perú
 http://stream.radiomelodia.com.pe:8000/radio.mp3
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###########################################################################################
+#############################################################################################
+
+
+
+
+
+
+
+
+I P T V   D E P O R T E S 
+
+
+
+
+
+
+
+##############################################################################################
+###############################################################################################
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES IPTV",TYC Sports
+http://181.13.173.86:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES IPTV",ESPN
+http://45.181.123.233:8000/play/a0o9
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES IPTV",ESPN CL
+http://181.78.105.146:2000/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES IPTV",ESPN SD
+http://200.113.4.75:7210/play/a00y/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES IPTV",ESPN 2
+http://45.181.123.233:8000/play/a0qt
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES IPTV",ESPN 2 HD
+http://190.61.106.107:8000/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Premium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES IPTV",ESPN Premium
+http://181.13.173.86:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
+http://181.13.173.86:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
+http://181.13.173.86:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
+http://181.13.173.86:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
+http://45.189.148.24:8000/play/a027/index.m3u8
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
+http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167742
+
+#EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+
+#EXTINF:-1 tvg-id="beIN" group-title="DEPORTES IPTV" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports N
+https://apollo.production-public.tubi.io/live/ac-bein.m3u8
+#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES IPTV" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA N
+https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports 
+http://181.13.173.86:8000/play/a02u/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL HD
+http://45.181.123.233:8000/play/a0l8
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL SD
+http://45.181.123.233:8000/play/a18g
+#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL Premium
+http://45.181.123.233:8000/play/a0ql
+
+
+
+
+#EXTINF:-1 tvg-id="TNT Sports Premium" tvg-name="TNT Sports HD (ARG)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports HD (Opcion 2)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34683
+
+#EXTINF:-1 tvg-id="AR - "ESPN Premium" tvg-name="ESPN Premium HD (ARG)" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="DEPORTES IPTV",ESPN Premium HD (Opcion 2)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123874 
+
+
+
+
+
+##############################################################################################
+##############################################################################################
+
+
+
+
+
+DE AGREGADO DEPORTES IPTV
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png" group-title="DEPORTES IPTV",ESPN PREMIUM 1
+http://181.191.140.2:8000/play/a0ip/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png" group-title="DEPORTES IPTV",ESPN PREMIUM 2
+http://181.209.114.13:8000/play/a078/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png" group-title="DEPORTES IPTV",ESPN PREMIUM 3
+http://45.5.151.151:8000/play/a0fe/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png" group-title="DEPORTES IPTV",ESPN PREMIUM 4
+http://00322.xyz:8000/oosorio1000/KHW7SFTBRS/145417
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png" group-title="DEPORTES IPTV",ESPN PREMIUM 5
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/47185
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png" group-title="DEPORTES IPTV",ESPN PREMIUM 6
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/2358
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png" group-title="DEPORTES IPTV",TNT SPORTS 1
+http://181.191.140.2:8000/play/a0gf/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png" group-title="DEPORTES IPTV",TNT SPORTS 2
+http://181.209.114.13:8000/play/a02u/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png" group-title="DEPORTES IPTV",TNT SPORTS 3
+http://45.5.151.151:8000/play/a002/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png" group-title="DEPORTES IPTV",TNT SPORTS 4
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/98
+  
+#EXTINF:0 tvg-logo="https://i.ibb.co/fdcC7Bb/T3-Nt3-Sp0rts.png" group-title="DEPORTES IPTV",TNT SPORTS 5
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/37542
+
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/f2xJdnC/25.png" group-title="DEPORTES IPTV", TYC SPORTS (Opcion 1)
+http://home-playtv.com:8080/marcelalopez/CHXRH/188939
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/f2xJdnC/25.png", group-title="DEPORTES IPTV" TYC SPORTS (Opcion 2)
+http://200.115.120.1:8000/play/ca043/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png" group-title="DEPORTES IPTV",ESPN Premium Internacional 1
+http://38.43.151.206:8000/play/a06h/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.ibb.co/P93MHyh/3spn-Pr3m1um.png" group-title="DEPORTES IPTV",ESPN Premium Internacional 2
+http://200.37.186.109:8000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/prxtTcg/13.png" group-title="DEPORTES IPTV" ,DSPORTS
+http://masplay.net:80/play/oEcPdncA1OherpWq1eyfNlhxX8lV088kyGE9Jl3AwBo/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v4C5WG0/14.png" group-title="DEPORTES IPTV", DSPORTS 2
+http://38.43.151.206:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/stz6Bb2/2.png" group-title="DEPORTES IPTV", GOL PERU
+http://38.43.151.206:8000/play/a036/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y7WHGZP/1.png" group-title="DEPORTES IPTV" , L1 MAX
+http://38.43.151.206:8000/play/a069/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9HYPwtY/4.png" group-title="DEPORTES IPTV" ,BEIN SPORTS
+https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhDtjP1/5.png" group-title="DEPORTES IPTV" ,BEIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlist.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdYCzZb/6.png" group-title="DEPORTES IPTV" ,ESPN (Opc 1)
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hdYCzZb/6.png" group-title="DEPORTES IPTV" ,ESPN (Opc 2)
+http://tecnozone.site:8090/gaF-9837HA/BHAG-93gfHa/43844
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DbsfGGz/7.png" group-title="DEPORTES IPTV" ,ESPN 2
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDN2WDn/8.png" group-title="DEPORTES IPTV" ,ESPN 3
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6SB6GK/9.png" group-title="DEPORTES IPTV" ,ESPN 4
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Espn4.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K7RJmFw/10.png" group-title="DEPORTES IPTV" ,ESPN 5
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn5/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKv00x8/11.png" group-title="DEPORTES IPTV" ,ESPN 6
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn6/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HH4d4Cw/12.png" group-title="DEPORTES IPTV" ,ESPN 7
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn7/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Yh3vC29/22.png" group-title="DEPORTES IPTV",AMERICA SPORTS
+http://181.191.140.2:8000/play/a0fl/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 1
+https://dj8bzwveg7go9.cloudfront.net/out/v1/09e35529553d472b8f14e437af642e2f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 2
+https://d320m3arb2wo8b.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 3
+https://d1xm2jznwi5xzj.cloudfront.net/out/v1/1bcd1ee954894463b1793597891a25b6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 4
+https://dpyzprfzko681.cloudfront.net/out/v1/366fc52554ae42c58465ea4b278eac0c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 5
+https://d107yb993altze.cloudfront.net/out/v1/772e0b0193134726ad84693b7baca6c6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 6
+https://d21no6qan3ol31.cloudfront.net/out/v1/a2f25f61e9d44701aa4e813ac5efc4a4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 7
+https://d3v9hc3dccxi3a.cloudfront.net/out/v1/bccdd4d97f434c63ab2f675e5145758f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 8
+https://dbjn2fo8vpiph.cloudfront.net/out/v1/4c8dc641a91448439388e41118924965/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 9
+https://d1scuk1wvkchtc.cloudfront.net/out/v1/19321d887c274b58a4f62fe0f6e2151b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4MNMQJL/teyc3-Pl4y.jpg" group-title="DEPORTES IPTV" ,EVENTOS TyC PLAY 10
+https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/index.m3u8
+
+
+
