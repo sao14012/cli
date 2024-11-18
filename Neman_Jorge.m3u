@@ -6422,6 +6422,28 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0405
 
 
 
+##agregado####
+
+
+
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL",ESPN PREMIUM OP2 
+https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL",TNT SPORTS OP2 
+https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
 
 
 
@@ -6436,65 +6458,22 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0405
 
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+#EXTINF:-1 tvg-chno="207" tvg-id="ESPN3.ar" tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="MPD SPORT", ESPN 3
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tyc_sports.png" group-title="DEPORTES IPTV",TYC Sports
-http://181.13.173.86:8000/play/a02s/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="MPD SPORT", ESPN Extra
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES IPTV",ESPN
-http://45.181.123.233:8000/play/a0o9
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES IPTV",ESPN CL
-http://181.78.105.146:2000/play/a064/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn.png" group-title="DEPORTES IPTV",ESPN SD
-http://200.113.4.75:7210/play/a00y/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-chno="250" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="MPD SPORT", ESPN Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
 
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES IPTV",ESPN 2
-http://45.181.123.233:8000/play/a0qt
-#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn2.png" group-title="DEPORTES IPTV",ESPN 2 HD
-http://190.61.106.107:8000/play/a055/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN Premium.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ESPN_Premium_logo.png/640px-ESPN_Premium_logo.png" group-title="DEPORTES IPTV",ESPN Premium
-http://181.13.173.86:8000/play/a078/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
-http://181.13.173.86:8000/play/a07j/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
-http://181.13.173.86:8000/play/a0ai/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
-http://181.13.173.86:8000/play/a02t/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxSportsPremium.ar" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-sports-premiumpng-us-mx.png",Fox Sports Premium
-http://45.189.148.24:8000/play/a027/index.m3u8
-
-#EXTINF:-1 tvg-id="DAZN F1 HD" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",DAZN F1
-http://streamgo.vip:8008/CristinaTVV/PZdDdaBKVnAX/167742
-
-#EXTINF:-1 tvg-id="TUDN.mx" group-title="DEPORTES IPTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tudn-mexico-mx.png",TUDN
-http://181.78.105.146:2000/play/a08j/index.m3u8
-
-#EXTINF:-1 tvg-id="beIN" group-title="DEPORTES IPTV" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports N
-https://apollo.production-public.tubi.io/live/ac-bein.m3u8
-#EXTINF:-1 tvg-id="beINXtra" group-title="DEPORTES IPTV" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",beIN Sports XTRA N
-https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="TNTSports.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports 
-http://181.13.173.86:8000/play/a02u/index.m3u8
-
-#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL HD
-http://45.181.123.233:8000/play/a0l8
-#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL SD
-http://45.181.123.233:8000/play/a18g
-#EXTINF:-1 tvg-id="TNTSportsChile.cl" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us.png" group-title="DEPORTES IPTV",TNT Sports CL Premium
-http://45.181.123.233:8000/play/a0ql
-
-
-
-#EXTINF:-1 tvg-id="TNT Sports Premium" tvg-name="TNT Sports HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/tntsport.png" group-title="DEPORTES IPTV",TNT Sports HD (Opcion 2)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/34683
-
-#EXTINF:-1 tvg-id="AR - "ESPN Premium" tvg-name="ESPN Premium HD (ARG)" tvg-logo="https://img.tvcl.xyz/deportes/espn.png" group-title="DEPORTES IPTV",ESPN Premium HD (Opcion 2)
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123874
+bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
 
 
 
@@ -6504,37 +6483,10 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/123874
 
 
 
-AGREGADO
+
+##########################################################################
+########################################################################
+########################################################################
 
 
-
-
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TYC Sports" tvg-logo="" group-title="Sport",Argentina|| TYC Sports
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22077
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| FOX SPORTS 2 HD" tvg-logo="" group-title="Sport",Argentina|| FOX SPORTS 2 HD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22097
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| FOX SPORTS 1 HD" tvg-logo="" group-title="Sport",Argentina|| FOX SPORTS 1 HD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22098
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| ESPN ARGENTINA" tvg-logo="" group-title="Espn",Argentina|| ESPN ARGENTINA
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22101
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| ESPN ARG HD-" tvg-logo="" group-title="Espn",Argentina|| ESPN ARG HD-
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/26794
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TYC SPORTS" tvg-logo="" group-title="Sport",Argentina|| TYC SPORTS
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50624
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| Espn PREMIUM##" tvg-logo="" group-title="Espn",Argentina|| Espn PREMIUM##
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50839
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TNT SPORTS##" tvg-logo="" group-title="Sport",Argentina|| TNT SPORTS##
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50841
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TNT SPORTS#" tvg-logo="" group-title="Sport",Argentina|| TNT SPORTS#
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50842
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| FOX SPORTS 1 HD (opc2)" tvg-logo="" group-title="Sport",Argentina|| FOX SPORTS 1 HD (opc2)
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1115228
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TYC SPORTS :)" tvg-logo="" group-title="Sport",Argentina|| TYC SPORTS :)
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1116305
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TNT SPORT :)" tvg-logo="" group-title="Sport",Argentina|| TNT SPORT :)
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1119917
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TYC Sports Opc2" tvg-logo="" group-title="Sport",Argentina|| TYC Sports Opc2
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1120342
 
