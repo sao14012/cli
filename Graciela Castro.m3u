@@ -5325,37 +5325,74 @@ https://dhmxbo9piuo21.cloudfront.net/out/v1/84ee2b0cce384a30abd70b05562ddd91/ind
 
 
 
-AGREGADO
+
+
+##agregado####
 
 
 
 
 
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TYC Sports" tvg-logo="" group-title="Sport",Argentina|| TYC Sports
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22077
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| FOX SPORTS 2 HD" tvg-logo="" group-title="Sport",Argentina|| FOX SPORTS 2 HD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22097
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| FOX SPORTS 1 HD" tvg-logo="" group-title="Sport",Argentina|| FOX SPORTS 1 HD
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22098
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| ESPN ARGENTINA" tvg-logo="" group-title="Espn",Argentina|| ESPN ARGENTINA
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22101
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| ESPN ARG HD-" tvg-logo="" group-title="Espn",Argentina|| ESPN ARG HD-
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/26794
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TYC SPORTS" tvg-logo="" group-title="Sport",Argentina|| TYC SPORTS
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50624
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| Espn PREMIUM##" tvg-logo="" group-title="Espn",Argentina|| Espn PREMIUM##
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50839
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TNT SPORTS##" tvg-logo="" group-title="Sport",Argentina|| TNT SPORTS##
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50841
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TNT SPORTS#" tvg-logo="" group-title="Sport",Argentina|| TNT SPORTS#
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50842
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| FOX SPORTS 1 HD (opc2)" tvg-logo="" group-title="Sport",Argentina|| FOX SPORTS 1 HD (opc2)
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1115228
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TYC SPORTS :)" tvg-logo="" group-title="Sport",Argentina|| TYC SPORTS :)
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1116305
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TNT SPORT :)" tvg-logo="" group-title="Sport",Argentina|| TNT SPORT :)
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1119917
-#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| TYC Sports Opc2" tvg-logo="" group-title="Sport",Argentina|| TYC Sports Opc2
-http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1120342
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c230dbc7f6a4bfa6ad0aa73ff792374&key=4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="PACK FÚTBOL",ESPN PREMIUM OP2 
+https://cdn.cvattv.com.ar/live/c4eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc_2A/Fox_Sports_Premiun_HD.mpd
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bc80fa3da696e503f940fde5f681a1c5&key=ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="PACK FÚTBOL",TNT SPORTS OP2 
+https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_dash_enc_2A/TNT_Sports_HD.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+#EXTINF:-1 tvg-chno="207" tvg-id="ESPN3.ar" tvg-logo="https://static.wixstatic.com/media/b12542_5658d51d89ad4541a01770e4f80d953d~mv2.png" group-title="MPD SPORT", ESPN 3
+https://chromecast.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc_2A/ESPN3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+#EXTINF:-1 tvg-chno="208" tvg-id="ESPNExtraHDSouth.us" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_06/large.1321307982_ESPNExtra.png.dab30b1a6f200ecbb305435d36e06ee9.png" group-title="MPD SPORT", ESPN Extra
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-chno="250" tvg-id="ESPNPremiumHD.ar" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="MPD SPORT", ESPN Premium
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+
+bpk-tv/irdeto_com_Channel_254/output/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+##########################################################################
+########################################################################
+########################################################################
+
+
 
 
