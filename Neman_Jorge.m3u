@@ -7569,3 +7569,14 @@ https://chromecast.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_T
 #EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CANALES FLOW"  ,Canal 12 CÓRDOBA
 https://chromecast.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", El TRECE IPTV
+http://45.5.151.151:8000/play/a0cp/index.m3u8
+
