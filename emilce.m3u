@@ -4355,3 +4355,221 @@ https://ythls.armelin.one/channel/UCOdvb87kehTSzs1pfVExHwA.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", El TRECE IPTV
 http://45.5.151.151:8000/play/a0cp/index.m3u8
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 2 (opc 2)
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22097
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1 (opc 3)
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22098
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1 (opc2)
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1115228
+#EXTINF:-1 tvg-id="FoxSportsArgentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png",Fox Sports 1
+http://181.13.173.86:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2Argentina.ar" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png",Fox Sports 2
+http://181.13.173.86:8000/play/a0ai/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" group-title="FOX SPORTS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png",Fox Sports 3
+http://181.13.173.86:8000/play/a02t/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="FoxSports.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%20128.png" group-title="FOX SPORTS", Fox Sports 🇦🇷 SV2
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/144
+#EXTINF:-1 tvg-name="FoxSports2.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="FOX SPORTS", Fox Sports 2 🇦🇷 SV1
+https://848b3516657c-argentinatv.baby-beamup.club/public/m3u/788.m3u8
+#EXTINF:-1 tvg-name="FoxSports2.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%202%20128.png" group-title="FOX SPORTS", Fox Sports 2 🇦🇷 SV2
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/85
+#EXTINF:-1 tvg-name="FoxSports3Panregional.us" tvg-logo="https://telecentro.com.ar/img/cm/channels/Fox%20Sports%203%20128.png" group-title="FOX SPORTS", Fox Sports 3 🇦🇷 SV2
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/84
+
+
+
+
+
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="FOX SPORTS", F1 DAZN SV1
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/278202
+
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="FOX SPORTS", F1 DAZN SV2
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/278204
+
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="FOX SPORTS", F1 DAZN SV3
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/278205
+
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="FOX SPORTS", F1 DAZN SV4
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/291859
+
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvFTwR9nBkTcUn3Gqqe_H-xo4JrstVVAX_8g&s" group-title="FOX SPORTS", F1 DAZN SV5
+http://visualservice.xyz:8080/Ita/Sf2ZqPD/291860
+
+
+
+
+
+
+
+
+
+#################################################################################
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="TYC SPORTS", TYC SPORTS opc 1
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/22077
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="TYC SPORTS", TYC SPORTS opc 2
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50624
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="TYC SPORTS", TYC SPORTS opc 3
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1116305
+
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="TYC SPORTS", TYC Sports Opc 4
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/1120342
+
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="TYC SPORTS",TYC Sports Opc 5
+http://home-playtv.com:8080/marcelalopez/CHXRH/188939
+
+#EXTINF:-1 tvg-ID="" tvg-name="TYC SPORT" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="TYC SPORTS",TYC Sports Opc 6
+http://181.13.173.86:8000/play/a02s/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="TyCSports.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="TYC SPORTS", TyC Sports 🇦🇷 SV1
+http://38.187.2.125:8000/play/a02h
+
+
+
+#EXTINF:-1 tvg-name="TyCSports.ar" tvg-logo="https://telecentro.com.ar/img/cm/channels/tycsports@2x.png" group-title="TYC SPORTS", TyC Sports 🇦🇷 SV3
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/148
+
+
+
+
+
+
+
+
+#######################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="TNT SPORTS 1" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="TNT SPORTS",TNT SPORTS 1
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50841
+#EXTINF:-1 tvg-ID="TNT SPORTS 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="TNT SPORTS",TNT SPORTS 2
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50842
+#EXTINF:-1 tvg-ID="TNT SPORTS 3" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="TNT SPORTS",TNT SPORTS 3
+http://181.13.173.86:8000/play/a02u/index.m3u8
+
+
+
+#EXTINF:-1 tvg-name="TNTSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="TNT SPORTS", TNT Sports 🇦🇷 SV2
+https://848b3516657c-argentinatv.baby-beamup.club/public/m3u/388.m3u8
+
+
+
+#EXTINF:-1 tvg-name="TNTSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1280px-TNT_Sports_2021_logo.svg.png" group-title="TNT SPORTS", TNT Sports 🇦🇷 SV5
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/147
+
+
+
+
+
+
+
+
+
+
+
+######################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="Argentina|| Espn PREMIUM##" tvg-logo="" group-title="ESPN SPORTS",Espn PREMIUM ARG 1
+http://moontools.me:8080/B.O.S.S_I.P/WycFeigyEn/50839
+
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="ESPN SPORTS",ESPN PREMIUM ARG 2
+http://ultrapremium.cloud:8080/973315751tv/i5f7ik/542
+
+#EXTINF:-1 tvg-id="espn.ec" tvg-name="DEP| ESPN PREMIUM" tvg-logo="" group-title="ESPN SPORTS",ESPN PREMIUM ARG 3
+http://181.13.173.86:8000/play/a078/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="ESPNPremium.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/ESPN_Premium_%28red_and_white%29_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173110&path-prefix=es" group-title="ESPN SPORTS", ESPN Premium 🇦🇷 SV4
+http://supernovatv.info:8080/res119df/dxStCkB9CkAV/99
+
+
+
+
