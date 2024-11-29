@@ -5543,8 +5543,20 @@ AGREGADO
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="││EUROPA EUROPA││" tvg-logo="https://static.epg.best/mx/EuropaEuropa.mx.png" group-title= "CINE JN", EUROPA EUROPA
-http://fastream.xyz:8080/alealejandra/bgZS147/59495
+
+#EXTINF:-1 tvg-logo="https://heroeip.github.io/logo/Europa.png", EUROPA EUROPA
+#EXTGRP:JORGE NEMAN
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Firefox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
+#KODIPROP:inputstream.adaptive.license_key_old={"keys": [{"kty": "oct","k": "vcnxaWqC7nOY3Tp/qCMA4g","kid": "tH8lffAxTQmn+DVcOr4dxg"}],"type": "temporary"}
+https://edge-live02-mun.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd
+
 
 
 
@@ -6872,7 +6884,7 @@ https://chromecast.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_2A/Euro
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
-#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="CANALES FLOW"  ,Europa Europa
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="JORGE NEMAN"  ,Europa Europa
 https://chromecast.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
