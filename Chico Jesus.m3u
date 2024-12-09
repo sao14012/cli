@@ -92,6 +92,17 @@ http://181.209.95.29:8000/play/a0a9/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
 
+
+
+
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE op1
+https://radiosargentina.com.ar/php/tvm3u.php?id=DIAR0088
+
+
+
+
+
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", EL TRECE
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
