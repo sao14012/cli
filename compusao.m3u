@@ -828,6 +828,37 @@ https://cdn.sensa.com.ar/live/eds/History/live_dash_cld/History.mpd
 #EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/99/CH_LOGO/160/160/0/0/16627153073621.png" group-title="...SENSA",🐾  HISTORY 2 
 https://cdn.sensa.com.ar/live/eds/History2/live_dash_cld/History2.mpd
 
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://heroeip.github.io/logo/History_1.png", HISTORY 3
+#EXTGRP:DOCUMENTALES
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Firefox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://jmp2.uk/sam-US2600019IC.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
