@@ -3933,7 +3933,7 @@ https://webhdrus.onlinehdhls.ru/lb/premium410/index.m3u8|Origin=https://webliveh
 
 
 #EXTINF:-1 tvg-logo="https://heroeip.github.io/logo/History_1.png", HISTORY 3
-#EXTGRP:DOCUMENTALES
+#EXTGRP:...SENSA
 #EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="Firefox"
