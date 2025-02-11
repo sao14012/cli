@@ -2330,7 +2330,10 @@ https://cdn.sensa.com.ar/output/ARR3/SADD/output.mpd
 
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
+#EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://cdn.mitvstatic.com/channels/mx_europa-europa_m.png" group-title="CANALES FLOW"  ,Europa Europa
+https://chromecast.cvattv.com.ar/live/c6eds/Europa_Europa/SA_Live_dash_enc_2A/Europa_Europa.mpd
 
 
 
