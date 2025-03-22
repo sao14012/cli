@@ -1697,10 +1697,7 @@ https://musicsrc.cvattv.com.ar/RNAC
 nacionales, aire y noticias
 
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-#EXTINF:-1  tvg-id="Argentinisima Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="Argentina", Argentinísima Satelital
-https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd?|referer=https://web.app.flow.com.ar/|origin=https://web.app.flow.com.ar
+
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
