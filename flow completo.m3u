@@ -29,7 +29,7 @@
 
 #EXTM3U url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
 
-#EXTM3U url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml.gz"
+#EXTM3U url-tvg="https://ett.re/franco_arg"
 
 nacionales, aire y noticias
 
