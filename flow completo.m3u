@@ -27,7 +27,7 @@
 
 
 
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz,https://www.open-epg.com/files/chile2.xml.gz"
+#EXTM3U url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
 
 #EXTM3U url-tvg="https://ett.re/franco_arg,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguaypremium2.xml.gz"
 
