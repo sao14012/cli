@@ -3897,3 +3897,10 @@ http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", LA PINOCHA VILLA GESELL
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_telefe_m.png" group-title="ARGENTINA",Telefe
+http://181.13.173.86:8000/play/a06c/index.m3u8
