@@ -5029,6 +5029,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="Deportes MX", FOX SPORTS PREMIUM MX
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5052,6 +5054,10 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11c8c1c2ef0385cf1e64d44bb9c3a395":"5769730ffbdc4b2fd8945929d9ace063"}
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+
+
+
 
 
 
@@ -6132,6 +6138,8 @@ https://sam-py-edge01.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c377201
 
 
 
+
+
 ##########################################################################################################
 ############################################################################################################
 
@@ -6668,6 +6676,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", France 24 ESPAÑOL
 http://200.26.177.54:8000/play/a0hu/index.m3u8
+
 
 
 

@@ -5031,10 +5031,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HtXvSMJ/fsp.png" group-title="Deportes MX", FOX SPORTS PREMIUM MX
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5071,6 +5067,9 @@ https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="FOLKLORE", EL FOLKLORICO
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
+
+
+
 
 
 
@@ -6137,6 +6136,10 @@ https://sam-py-edge01.tigo.com.py/ccur-session/f9de91d275e9428d9b2020eaf9c377201
 
 
 
+
+
+
+
 ##########################################################################################################
 ############################################################################################################
 
@@ -6673,7 +6676,6 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 
 #EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="Internacionales", France 24 ESPAÑOL
 http://200.26.177.54:8000/play/a0hu/index.m3u8
-
 
 
 
