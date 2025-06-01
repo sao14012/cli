@@ -1622,10 +1622,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
 
 
 
-
-
-
-
 ######################################salio de otra flow muy completa#################################################
 
 
@@ -2722,7 +2718,6 @@ https://chromecast.cvattv.com.ar/live/c6eds/Playboy/SA_Live_dash_enc/Playboy.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=origin="https://web.app.flow.com.ar/"
 https://chromecast.cvattv.com.ar/live/c6eds/Venus/SA_Live_dash_enc/Venus.mpd
-
 
 
 
