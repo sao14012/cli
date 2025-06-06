@@ -3879,7 +3879,7 @@ https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd?|referer=htt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"N_69vQp0V9iMCsBpqnZ9og","k":"Tm_qrTFspFY07MWRC7UJvw"},{"kty":"oct","kid":"rNyTNwKSVu2Nbkmh-sj-sg","k":"TndZABR2oCrBr6DSFAMlXg"},{"kty":"oct","kid":"FxWed5giX_WFxSniN97mIg","k":"nBo7Fl9fV40ORfd3ok097g"},{"kty":"oct","kid":"2cg8nMqLVYy7aUfKhVF6wQ","k":"DAnQQ22DqecWIFa6Z04fuA"}],"type":"temporary"}
-#EXTINF:-1 ch-number="423" tvg-id="alacocina" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Culturales", ALaCocina TV
+#EXTINF:-1 ch-number="423" tvg-id="alacocina" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CANALES FLOW 251", ALaCocina TV
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000067/index.mpd?|Origin="android_mobile.directvgo.com"
@@ -5463,7 +5463,7 @@ https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd?|referer=htt
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"N_69vQp0V9iMCsBpqnZ9og","k":"Tm_qrTFspFY07MWRC7UJvw"},{"kty":"oct","kid":"rNyTNwKSVu2Nbkmh-sj-sg","k":"TndZABR2oCrBr6DSFAMlXg"},{"kty":"oct","kid":"FxWed5giX_WFxSniN97mIg","k":"nBo7Fl9fV40ORfd3ok097g"},{"kty":"oct","kid":"2cg8nMqLVYy7aUfKhVF6wQ","k":"DAnQQ22DqecWIFa6Z04fuA"}],"type":"temporary"}
-#EXTINF:-1 ch-number="423" tvg-id="alacocina" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="Culturales", ALaCocina TV
+#EXTINF:-1 ch-number="423" tvg-id="alacocina" tvg-name="" tvg-country="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY3X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="CANALES FLOW 251", ALaCocina TV
 #EXTVLCOPT:http-origin=android_mobile.directvgo.com
 #EXTVLCOPT:http-user-agent=dgo/4.48.0 (Android; Android 7.1.2; Asus; ASUS_Z01QD) ExoPlayer/2.19.1
 http://m.mtd.llc:8880/CH0100000000067/index.mpd?|Origin="android_mobile.directvgo.com"
