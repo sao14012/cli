@@ -2589,43 +2589,43 @@ https://cdn.sensa.com.ar/bpk-tv/RadioMaria/default/index.mpd?|referer=https://pl
 
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24 group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/11045/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/canal_rural_ar.png" , Canal Rural
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/canal_rural_ar.png" , Canal Rural group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/11053/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tv_publica_ar.png" , TV Publica HD
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tv_publica_ar.png" , TV Publica HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/11042/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/canal_26_ar.png" , 26TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/canal_26_ar.png" , 26TV group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/11055/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/c5n.png" , C5N
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/c5n.png" , C5N group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/7699/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/america_ar.png" , America HD
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/america_ar.png" , America HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/6564/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/todo_noticias.png" , Todo Noticias HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/todo_noticias.png" , Todo Noticias HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/6589/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/el_trece_internacional.png" , El Trece HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/el_trece_internacional.png" , El Trece HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/6563/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telefe_internacional_ar.png" ,Telefe HD
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telefe_internacional_ar.png" ,Telefe HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/6562/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telefe_internacional_ar.png" ,Telefe Internacional
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/telefe_internacional_ar.png" ,Telefe Internacional group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/1001/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/cronica_tv.png" ,CronicaTV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/cronica_tv.png" ,CronicaTV group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/7717/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/encuentro_ar.png" ,Encuentro
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/encuentro_ar.png" ,Encuentro group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/7767/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/deportv-ar.png" ,DeporTV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/deportv-ar.png" ,DeporTV group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/11046/playlist.m3u8
 
 
@@ -2635,191 +2635,189 @@ https://otakon.bemtv.cn/STREAM/11046/playlist.m3u8
 
 
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/animal_planet_us.png" , Animal Planet HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/animal_planet_us.png" , Animal Planet HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/13044/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/nat_geo_us.png" , National Geographic HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/nat_geo_us.png" , National Geographic HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/13032/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/discovery_us.png" , Discovery Channel HD
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/discovery_us.png" , Discovery Channel HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/579/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_science_lam.png" , Discovery Science
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_science_lam.png" , Discovery Science group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/9116/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_turbo_us.png" , Discovery Turbo
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_turbo_us.png" , Discovery Turbo group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/391/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_hd_theater_lam.png" , Discovery Theater HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_hd_theater_lam.png" , Discovery Theater HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/580/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_hd_world_lam.png" , Discovery World HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_hd_world_lam.png" , Discovery World HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/9653/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/historyhd.png" , History  HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/historyhd.png" , History  HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/22844/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/history_2_lam.png" , H2 HD
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/history_2_lam.png" , H2 HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/13043/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/history_2_lam.png" , H2
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/history_2_lam.png" , H2 group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/369/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/discovery_turbo_us.png" , Turbo HD
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/discovery_turbo_us.png" , Turbo HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/9115/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/el_gourmet_ar.png" , EL Gourmet HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/el_gourmet_ar.png" , EL Gourmet HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/12269/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/el_gourmet_ar.png" , El Gourmet
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/el_gourmet_ar.png" , El Gourmet group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/1005/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/love_nature_ca.png" , Love Nature HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/love_nature_ca.png" , Love Nature HD group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/22356/playlist.m3u8
 
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/claro_sports_mx.png" , Claro Sports HD
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/claro_sports_mx.png" , Claro Sports HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/8515/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/claro_sports_mx.png" , Claro Sports 2
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/claro_sports_mx.png" , Claro Sports 2 group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/22868/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/cdo_cl_basico.png" , CDO Basico
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/cdo_cl_basico.png" , CDO Basico group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/1018/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png", CDO Premium 
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_cdo-basico_m.png", CDO Premium  group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/23290/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnthd.png" , TNT Sports HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnthd.png" , TNT Sports HD group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/11604/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt2.png" , TNT Sports 2 HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt2.png" , TNT Sports 2 HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/22614/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt2.png" , TNT Sports 2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt2.png" , TNT Sports 2 group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/386/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt3.png" , TNT Sports 3 HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt3.png" , TNT Sports 3 HD group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/21842/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt3.png" , TNT Sports 3
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tnt3.png" , TNT Sports 3 group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/412/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/16059/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/22877/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports Int HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tyc_sports.png" , TYC Sports Int HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/6810/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tntsport.png" , TNT Sports HD (ARG)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/tntsport.png" , TNT Sports HD (ARG) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/10914/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/tudn.png" , TUDN HD - EEUU
-https://bigboss.bemtv.cn/STREAM/1735/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_deportes_us.png" , Fox Deportes HD
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_deportes_us.png" , Fox Deportes HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/1736/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium HD (Chile)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium HD (Chile) group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/409/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 7 HD
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 7 HD group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/8518/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 6 HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 6 HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/11464/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox-sports.png" , Fox Sports Premium HD (Mexico)
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox-sports.png" , Fox Sports Premium HD (Mexico) group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/11463/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" , Fox Sports HD (Mexico)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" , Fox Sports HD (Mexico) group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/22883/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" , Fox Sports 2 HD (Mexico)
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" , Fox Sports 2 HD (Mexico) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/22890/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" , Fox Sports 3 HD (Mexico)
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" , Fox Sports 3 HD (Mexico) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/22891/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 5 HD BR
-https://metalgear.bemtv.cn/STREAM/8326/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium HD (ARG)
+
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN Premium HD (ARG) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/7782/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN MX
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN MX group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/23624/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" , Fox Sports 2 HD (ARG)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_2_lam.png" , Fox Sports 2 HD (ARG) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/22892/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (Norte)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (Norte) group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/711/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (Sur)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (Sur) group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/10923/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (ARG)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN HD (ARG) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/474/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (ARG)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (ARG) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/22612/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 MX
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 MX group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/23625/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Colombia)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Colombia) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/13020/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Norte)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Norte) group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/588/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Sur)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_dos_mx.png" , ESPN 2 HD (Sur) group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/11605/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 MX
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 MX group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/23626/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (ARG)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (ARG) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/22651/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (Norte)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (Norte) group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/708/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (Sur)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD (Sur) group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/11468/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn4.png" , ESPN 4 HD (Norte)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn4.png" , ESPN 4 HD (Norte) group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/466/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 5 HD (Sur)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 5 HD (Sur) group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/22872/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_deportes.png" , ESPN Deportes HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_deportes.png" , ESPN Deportes HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/732/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 5 HD (Norte)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 5 HD (Norte) group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/11608/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_br.png" , ESPN 1 HD BR
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_br.png" , ESPN 1 HD BR group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/8322/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 2 HD BR
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 2 HD BR group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/8324/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD BR
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_3_lam.png" , ESPN 3 HD BR group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/22838/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn4.png" , ESPN 4 HD BR
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn4.png" , ESPN 4 HD BR group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/8328/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 6 HD BR
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/espn_lam.png" , ESPN 6 HD BR group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/8320/playlist.m3u8
-
-#EXTINF:0 type="stream" channelId="524" tvg-logo="http://meta.nordvpn.best/nba_tv_us.png" , NBA TV HD
+ 
+#EXTINF:0 type="stream" channelId="524" tvg-logo="http://meta.nordvpn.best/nba_tv_us.png" , NBA TV HD group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/9083/playlist.m3u8
 
 
@@ -2828,62 +2826,62 @@ https://otakon.bemtv.cn/STREAM/9083/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/dazn1.png", DAZN 1 
+#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/dazn1.png", DAZN 1  group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/22992/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/dazn2.png", DAZN 2 
+#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/dazn2.png", DAZN 2  group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/22993/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/dazn3.png", DAZN 3 
+#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/dazn3.png", DAZN 3  group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/23076/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/daznlaliga.png", DAZN LaLiga 
+#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/daznlaliga.png", DAZN LaLiga  group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/23077/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-golf.png", Movistar - Golf I 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-golf.png", Movistar - Golf I  group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/12243/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-vamos.png", Movistar Vamos 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-vamos.png", Movistar Vamos  group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/23014/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-ligadecampeones.png", Movistar - Liga de Campeones 1 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-ligadecampeones.png", Movistar - Liga de Campeones 1  group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/881/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-ligadecampeones.png", Movistar - Liga de Campeones 2 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-ligadecampeones.png", Movistar - Liga de Campeones 2  group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/23015/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-la-liga.png", Movistar - La Liga 2 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/movistar-la-liga.png", Movistar - La Liga 2  group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/23016/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/deportes1-movistar.png", Movistar - Deportes I 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/deportes1-movistar.png", Movistar - Deportes I  group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/23018/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport1.png", Eurosport 1 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport1.png", Eurosport 1  group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/22813/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport2.png", Eurosport 2 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/eurosport2.png", Eurosport 2  group-title="OPCION 3"
 https://metalgear.bemtv.cn/STREAM/23019/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/daznf1.png", DAZN F1 
+#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/daznf1.png", DAZN F1  group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/23021/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" , Fox Sports 3 HD (ARG)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_3_lam.png" , Fox Sports 3 HD (ARG) group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/23022/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" , Fox Sports HD (ARG)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/fox_sports_global.png" , Fox Sports HD (ARG) group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/23023/playlist.m3u8
 
 
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_us_west.png" , Discovery HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/discovery_us_west.png" , Discovery HD group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/14500/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/history_lam.png" , History Channel
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/history_lam.png" , History Channel group-title="OPCION 3"
 https://bigboss.bemtv.cn/STREAM/16083/playlist.m3u8
 
 
 
-#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24"  group-title="CLARO TV"
+#EXTINF:0 type="stream" channelId="424" tvg-logo="http://meta.nordvpn.best/a24.jpg",A24"  group-title="OPCION 3" group-title="OPCION 3"
 https://otakon.bemtv.cn/STREAM/11045/playlist.m3u8
 
 
