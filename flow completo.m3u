@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-id="-" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/800px-Logo_TV_2015.svg.png" group-title="EVENTOS" content-type="playlist", EVENTOS
+#EXTINF:-1 tvg-id="-" group-logo="https://github.com/sao14012/cli/blob/main/LOGO%20IPTV.png" group-title="EVENTOS" content-type="playlist", EVENTOS
 https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/Eventos.m3u
 
 
@@ -5694,11 +5694,9 @@ ________________________________________________________________________________
 
 
 
-
-
 #EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml"
 
-#EXTINF:-1  group-logo="https://github.com/sao14012/cli/blob/main/LOGO%20IPTV.png"  group-title="CLARO TV"",26TV
+#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png"  group-title="CLARO TV"",26TV
 http://201.217.246.177:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png" group-title="CLARO TV"",A&E 
 http://201.217.246.177:8000/play/a05i/index.m3u8
@@ -5906,17 +5904,3 @@ http://201.217.246.177:8000/play/a02h/index.m3u8
 http://201.217.246.177:8000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="CLARO TV",el trece 
 http://201.217.246.177:8000/play/a06d/index.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
