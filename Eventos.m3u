@@ -1,6 +1,7 @@
 #EXTM3U refresh="0.01"
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sao14012/cli/blob/main/LOGO%20IPTV.png" group-title="EVENTOS" content-type="playlist", EVENTOS
+https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/Eventos.m3u
 
 
 #EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://i.ibb.co/bF51zms/1200px-DAZN-F1-logo-svg.png" group-title="EVENTOS", DAZN  F1
