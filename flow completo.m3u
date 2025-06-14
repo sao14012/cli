@@ -7,6 +7,18 @@ group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="-" group-
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="EVENTOS" content-type="playlist", EVENTOS
+https://raw.githubusercontent.com/SebastyanG/Argentina/refs/heads/main/Eventos.m3u
+
+
+
+
+
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
 #EXTINF:-1  group-logo="https://web.app.flow.com.ar/theme/flow/logo.svg" tvg-logo="https://static.flow.com.ar/images/262/CH_LOGO/60/40/0/0/23207383073458.png" group-title="CANALES FLOW" ,A24
