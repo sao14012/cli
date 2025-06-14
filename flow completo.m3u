@@ -2,7 +2,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 group-logo=="https://github.com/sao14012/cli/blob/main/LOGO%20IPTV.png" group-title="jjjj" content-type="playlist", jjjj
+https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/Eventos.m3u
 
 
 
