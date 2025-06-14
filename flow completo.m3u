@@ -5698,7 +5698,7 @@ ________________________________________________________________________________
 
 #EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml"
 
-#EXTINF:-1  group-logo="https://github.com/sao14012/cli/blob/main/LOGO%20IPTV.png"  group-title="CLARO TV"",26TV
+#EXTINF:-1  group-logo=""  group-title="CLARO TV"",26TV
 http://201.217.246.177:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png" group-title="CLARO TV"",A&E 
 http://201.217.246.177:8000/play/a05i/index.m3u8
