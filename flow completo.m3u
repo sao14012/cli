@@ -3,7 +3,7 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/sao14012/cli/blob/main/LOGO%20IPTV.png" group-title="EVENTOS" content-type="playlist", EVENTOS
+#EXTINF:-1 tvg-id="-" group-logo="https://github.com/sao14012/cli/blob/main/LOGO%20IPTV.png" group-title="EVENTOS" content-type="playlist", EVENTOS
 https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/Eventos.m3u
 
 
