@@ -13,3 +13,12 @@ https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/Eventos
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="CANALES1" content-type="playlist", Canales1
 https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/Canales1
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Disney%2B_dark-blue_on-screen_logo.svg/revision/latest/scale-to-width-down/300?cb=20230326104714" group-title="CANALES" content-type="playlist", CANALESFLOW
+https://raw.githubusercontent.com/sao14012/OPCIONES/refs/heads/main/CANALESFLOW
