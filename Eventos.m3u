@@ -1,6 +1,4 @@
-
-
-#EXTM3U refresh="0.01"
+#EXTM3U 
 
 #EXTINF:-1 group-title="EVENTOS" tvg-id="Eventos.UY" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EVNTD.png?raw=true", Eventos 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
