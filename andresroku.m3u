@@ -310,3 +310,7 @@ https://bigboss.bemtv.cn/STREAM/14500/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://meta.nordvpn.best/history_lam.png" , History Channel
 https://bigboss.bemtv.cn/STREAM/16083/playlist.m3u8
 
+
+
+#EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", FIFA 1
+https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
