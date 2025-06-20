@@ -10029,38 +10029,29 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/800/542/0/0/61680399078962.png"  group-title="DIRECTV SPORTS",Claro Sports HD
+#EXTINF:-1, tvg-logo="https://meta.nordvpn.best/laredcl.png" ,group-title="DIRECTV SPORTS"
+http://201.230.137.204:8000/play/a0jx/index.m3u8
+
+
+
+#EXTINF:-1, Claro Sports HD, group-title="DIRECTV SPORTS"
 http://home-playtv.com:8080/NATALIA678/SGYXW/164262
-
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/800/542/0/0/61680399078962.png"  group-title="DIRECTV SPORTS",DirecTV Sports
+#EXTINF:-1, DirecTV Sports, group-title="DIRECTV SPORTS"
 http://home-playtv.com:8080/NATALIA678/SGYXW/158511
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/3441/CH_LOGO/800/542/0/0/61680399078962.png"  group-title="DIRECTV SPORTS",DirecTV Sports 2 COL
+#EXTINF:-1, DirecTV Sports 2 COL, group-title="DIRECTV SPORTS"
 http://home-playtv.com:8080/NATALIA678/SGYXW/257326
-
-
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/tudn.png"  group-title="DIRECTV SPORTS",TUDN
+#EXTINF:-1, TUDN, group-title="DIRECTV SPORTS"
 http://200.229.147.142:8000/play/a05b/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://meta.nordvpn.best/skysportsmx.png"  group-title="DIRECTV SPORTS",Sky Sports
+#EXTINF:-1, Sky Sports, group-title="DIRECTV SPORTS"
 http://200.229.147.142:8000/play/a03h/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png"  group-title="DIRECTV SPORTS",WIN Sports
+#EXTINF:-1, WIN Sports, group-title="DIRECTV SPORTS"
 http://190.102.123.28:8097/play/a0kp/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png"  group-title="DIRECTV SPORTS",WIN SPORT + 1
+#EXTINF:-1, WIN SPORT + 1, group-title="DIRECTV SPORTS"
 http://45.184.87.142:8000/play/a04d
-
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png"  group-title="DIRECTV SPORTS",WIN SPORT + 2
+#EXTINF:-1, Win SPORTS + 2, group-title="DIRECTV SPORTS"
 http://1play.cool:25461/streaming/clients_live.php?username=2132580232&password=27be478b47&stream=39957&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://meta.nordvpn.best/win-sportco.png"  group-title="DIRECTV SPORTS",WIN SPORT + 3
+#EXTINF:-1, Win SPORTS + 3, group-title="DIRECTV SPORTS"
 http://181.78.7.90:12500/play/a0nh/index.m3u8
-
 
 
 
@@ -11013,8 +11004,6 @@ EVENTOS MLS
 
 
 
-
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=48d0e34c8797c5c2a742d2630a8fb975:fb5d12b9d8febe836e5670abd003ddca
 #EXTINF:-1 ch-number="141" tvg-id="Eventos.UY" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg" group-title="Mundial de Clubes - FIFA", Conect Eventos
@@ -11025,4 +11014,5 @@ https://cdn.cvattv.com.ar/live/c7eds/Eventos_HD_Uy/SA_Live_dash_enc/Eventos_HD_U
 
 #EXTINF:-1 group-title="Mundial de Clubes - FIFA" tvg-name="conect" tvg-logo="https://i.ibb.co/yBxFktW2/GHMKASZKH5-FATO6-MMTEH2-EREPY.jpg", FIFA 1
 https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
+
 
