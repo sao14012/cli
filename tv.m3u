@@ -1,0 +1,219 @@
+#EXTM3U refresh="0.01" url-tvg="https://www.open-epg.com/files/argentina3.xml,https://www.open-epg.com/files/uruguay2.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiaiptv.xml"
+
+#EXTINF:-1  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/2000px-Claro_TV_wordmark.svg.png"  group-title="CLARO TV"",26TV
+http://201.217.246.177:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/242/CH_LOGO/60/40/0/0/45444272073059.png" group-title="CLARO TV"",A&E 
+http://201.217.246.177:8000/play/a05i/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="CLARO TV"",A24
+http://201.217.246.177:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Amsports.png" group-title="CLARO TV"",AM Sports
+http://201.217.246.177:8000/play/a01v/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/53/CH_LOGO/160/160/0/0/29332619071250.png" group-title="CLARO TV"",AMC
+http://201.217.246.177:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="CLARO TV"",ARGENTINISIMA
+http://201.217.246.177:8000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/263/CH_LOGO/60/40/0/0/92889820071862.png" group-title="CLARO TV"",AXN HD
+http://201.217.246.177:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="CLARO TV"",Adult swim 
+http://201.217.246.177:8000/play/a0a5/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="CLARO TV"",America TV 
+http://201.217.246.177:8000/play/a055/index.m3u8
+#EXTINF:-1   tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/160/160/0/0/2335855007695.png" group-title="CLARO TV"",Baby TV
+http://201.217.246.177:8000/play/a02e/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/65/CH_LOGO/60/40/0/0/2980387507709.png"  group-title="CLARO TV",C5N
+http://201.217.246.177:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",CANAL 9 LINK
+http://201.217.246.177:8000/play/a0a1/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",CNN en Espaæol
+http://201.217.246.177:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Canal a
+http://201.217.246.177:8000/play/a09j/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Canal de la Ciudad
+http://201.217.246.177:8000/play/a06e/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png"  group-title="CLARO TV",Cartoon Network 
+http://201.217.246.177:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CLARO TV",Cine.AR
+http://201.217.246.177:8000/play/a024/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/46/CH_LOGO/160/160/0/0/53485573073445.png" group-title="CLARO TV",Cinecanal 
+http://201.217.246.177:8000/play/a07b/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/60/40/0/0/57692590073142.png" group-title="CLARO TV",Cinemax
+http://201.217.246.177:8000/play/a04s/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="CLARO TV",Comedy Central 
+http://201.217.246.177:8000/play/a02x/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png"  group-title="CLARO TV",Crðnica
+http://201.217.246.177:8000/play/a01q/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="CLARO TV",DeporTV
+http://201.217.246.177:8000/play/a06h/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/66/CH_LOGO/160/160/0/0/6146615007111.png"  group-title="CLARO TV",Discovery Channel 
+http://201.217.246.177:8000/play/a07i/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" group-title="CLARO TV",Discovery H&H 
+http://201.217.246.177:8000/play/a07h/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" group-title="CLARO TV",Discovery Kids
+http://201.217.246.177:8000/play/a06t/index.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/261/CH_LOGO/160/160/0/0/9654717907493.png" group-title="CLARO TV",Discovery Science
+http://201.217.246.177:8000/play/a02k/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/68/CH_LOGO/160/160/0/0/72670030071181.png" group-title="CLARO TV",Discovery Theater 
+http://201.217.246.177:8000/play/a02z/index.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" group-title="CLARO TV",Discovery Turbo
+http://201.217.246.177:8000/play/a01w/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/681/CH_LOGO/60/40/0/0/68418478071389.png" group-title="CLARO TV",Discovery World 
+http://201.217.246.177:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/275/CH_LOGO/60/40/0/0/13885222074367.png"  group-title="CLARO TV",Disney Channel 
+http://201.217.246.177:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/276/CH_LOGO/60/40/0/0/5684077607756.png"  group-title="CLARO TV",Disney Junior
+http://201.217.246.177:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",E! Entertainment
+http://201.217.246.177:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",EL FOLKLORICO TV
+http://201.217.246.177:8000/play/a0aa/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",ENLACE
+http://201.217.246.177:8000/play/a09q/index.m3u8
+#EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2.png" group-title="CLARO TV",ESPN 2 
+http://201.217.246.177:8000/play/a059/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="CLARO TV",ESPN 3 
+http://201.217.246.177:8000/play/a05b/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/160/160/0/0/16514023071132.png" group-title="CLARO TV",ESPN 4 
+http://201.217.246.177:8000/play/a076/index.m3u8
+#EXTINF:-1  tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN.png" group-title="CLARO TV",ESPN HD
+http://201.217.246.177:8000/play/a05a/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="CLARO TV",ESPN Premium 
+http://201.217.246.177:8000/play/a078/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rapidcitydiocese.org/wp-content/uploads/2020/03/ewtn-logo.jpg"  group-title="CLARO TV",EWTN
+http://201.217.246.177:8000/play/a09s/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="CLARO TV",El Canal  de las Estrellas
+http://201.217.246.177:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/295/CH_LOGO/60/40/0/0/9907571507125.png"  group-title="CLARO TV",El Gourmet
+http://201.217.246.177:8000/play/a06w/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/122/CH_LOGO/160/160/0/0/1011215007477.png" group-title="CLARO TV",Encuentro
+http://201.217.246.177:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Europa Europa
+http://201.217.246.177:8000/play/a06v/index.m3u8
+#EXTINF:-1  tvg-logo="https://geo.edge.pontiscloud.com:9002/images/97/CH_LOGO/160/160/0/0/35224800072040.png" group-title="CLARO TV",FX 
+http://201.217.246.177:8000/play/a02v/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.flow.com.ar/images/691/CH_LOGO/60/40/0/0/444140520763.png" group-title="CLARO TV",Film & Arts 
+http://201.217.246.177:8000/play/a030/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png" group-title="CLARO TV",Fox Sports 2 
+http://201.217.246.177:8000/play/a05c/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_3_asia.png" group-title="CLARO TV",Fox Sports 3 
+http://201.217.246.177:8000/play/a02t/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png" group-title="CLARO TV",Fox Sports 
+http://201.217.246.177:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Galicia TV
+http://201.217.246.177:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HBO
+http://201.217.246.177:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HBO 2
+http://201.217.246.177:8000/play/a06q/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HBO Family
+http://201.217.246.177:8000/play/a06r/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HBO Mundi
+http://201.217.246.177:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HBO POP
+http://201.217.246.177:8000/play/a09m/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HBO Plus
+http://201.217.246.177:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HBO Signature
+http://201.217.246.177:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HBO Xtreme
+http://201.217.246.177:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HGTV
+http://201.217.246.177:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",HTV
+http://201.217.246.177:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",History 2
+http://201.217.246.177:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",History Channel
+http://201.217.246.177:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",La Nacion TV
+http://201.217.246.177:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Lifetime
+http://201.217.246.177:8000/play/a06n/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",MTV
+http://201.217.246.177:8000/play/a02m/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",MTV×00
+http://201.217.246.177:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Metro
+http://201.217.246.177:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Nat Geo 
+http://201.217.246.177:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Nick Jr
+http://201.217.246.177:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Nickelodeon
+http://201.217.246.177:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",PASIONES
+http://201.217.246.177:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Pakapaka
+http://201.217.246.177:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Paramount 
+http://201.217.246.177:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Quiero Musica
+http://201.217.246.177:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",RAI Italia
+http://201.217.246.177:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Rural
+http://201.217.246.177:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Somos Uno
+http://201.217.246.177:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Sony 
+http://201.217.246.177:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Sony Movies 
+http://201.217.246.177:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Space 
+http://201.217.246.177:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Star Channel 
+http://201.217.246.177:8000/play/a079/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Studio Universal
+http://201.217.246.177:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",T5 SATELITAL
+http://201.217.246.177:8000/play/a0a0/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TCM
+http://201.217.246.177:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TELEMUNDO
+http://201.217.246.177:8000/play/a09r/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TLNovelas
+http://201.217.246.177:8000/play/a09v/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TN 
+http://201.217.246.177:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TNT 
+http://201.217.246.177:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TNT Novelas 
+http://201.217.246.177:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TNT Series 
+http://201.217.246.177:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TNT Sports 
+http://201.217.246.177:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TV Publica 
+http://201.217.246.177:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TVE
+http://201.217.246.177:8000/play/a072/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Telefe 
+http://201.217.246.177:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",The History Channel 
+http://201.217.246.177:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",TyC Sports 
+http://201.217.246.177:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",USA Network
+http://201.217.246.177:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Universal 
+http://201.217.246.177:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Volver
+http://201.217.246.177:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",Warner Channel 
+http://201.217.246.177:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",canal 8 san cosme
+http://201.217.246.177:8000/play/a0ac/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",ciudad magazine
+http://201.217.246.177:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",el nueve 
+http://201.217.246.177:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="CLARO TV",el trece 
+http://201.217.246.177:8000/play/a06d/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="CLARO TV",FIFA 1
+https://otakon.bemtv.cn/STREAM/22647/playlist.m3u8
+
