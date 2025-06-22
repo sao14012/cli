@@ -63,7 +63,7 @@ http://38.211.242.128:8001/play/a09s/index.m3u8
 http://38.211.242.128:8001/play/a05g/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="SAO Sports", Tango Sports 1
+#EXTINF:-1 tvg-logo="https://github.com/sao14012/cli/blob/main/logos/logo%20SAO%20Sports.png" group-title="SAO Sports", Tango Sports 1
 http://143.0.67.77:8000/play/a078/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="SAO Sports", Tango Sports 2
