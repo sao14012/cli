@@ -7,7 +7,7 @@
 #EXTM3U       
   
 
-#EXTINF:-1 tvg-logo="https://github.com/sao14012/cli/main/logos/400x400%20sao%20sports%20PRUEBA.png", TyC SPORTS 
+#EXTINF:-1 tvg-logo="https://github.com/sao14012/cli/logos/400x400%20sao%20sports%20PRUEBA.png", TyC SPORTS 
 http://186.125.218.199:13000/play/a02s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="SAO Sports", TyC SPORTS 
@@ -44,7 +44,7 @@ https://val02.ride.com.ar/tvmia/an09/playlist.m3u8
 http://190.60.37.154:45000/play/a05a/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://github.com/sao14012/cli/main/logos/400x400%20sao%20sports%20PRUEBA.png", DSPORTS
+#EXTINF:-1 tvg-logo="https://github.com/sao14012/cli/logos/400x400%20sao%20sports%20PRUEBA.png", DSPORTS
 http://179.63.6.17:9000/play/a08e
 
 #EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="SAO Sports", DSPORTS
@@ -66,7 +66,7 @@ http://38.211.242.128:8001/play/a05g/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sao14012/cli/main/logos/400x400%20sao%20sports%20PRUEBA.png", Tango Sports 1
 http://143.0.67.77:8000/play/a078/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/sao14012/cli/blob/main/logos/logo%20SAO%20Sports.png" group-title="SAO Sports", Tango Sports 2
+#EXTINF:-1 tvg-logo="https://github.com/sao14012/cli/logos/logo%20SAO%20Sports.png" group-title="SAO Sports", Tango Sports 2
 http://143.0.67.77:8000/play/a0bc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="SAO Sports", Tango Sports 3
