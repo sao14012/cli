@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Listas Principales" tvg-name="Deportes México" tvg-logo="https://ejemplo.com/logo_deportes_mx.png", Deportes México
+#EXTINF:-1 group-title="Deportes México" tvg-name="Deportes México" tvg-logo="https://ejemplo.com/logo_deportes_mx.png", Deportes México
 https://raw.githubusercontent.com/sao14012/cli/refs/heads/main/DEPORTES%20MX.m3u
 
 #EXTINF:-1 group-title="Listas Principales" tvg-name="La que siempre cambia" tvg-logo="https://ejemplo.com/logo_cambia.png", La que siempre cambia
