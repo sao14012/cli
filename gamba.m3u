@@ -17674,3 +17674,80 @@ https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(RCN_TELENOVELAS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="ARGENTINA FULL 1", AZ CORAZÓN
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+
+
+
+
+
+
+
+
+###############################################################
+############################################################
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN F1 HD
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:56:15:85&stream=162672&extension=ts&play_token=VDG2TpZWv3
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN F1 HD 2
+http://nxt.plus:8080/live/CASAHD/100100/25278.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN F1 HD 50FPS
+http://tvhomesmart.xyz:8080/live/965958597tv/v5548uwxq/60352.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN F1 HEVC
+http://194.62.214.171:80/play/live.php?mac=00:1A:79:32:C5:57&stream=1547251&extension=ts&play_token=etaFPaX2uY
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN F1 low control
+http://tvhomesmart.xyz:8080/live/965958597tv/v5548uwxq/60353.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",dazn f1 sd
+http://tvhomesmart.xyz:8080/live/965958597tv/v5548uwxq/60349.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN F1 SIN LIMI
+http://mundod.ddns.me:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/81519.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",dazn f1 unlimite
+http://directo.ddns.me:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/81519.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN F1 UNLIMITED 2
+http://stklatino.dynns.com:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/81519.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN FORMULA 1 SD
+http://iptvcodes.hopto.org:80/play/live.php?mac=00:1A:79:B5:61:AE&stream=202687&extension=ts&play_token=HpbKabgJhC
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN UNLIMITED F1
+http://playtv44.com:8080/live/61093343peli/123456/369754.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",F1 DAZN
+http://media.ottpurstream.com:80/d511f7a37c73312b5e31/9wbjUNjj02/256995?play_token=OrqKbGT3Jn
+#EXTINF:-1 group-title=" F1 ESPAÑOL",F1 INTERNACIONAL
+http://iptvcodes.hopto.org:80/play/live.php?mac=00:1A:79:B5:61:AE&stream=307727&extension=ts&play_token=GkMHuxqhnN
+#EXTINF:-1 group-title=" F1 ESPAÑOL",FORMULA 1 HD
+http://mundod.ddns.me:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/38487.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",FORMULA 1 HD UNLIMITED
+http://stklatino.dynns.com:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/38487.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",FORMULA 1 HD UNLIMITED 3
+http://stklatino.dynns.com:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/38487.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",FOX F1
+http://mundod.ddns.me:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/3082.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",FOX F1 LATINO
+http://mundod.ddns.me:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/3087.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",FOX MEX
+http://mundod.ddns.me:2082/live/s-k-y649ebvfduerb4734/957fede34294hdvsw9353fcd/5616.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",M FORMULA 1 HEVC
+http://194.62.214.171:80/play/live.php?mac=00:1A:79:32:C5:57&stream=118999&extension=ts&play_token=YWkKDddvop
+#EXTINF:-1 group-title=" F1 ESPAÑOL",MOV DAZN F1
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:56:15:85&stream=56337&extension=ts&play_token=TRY9cqSOzF
+#EXTINF:-1 group-title=" F1 ESPAÑOL",movistar f1
+http://iptv.darktv.eu:80/play/live.php?mac=00:1A:79:55:EF:D3&stream=56337&extension=ts&play_token=2Mub63QCmE
+#EXTINF:-1 group-title=" F1 ESPAÑOL",MOVISTAR FORMULA 1 HD
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:56:15:85&stream=56337&extension=ts&play_token=esLYN09k0n
+#EXTINF:-1 group-title=" F1 ESPAÑOL",MOVISTAR F1 4K
+http://iptv.jinbox.eu:80/play/live.php?mac=00:1A:79:36:B8:D7&stream=61977&extension=ts&play_token=1SW4Ct6IAl
+#EXTINF:-1 group-title=" F1 ESPAÑOL",DAZN F1 UNLI
+http://media.ottpurstream.com:80/d511f7a37c73312b5e31/2B5lHhqDGi/256995?play_token=msiT0Y7NlM
+#EXTINF:-1 group-title=" F1 ESPAÑOL",FHD DAZN F1
+http://viprteaapi.top:8080/live/VIP0157173661352325/71736962446815/251.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",HD DAZN F1
+http://viprteaapi.top:8080/live/VIP0157173661352325/71736962446815/56469.ts
+#EXTINF:-1 group-title=" F1 ESPAÑOL",MAX PPV
+http://viprteaapi.top:8080/live/VIP0157173661352325/71736962446815/129979.ts
