@@ -18486,3 +18486,287 @@ http://195.66.210.10:80/Cta001/KfTwnUFGRD/577955.m3u8
 #EXTINF:0 tvg-id="ext" group-title="⭐DEPORTES PREMIUM⭐",DAZN2.HD3
 http://195.66.210.10:80/Cta001/KfTwnUFGRD/199538.m3u8
 
+
+
+
+
+
+
+
+
+
+
+############################################################################################################
+############################################################################################################
+
+
+
+
+
+
+
+
+
+#####/vidaempresas/mayoral/artv
+
+
+
+
+
+
+
+
+#EXTM3U url-tvg="https://www.temporary-url.com/0FF3,https://www.temporary-url.com/567DBA,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TycSportsPlayapp/tyc.php?mode=epg,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TycSportsPlayapp/epg.php,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/TyCPlay/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/epg.php,https://cplus.lat/Teleplay/Juridico/Listas/PHPStream/espn/epg.php,https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz" vod_library="https://cplus.lat/Teleplay/Juridico/Listas/VOD/mediateca_vodviptv.json"
+
+#EXTINF:0 tvg-id="26TV.ar" tvg-name="26TV" CUID="1" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="⭐ARGENTINA 2025⭐",26TV
+http://181.10.181.101:15001/play/a05x/index.m3u8
+#EXTINF:0 tvg-id="A&E.ar" tvg-name="A&E HD" CUID="2" tvg-logo="https://logo.iptveditor.com/ae.png" group-title="⭐ARGENTINA 2025⭐",A&E HD
+http://181.10.181.101:15001/play/a09h/index.m3u8
+#EXTINF:0 tvg-id="A24.ar" tvg-name="A24" CUID="3" tvg-logo="https://logo.iptveditor.com/a24.png" group-title="⭐ARGENTINA 2025⭐",A24
+http://181.10.181.101:15001/play/a05u/index.m3u8
+#EXTINF:0 tvg-id="AMSports.ar" tvg-name="AM Sports" CUID="4" tvg-logo="https://logo.iptveditor.com/amsports.png" group-title="⭐ARGENTINA 2025⭐",AM Sports
+http://181.10.181.101:15001/play/a061/index.m3u8
+#EXTINF:0 tvg-id="AMC.ar" tvg-name="AMC" CUID="5" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="⭐ARGENTINA 2025⭐",AMC
+http://181.10.181.101:15001/play/a064/index.m3u8
+#EXTINF:0 tvg-id="Argentinisima.ar" tvg-name="ARGENTINISIMA" CUID="6" tvg-logo="https://logo.iptveditor.com/argentinísima.png" group-title="⭐ARGENTINA 2025⭐",ARGENTINISIMA
+http://181.10.181.101:15001/play/a0cz/index.m3u8
+#EXTINF:0 tvg-id="AXN.ar" tvg-name="AXN HD" CUID="7" tvg-logo="https://logo.iptveditor.com/axn.png" group-title="⭐ARGENTINA 2025⭐",AXN HD
+http://181.10.181.101:15001/play/a09e/index.m3u8
+#EXTINF:0 tvg-id="AdultSwim.ar" tvg-name="Adult swim HD" CUID="8" tvg-logo="https://logo.iptveditor.com/adultswim.png" group-title="⭐ARGENTINA 2025⭐",Adult swim HD
+http://181.10.181.101:15001/play/a08d/index.m3u8
+#EXTINF:0 tvg-id="AmericaTV.ar" tvg-name="America TV HD" CUID="9" tvg-logo="https://logo.iptveditor.com/americatv.png" group-title="⭐ARGENTINA 2025⭐",America TV HD
+http://181.10.181.101:15001/play/a094/index.m3u8
+#EXTINF:0 tvg-id="Bolivision.ar" tvg-name="BOLIVISION" CUID="10" tvg-logo="https://logo.iptveditor.com/bolivision.png" group-title="⭐ARGENTINA 2025⭐",BOLIVISION
+http://181.10.181.101:15001/play/a0d8/index.m3u8
+#EXTINF:0 tvg-id="BabyTV.ar" tvg-name="Baby TV" CUID="11" tvg-logo="https://logo.iptveditor.com/babytv.png" group-title="⭐ARGENTINA 2025⭐",Baby TV
+http://181.10.181.101:15001/play/a06j/index.m3u8
+#EXTINF:0 tvg-id="C5N.ar" tvg-name="C5N" CUID="12" tvg-logo="https://logo.iptveditor.com/c5n.png" group-title="⭐ARGENTINA 2025⭐",C5N
+http://181.10.181.101:15001/play/a05v/index.m3u8
+#EXTINF:0 tvg-id="Canal11Salta.ar" tvg-name="CANAL 11 SALTA" CUID="13" tvg-logo="https://logo.iptveditor.com/canal10salta.png" group-title="⭐ARGENTINA 2025⭐",CANAL 11 SALTA
+http://181.10.181.101:15001/play/a0da/index.m3u8
+#EXTINF:0 tvg-id="CM.ar" tvg-name="CM" CUID="14" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="⭐ARGENTINA 2025⭐",CM
+http://181.10.181.101:15001/play/a0d5/index.m3u8
+#EXTINF:0 tvg-id="CNNenEspanol.ar" tvg-name="CNN en Español" CUID="15" tvg-logo="https://logo.iptveditor.com/cnnenespaol.png" group-title="⭐ARGENTINA 2025⭐",CNN en Español
+http://181.10.181.101:15001/play/a093/index.m3u8
+#EXTINF:0 tvg-id="CanalA.ar" tvg-name="Canal a" CUID="16" tvg-logo="https://logo.iptveditor.com/canala.png" group-title="⭐ARGENTINA 2025⭐",Canal a
+http://181.10.181.101:15001/play/a06d/index.m3u8
+#EXTINF:0 tvg-id="CanaldelaCiudad.ar" tvg-name="Canal de la Ciudad" CUID="17" tvg-logo="https://logo.iptveditor.com/canallaciudad.png" group-title="⭐ARGENTINA 2025⭐",Canal de la Ciudad
+http://181.10.181.101:15001/play/a07c/index.m3u8
+#EXTINF:0 tvg-id="CartoonNetwork.ar" tvg-name="Cartoon Network HD" CUID="18" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="⭐ARGENTINA 2025⭐",Cartoon Network HD
+http://181.10.181.101:15001/play/a083/index.m3u8
+#EXTINF:0 tvg-id="CineAR.ar" tvg-name="Cine.AR" CUID="19" tvg-logo="https://logo.iptveditor.com/cine.png" group-title="⭐ARGENTINA 2025⭐",Cine.AR
+http://181.10.181.101:15001/play/a069/index.m3u8
+#EXTINF:0 tvg-id="Cinecanal.ar" tvg-name="Cinecanal HD" CUID="20" tvg-logo="https://logo.iptveditor.com/cinecanal.png" group-title="⭐ARGENTINA 2025⭐",Cinecanal HD
+http://181.10.181.101:15001/play/a089/index.m3u8
+#EXTINF:0 tvg-id="Cinemax.ar" tvg-name="Cinemax" CUID="21" tvg-logo="https://logo.iptveditor.com/cinemax.png" group-title="⭐ARGENTINA 2025⭐",Cinemax
+http://181.10.181.101:15001/play/a08r/index.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.ar" tvg-name="Comedy Central HD" CUID="22" tvg-logo="https://logo.iptveditor.com/comedycentral.png" group-title="⭐ARGENTINA 2025⭐",Comedy Central HD
+http://181.10.181.101:15001/play/a072/index.m3u8
+#EXTINF:0 tvg-id="Cronica.ar" tvg-name="Crónica" CUID="23" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="⭐ARGENTINA 2025⭐",Crónica
+http://181.10.181.101:15001/play/a05w/index.m3u8
+#EXTINF:0 tvg-id="DeporTV.ar" tvg-name="DeporTV" CUID="24" tvg-logo="https://logo.iptveditor.com/deportv.png" group-title="⭐ARGENTINA 2025⭐",DeporTV
+http://181.10.181.101:15001/play/a07f/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryChannel.ar" tvg-name="Discovery Channel HD" CUID="25" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="⭐ARGENTINA 2025⭐",Discovery Channel HD
+http://181.10.181.101:15001/play/a08g/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryH&H.ar" tvg-name="Discovery H&H HD" CUID="26" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="⭐ARGENTINA 2025⭐",Discovery H&H HD
+http://181.10.181.101:15001/play/a08f/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.ar" tvg-name="Discovery Kids" CUID="27" tvg-logo="https://logo.iptveditor.com/discoverykids.png" group-title="⭐ARGENTINA 2025⭐",Discovery Kids
+http://181.10.181.101:15001/play/a07r/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryScience.ar" tvg-name="Discovery Science" CUID="28" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="⭐ARGENTINA 2025⭐",Discovery Science
+http://181.10.181.101:15001/play/a06p/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTheater.ar" tvg-name="Discovery Theater HD" CUID="29" tvg-logo="https://logo.iptveditor.com/discoverytheater.png" group-title="⭐ARGENTINA 2025⭐",Discovery Theater HD
+http://181.10.181.101:15001/play/a074/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.ar" tvg-name="Discovery Turbo" CUID="30" tvg-logo="https://logo.iptveditor.com/discoveryturbo.png" group-title="⭐ARGENTINA 2025⭐",Discovery Turbo
+http://181.10.181.101:15001/play/a062/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryWorld.ar" tvg-name="Discovery World HD" CUID="31" tvg-logo="https://logo.iptveditor.com/discoveryworld.png" group-title="⭐ARGENTINA 2025⭐",Discovery World HD
+http://181.10.181.101:15001/play/a076/index.m3u8
+#EXTINF:0 tvg-id="DisneyChannel.ar" tvg-name="Disney Channel HD" CUID="32" tvg-logo="https://logo.iptveditor.com/disneychannel.png" group-title="⭐ARGENTINA 2025⭐",Disney Channel HD
+http://181.10.181.101:15001/play/a06w/index.m3u8
+#EXTINF:0 tvg-id="DisneyJunior.ar" tvg-name="Disney Junior" CUID="33" tvg-logo="https://logo.iptveditor.com/disneyjunior.png" group-title="⭐ARGENTINA 2025⭐",Disney Junior
+http://181.10.181.101:15001/play/a08x/index.m3u8
+#EXTINF:0 tvg-id="EEntertainment.ar" tvg-name="E! Entertainment" CUID="34" tvg-logo="https://logo.iptveditor.com/eentertainment.png" group-title="⭐ARGENTINA 2025⭐",E! Entertainment
+http://181.10.181.101:15001/play/a08z/index.m3u8
+#EXTINF:0 tvg-id="Enlace.ar" tvg-name="ENLACE" CUID="35" tvg-logo="https://logo.iptveditor.com/enlace.png" group-title="⭐ARGENTINA 2025⭐",ENLACE
+http://181.10.181.101:15001/play/a0d6/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" tvg-name="ESPN 2 HD" CUID="36" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⭐ARGENTINA 2025⭐",ESPN 2 HD
+http://181.10.181.101:15001/play/a098/index.m3u8
+#EXTINF:0 tvg-id="ESPN3.ar" tvg-name="ESPN 3 HD" CUID="37" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⭐ARGENTINA 2025⭐",ESPN 3 HD
+http://181.10.181.101:15001/play/a09a/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.ar" tvg-name="ESPN 4 HD" CUID="38" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="⭐ARGENTINA 2025⭐",ESPN 4 HD
+http://181.10.181.101:15001/play/a084/index.m3u8
+#EXTINF:0 tvg-id="ESPN7.ar" tvg-name="ESPN 7" CUID="39" tvg-logo="https://logo.iptveditor.com/espn7.png" group-title="⭐ARGENTINA 2025⭐",ESPN 7
+http://181.10.181.101:15001/play/a0cx/index.m3u8
+#EXTINF:0 tvg-id="ESPN.ar" tvg-name="ESPN HD" CUID="40" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="⭐ARGENTINA 2025⭐",ESPN HD
+http://181.10.181.101:15001/play/a099/index.m3u8
+#EXTINF:0 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD" CUID="41" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⭐ARGENTINA 2025⭐",ESPN Premium HD
+http://181.10.181.101:15001/play/a086/index.m3u8
+#EXTINF:0 tvg-id="EWTN.ar" tvg-name="EWTN" CUID="42" tvg-logo="https://logo.iptveditor.com/ewtn.png" group-title="⭐ARGENTINA 2025⭐",EWTN
+http://181.10.181.101:15001/play/a0d7/index.m3u8
+#EXTINF:0 tvg-id="CanaldelasEstrellas.ar" tvg-name="El Canal de las Estrellas" CUID="43" tvg-logo="https://logo.iptveditor.com/canallasestrellas.png" group-title="⭐ARGENTINA 2025⭐",El Canal de las Estrellas
+http://181.10.181.101:15001/play/a07x/index.m3u8
+#EXTINF:0 tvg-id="ElGourmet.ar" tvg-name="El Gourmet" CUID="44" tvg-logo="https://logo.iptveditor.com/elgourmet.png" group-title="⭐ARGENTINA 2025⭐",El Gourmet
+http://181.10.181.101:15001/play/a07u/index.m3u8
+#EXTINF:0 tvg-id="Encuentro.ar" tvg-name="Encuentro" CUID="45" tvg-logo="https://logo.iptveditor.com/encuentro.png" group-title="⭐ARGENTINA 2025⭐",Encuentro
+http://181.10.181.101:15001/play/a05s/index.m3u8
+#EXTINF:0 tvg-id="EuropaEuropa.ar" tvg-name="Europa Europa" CUID="46" tvg-logo="https://logo.iptveditor.com/europaeuropa.png" group-title="⭐ARGENTINA 2025⭐",Europa Europa
+http://181.10.181.101:15001/play/a07t/index.m3u8
+#EXTINF:0 tvg-id="FX.ar" tvg-name="FX HD" CUID="47" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="⭐ARGENTINA 2025⭐",FX HD
+http://181.10.181.101:15001/play/a070/index.m3u8
+#EXTINF:0 tvg-id="FilmArts.ar" tvg-name="Film & Arts HD" CUID="48" tvg-logo="https://logo.iptveditor.com/filmarts.png" group-title="⭐ARGENTINA 2025⭐",Film & Arts HD
+http://181.10.181.101:15001/play/a075/index.m3u8
+#EXTINF:0 tvg-id="FoxSports2.ar" tvg-name="Fox Sports 2 HD" CUID="49" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="⭐ARGENTINA 2025⭐",Fox Sports 2 HD
+http://181.10.181.101:15001/play/a09b/index.m3u8
+#EXTINF:0 tvg-id="FoxSports3.ar" tvg-name="Fox Sports 3 HD" CUID="50" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="⭐ARGENTINA 2025⭐",Fox Sports 3 HD
+http://181.10.181.101:15001/play/a06y/index.m3u8
+#EXTINF:0 tvg-id="FoxSports.ar" tvg-name="Fox Sports HD" CUID="51" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="⭐ARGENTINA 2025⭐",Fox Sports HD
+http://181.10.181.101:15001/play/a085/index.m3u8
+#EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="52" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="⭐ARGENTINA 2025⭐",HBO
+http://181.10.181.101:15001/play/a07m/index.m3u8
+#EXTINF:0 tvg-id="HBO2.ar" tvg-name="HBO 2" CUID="53" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="⭐ARGENTINA 2025⭐",HBO 2
+http://181.10.181.101:15001/play/a07o/index.m3u8
+#EXTINF:0 tvg-id="HBOFamily.ar" tvg-name="HBO Family" CUID="54" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="⭐ARGENTINA 2025⭐",HBO Family
+http://181.10.181.101:15001/play/a07p/index.m3u8
+#EXTINF:0 tvg-id="HBOMundi.ar" tvg-name="HBO Mundi" CUID="55" tvg-logo="https://logo.iptveditor.com/hbomundi.png" group-title="⭐ARGENTINA 2025⭐",HBO Mundi
+http://181.10.181.101:15001/play/a06f/index.m3u8
+#EXTINF:0 tvg-id="HBOPlus.ar" tvg-name="HBO Plus" CUID="56" tvg-logo="https://logo.iptveditor.com/hboplus.png" group-title="⭐ARGENTINA 2025⭐",HBO Plus
+http://181.10.181.101:15001/play/a07n/index.m3u8
+#EXTINF:0 tvg-id="HBOSignature.ar" tvg-name="HBO Signature" CUID="57" tvg-logo="https://logo.iptveditor.com/hbosignature.png" group-title="⭐ARGENTINA 2025⭐",HBO Signature
+http://181.10.181.101:15001/play/a06h/index.m3u8
+#EXTINF:0 tvg-id="HBOXtreme.ar" tvg-name="HBO Xtreme" CUID="58" tvg-logo="https://logo.iptveditor.com/hboxtreme.png" group-title="⭐ARGENTINA 2025⭐",HBO Xtreme
+http://181.10.181.101:15001/play/a06g/index.m3u8
+#EXTINF:0 tvg-id="HGTV.ar" tvg-name="HGTV" CUID="59" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="⭐ARGENTINA 2025⭐",HGTV
+http://181.10.181.101:15001/play/a06o/index.m3u8
+#EXTINF:0 tvg-id="HTV.ar" tvg-name="HTV" CUID="60" tvg-logo="https://logo.iptveditor.com/htv.png" group-title="⭐ARGENTINA 2025⭐",HTV
+http://181.10.181.101:15001/play/a06t/index.m3u8
+#EXTINF:0 tvg-id="History2.ar" tvg-name="History 2" CUID="61" tvg-logo="https://logo.iptveditor.com/history2.png" group-title="⭐ARGENTINA 2025⭐",History 2
+http://181.10.181.101:15001/play/a06n/index.m3u8
+#EXTINF:0 tvg-id="HistoryChannel.ar" tvg-name="History Channel" CUID="62" tvg-logo="https://logo.iptveditor.com/historychannel.png" group-title="⭐ARGENTINA 2025⭐",History Channel
+http://181.10.181.101:15001/play/a090/index.m3u8
+#EXTINF:0 tvg-id="KillaTV.ar" tvg-name="KILLA TV" CUID="63" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="⭐ARGENTINA 2025⭐",KILLA TV
+http://181.10.181.101:15001/play/a0cw/index.m3u8
+#EXTINF:0 tvg-id="LaNacionTV.ar" tvg-name="La Nacion TV" CUID="64" tvg-logo="https://logo.iptveditor.com/lanacion+.png" group-title="⭐ARGENTINA 2025⭐",La Nacion TV
+http://181.10.181.101:15001/play/a05y/index.m3u8
+#EXTINF:0 tvg-id="Lifetime.ar" tvg-name="Lifetime" CUID="65" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="⭐ARGENTINA 2025⭐",Lifetime
+http://181.10.181.101:15001/play/a07l/index.m3u8
+#EXTINF:0 tvg-id="MTV.ar" tvg-name="MTV" CUID="66" tvg-logo="https://logo.iptveditor.com/mtv.png" group-title="⭐ARGENTINA 2025⭐",MTV
+http://181.10.181.101:15001/play/a06r/index.m3u8
+#EXTINF:0 tvg-id="MTV00.ar" tvg-name="MTV×00" CUID="67" tvg-logo="https://logo.iptveditor.com/mtv00s.png" group-title="⭐ARGENTINA 2025⭐",MTV×00
+http://181.10.181.101:15001/play/a092/index.m3u8
+#EXTINF:0 tvg-id="Multivision.ar" tvg-name="MULTIVISION" CUID="68" tvg-logo="https://logo.iptveditor.com/multivision.png" group-title="⭐ARGENTINA 2025⭐",MULTIVISION
+http://181.10.181.101:15001/play/a0cv/index.m3u8
+#EXTINF:0 tvg-id="Metro.ar" tvg-name="Metro" CUID="69" tvg-logo="https://logo.iptveditor.com/metro.png" group-title="⭐ARGENTINA 2025⭐",Metro
+http://181.10.181.101:15001/play/a06l/index.m3u8
+#EXTINF:0 tvg-id="NatGeo.ar" tvg-name="Nat Geo HD" CUID="70" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="⭐ARGENTINA 2025⭐",Nat Geo HD
+http://181.10.181.101:15001/play/a09f/index.m3u8
+#EXTINF:0 tvg-id="NickJr.ar" tvg-name="Nick Jr" CUID="71" tvg-logo="https://logo.iptveditor.com/nickjr.png" group-title="⭐ARGENTINA 2025⭐",Nick Jr
+http://181.10.181.101:15001/play/a07s/index.m3u8
+#EXTINF:0 tvg-id="Nickelodeon.ar" tvg-name="Nickelodeon" CUID="72" tvg-logo="https://logo.iptveditor.com/nickelodeon.png" group-title="⭐ARGENTINA 2025⭐",Nickelodeon
+http://181.10.181.101:15001/play/a08y/index.m3u8
+#EXTINF:0 tvg-id="Pasiones.ar" tvg-name="PASIONES" CUID="73" tvg-logo="https://logo.iptveditor.com/pasiones.png" group-title="⭐ARGENTINA 2025⭐",PASIONES
+http://181.10.181.101:15001/play/a0d4/index.m3u8
+#EXTINF:0 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" CUID="74" tvg-logo="https://logo.iptveditor.com/pakapaka.png" group-title="⭐ARGENTINA 2025⭐",Pakapaka
+http://181.10.181.101:15001/play/a05t/index.m3u8
+#EXTINF:0 tvg-id="Paramount.ar" tvg-name="Paramount HD" CUID="75" tvg-logo="https://logo.iptveditor.com/paramount.png" group-title="⭐ARGENTINA 2025⭐",Paramount HD
+http://181.10.181.101:15001/play/a073/index.m3u8
+#EXTINF:0 tvg-id="QuieroMusica.ar" tvg-name="Quiero Musica" CUID="76" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="⭐ARGENTINA 2025⭐",Quiero Musica
+http://181.10.181.101:15001/play/a06s/index.m3u8
+#EXTINF:0 tvg-id="RAIItalia.ar" tvg-name="RAI Italia" CUID="77" tvg-logo="https://logo.iptveditor.com/raiitalia.png" group-title="⭐ARGENTINA 2025⭐",RAI Italia
+http://181.10.181.101:15001/play/a06u/index.m3u8
+#EXTINF:0 tvg-id="RTenEspanol.ar" tvg-name="RT en Español" CUID="78" tvg-logo="https://logo.iptveditor.com/rtenespanol.png" group-title="⭐ARGENTINA 2025⭐",RT en Español
+http://181.10.181.101:15001/play/a07d/index.m3u8
+#EXTINF:0 tvg-id="Rural.ar" tvg-name="Rural" CUID="79" tvg-logo="https://logo.iptveditor.com/elrural.png" group-title="⭐ARGENTINA 2025⭐",Rural
+http://181.10.181.101:15001/play/a06k/index.m3u8
+#EXTINF:0 tvg-id="Sony.ar" tvg-name="Sony HD" CUID="80" tvg-logo="https://logo.iptveditor.com/sony.png" group-title="⭐ARGENTINA 2025⭐",Sony HD
+http://181.10.181.101:15001/play/a09c/index.m3u8
+#EXTINF:0 tvg-id="SonyMovies.ar" tvg-name="Sony Movies HD" CUID="81" tvg-logo="https://logo.iptveditor.com/sonymovies.png" group-title="⭐ARGENTINA 2025⭐",Sony Movies HD
+http://181.10.181.101:15001/play/a09j/index.m3u8
+#EXTINF:0 tvg-id="Space.ar" tvg-name="Space HD" CUID="82" tvg-logo="https://logo.iptveditor.com/space.png" group-title="⭐ARGENTINA 2025⭐",Space HD
+http://181.10.181.101:15001/play/a071/index.m3u8
+#EXTINF:0 tvg-id="StarChannel.ar" tvg-name="Star Channel HD" CUID="83" tvg-logo="https://logo.iptveditor.com/starchannel.png" group-title="⭐ARGENTINA 2025⭐",Star Channel HD
+http://181.10.181.101:15001/play/a087/index.m3u8
+#EXTINF:0 tvg-id="StudioUniversal.ar" tvg-name="Studio Universal" CUID="84" tvg-logo="https://logo.iptveditor.com/studiouniversal.png" group-title="⭐ARGENTINA 2025⭐",Studio Universal
+http://181.10.181.101:15001/play/a067/index.m3u8
+#EXTINF:0 tvg-id="TCM.ar" tvg-name="TCM" CUID="85" tvg-logo="https://logo.iptveditor.com/tcm.png" group-title="⭐ARGENTINA 2025⭐",TCM
+http://181.10.181.101:15001/play/a065/index.m3u8
+#EXTINF:0 tvg-id="Telemundo.ar" tvg-name="TELEMUNDO" CUID="86" tvg-logo="https://logo.iptveditor.com/telemundo.png" group-title="⭐ARGENTINA 2025⭐",TELEMUNDO
+http://181.10.181.101:15001/play/a0d1/index.m3u8
+#EXTINF:0 tvg-id="Telesur.ar" tvg-name="TELESUR" CUID="87" tvg-logo="https://logo.iptveditor.com/telesur.png" group-title="⭐ARGENTINA 2025⭐",TELESUR
+http://181.10.181.101:15001/play/a0d9/index.m3u8
+#EXTINF:0 tvg-id="TLNovelas.ar" tvg-name="TLNovelas" CUID="88" tvg-logo="https://logo.iptveditor.com/tlnovelas.png" group-title="⭐ARGENTINA 2025⭐",TLNovelas
+http://181.10.181.101:15001/play/a07y/index.m3u8
+#EXTINF:0 tvg-id="TN.ar" tvg-name="TN HD" CUID="89" tvg-logo="https://raw.githubusercontent.com/logo.png" group-title="⭐ARGENTINA 2025⭐",TN HD
+http://181.10.181.101:15001/play/a097/index.m3u8
+#EXTINF:0 tvg-id="TNT.ar" tvg-name="TNT HD" CUID="90" tvg-logo="https://logo.iptveditor.com/tnt.png" group-title="⭐ARGENTINA 2025⭐",TNT HD
+http://181.10.181.101:15001/play/a08b/index.m3u8
+#EXTINF:0 tvg-id="TNTNovelas.ar" tvg-name="TNT Novelas HD" CUID="91" tvg-logo="https://logo.iptveditor.com/tntnovelas.png" group-title="⭐ARGENTINA 2025⭐",TNT Novelas HD
+http://181.10.181.101:15001/play/a08e/index.m3u8
+#EXTINF:0 tvg-id="TNTSeries.ar" tvg-name="TNT Series HD" CUID="92" tvg-logo="https://logo.iptveditor.com/tntseries.png" group-title="⭐ARGENTINA 2025⭐",TNT Series HD
+http://181.10.181.101:15001/play/a08c/index.m3u8
+#EXTINF:0 tvg-id="TNTSports.ar" tvg-name="TNT Sports HD" CUID="93" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="⭐ARGENTINA 2025⭐",TNT Sports HD
+http://181.10.181.101:15001/play/a06z/index.m3u8
+#EXTINF:0 tvg-id="Tooncast.ar" tvg-name="TOONCAT" CUID="94" tvg-logo="https://logo.iptveditor.com/tooncast.png" group-title="⭐ARGENTINA 2025⭐",TOONCAT
+http://181.10.181.101:15001/play/a0cy/index.m3u8
+#EXTINF:0 tvg-id="TVPublica.ar" tvg-name="TV Publica HD" CUID="95" tvg-logo="https://logo.iptveditor.com/tvpublica.png" group-title="⭐ARGENTINA 2025⭐",TV Publica HD
+http://181.10.181.101:15001/play/a095/index.m3u8
+#EXTINF:0 tvg-id="TVE.ar" tvg-name="TVE" CUID="96" tvg-logo="https://logo.iptveditor.com/tve.png" group-title="⭐ARGENTINA 2025⭐",TVE
+http://181.10.181.101:15001/play/a080/index.m3u8
+#EXTINF:0 tvg-id="Telefe.ar" tvg-name="Telefe HD" CUID="97" tvg-logo="https://logo.iptveditor.com/telefe.png" group-title="⭐ARGENTINA 2025⭐",Telefe HD
+http://181.10.181.101:15001/play/a08a/index.m3u8
+#EXTINF:0 tvg-id="TheHistoryChannel.ar" tvg-name="The History Channel HD" CUID="98" tvg-logo="https://logo.iptveditor.com/thehistorychannel.png" group-title="⭐ARGENTINA 2025⭐",The History Channel HD
+http://181.10.181.101:15001/play/a09g/index.m3u8
+#EXTINF:0 tvg-id="TyCSports.ar" tvg-name="TyC Sports HD" CUID="99" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="⭐ARGENTINA 2025⭐",TyC Sports HD
+http://181.10.181.101:15001/play/a06x/index.m3u8
+#EXTINF:0 tvg-id="Unitel.ar" tvg-name="UNITEL" CUID="100" tvg-logo="https://logo.iptveditor.com/unitel.png" group-title="⭐ARGENTINA 2025⭐",UNITEL
+http://181.10.181.101:15001/play/a0d0/index.m3u8
+#EXTINF:0 tvg-id="USANetwork.ar" tvg-name="USA Network" CUID="101" tvg-logo="https://logo.iptveditor.com/network.png" group-title="⭐ARGENTINA 2025⭐",USA Network
+http://181.10.181.101:15001/play/a068/index.m3u8
+#EXTINF:0 tvg-id="Universal.ar" tvg-name="Universal HD" CUID="102" tvg-logo="https://logo.iptveditor.com/universal.png" group-title="⭐ARGENTINA 2025⭐",Universal HD
+http://181.10.181.101:15001/play/a09i/index.m3u8
+#EXTINF:0 tvg-id="Volver.ar" tvg-name="Volver" CUID="103" tvg-logo="https://logo.iptveditor.com/volver.png" group-title="⭐ARGENTINA 2025⭐",Volver
+http://181.10.181.101:15001/play/a066/index.m3u8
+#EXTINF:0 tvg-id="WarnerChannel.ar" tvg-name="Warner Channel HD" CUID="104" tvg-logo="https://logo.iptveditor.com/warnerchannel.png" group-title="⭐ARGENTINA 2025⭐",Warner Channel HD
+http://181.10.181.101:15001/play/a09d/index.m3u8
+#EXTINF:0 tvg-id="Canal7Jujuy.ar" tvg-name="canal 7 jujuy" CUID="105" tvg-logo="https://logo.iptveditor.com/canal7jujuy.png" group-title="⭐ARGENTINA 2025⭐",canal 7 jujuy
+http://181.10.181.101:15001/play/a0dl/index.m3u8
+#EXTINF:0 tvg-id="CiudadMagazine.ar" tvg-name="ciudad magazine" CUID="106" tvg-logo="https://logo.iptveditor.com/ciudadmagazine.png" group-title="⭐ARGENTINA 2025⭐",ciudad magazine
+http://181.10.181.101:15001/play/a06m/index.m3u8
+#EXTINF:0 tvg-id="ElNueve.ar" tvg-name="el nueve HD" CUID="107" tvg-logo="https://logo.iptveditor.com/elnueve.png" group-title="⭐ARGENTINA 2025⭐",el nueve HD
+http://181.10.181.101:15001/play/a08k/index.m3u8
+#EXTINF:0 tvg-id="ElTrece.ar" tvg-name="el trece HD" CUID="108" tvg-logo="https://logo.iptveditor.com/eltrece.png" group-title="⭐ARGENTINA 2025⭐",el trece HD
+http://181.10.181.101:15001/play/a07b/index.m3u8
+#EXTINF:0 tvg-id="Lapacho.ar" tvg-name="lapacho" CUID="109" tvg-logo="https://logo.iptveditor.com/lapachotv.png" group-title="⭐ARGENTINA 2025⭐",lapacho
+http://181.10.181.101:15001/play/a0dd/index.m3u8
+#EXTINF:0 tvg-id="Telefuturo.ar" tvg-name="telefuturo" CUID="110" tvg-logo="https://logo.iptveditor.com/telefuturo.png" group-title="⭐ARGENTINA 2025⭐",telefuturo
+http://181.10.181.101:15001/play/a0dc/index.m3u8
+#EXTINF:0 tvg-id="ESPNPremium2.ar" tvg-name="ESPN Premium HD" CUID="111" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⭐ARGENTINA 2025⭐",ESPN Premium HD
+http://181.10.181.101:15001/play/a086/index.m3u8
+#EXTINF:0 tvg-id="TyCSports2.ar" tvg-name="TyC Sports HD" CUID="112" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="⭐ARGENTINA 2025⭐",TyC Sports HD
+http://181.10.181.101:15001/play/a06x/index.m3u8
+#EXTINF:0 tvg-id="TNTSports2.ar" tvg-name="TNT Sports HD" CUID="113" tvg-logo="https://logo.iptveditor.com/tntsports.png" group-title="⭐ARGENTINA 2025⭐",TNT Sports HD
+http://181.10.181.101:15001/play/a06z/index.m3u8
+#EXTINF:0 tvg-id="ESPN22.ar" tvg-name="ESPN 2 HD" CUID="114" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="⭐ARGENTINA 2025⭐",ESPN 2 HD
+http://181.10.181.101:15001/play/a098/index.m3u8
+#EXTINF:0 tvg-id="ESPN32.ar" tvg-name="ESPN 3 HD" CUID="115" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="⭐ARGENTINA 2025⭐",ESPN 3 HD
+http://181.10.181.101:15001/play/a09a/index.m3u8
+#EXTINF:0 tvg-id="ESPN42.ar" tvg-name="ESPN 4 HD" CUID="116" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="⭐ARGENTINA 2025⭐",ESPN 4 HD
+http://181.10.181.101:15001/play/a084/index.m3u8
+#EXTINF:0 tvg-id="ESPN72.ar" tvg-name="ESPN 7" CUID="117" tvg-logo="https://logo.iptveditor.com/espn7.png" group-title="⭐ARGENTINA 2025⭐",ESPN 7
+http://181.10.181.101:15001/play/a0cx/index.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" tvg-name="ESPN HD" CUID="118" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="⭐ARGENTINA 2025⭐",ESPN HD
+http://181.10.181.101:15001/play/a099/index.m3u8
+#EXTINF:0 tvg-id="ESPNPremium3.ar" tvg-name="ESPN Premium HD" CUID="119" tvg-logo="https://logo.iptveditor.com/espnpremium.png" group-title="⭐ARGENTINA 2025⭐",ESPN Premium HD
+http://181.10.181.101:15001/play/a086/index.m3u8
+#EXTINF:0 tvg-id="FoxSports22.ar" tvg-name="Fox Sports 2 HD" CUID="120" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="⭐ARGENTINA 2025⭐",Fox Sports 2 HD
+http://181.10.181.101:15001/play/a09b/index.m3u8
+#EXTINF:0 tvg-id="FoxSports32.ar" tvg-name="Fox Sports 3 HD" CUID="121" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="⭐ARGENTINA 2025⭐",Fox Sports 3 HD
+http://181.10.181.101:15001/play/a06y/index.m3u8
+#EXTINF:0 tvg-id="FoxSports2.ar" tvg-name="Fox Sports HD" CUID="122" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="⭐ARGENTINA 2025⭐",Fox Sports HD
+http://181.10.181.101:15001/play/a085/index.m3u8
+#EXTINF:0 tvg-id="AMSports2.ar" tvg-name="AM Sports" CUID="123" tvg-logo="https://logo.iptveditor.com/amsports.png" group-title="⭐ARGENTINA 2025⭐",AM Sports
+http://181.10.181.101:15001/play/a061/index.m3u8
+
+
+
+
+
+
