@@ -17674,3 +17674,1225 @@ https://cdn.cvattv.com.ar/live/c6eds/WOBI/SA_Live_dash_enc/WOBI.mpd
 https://pylocaltstvhls.lcdn.clarotv.com.py/Content/HLS_HLS_FK/Live/Channel(RCN_TELENOVELAS)/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TV_Azteca_Coraz%C3%B3n_logo.svg/320px-TV_Azteca_Coraz%C3%B3n_logo.svg.png" group-title="ARGENTINA FULL 1", AZ CORAZÓN
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+########################################################################################################################################
+########################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+#EXTM3U url-tvg="https://albaforge.com/bin-cas6u/epg/an/EPG/ARGENTINA.xml.gz,https://www.open-epg.com/files/argentina1.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://www.open-epg.com/files/uruguay2.xml.gz,http://francope.elementfx.com/espn/epg.php,http://francope.elementfx.com/tycsportsplay/tyc.php?mode=epg"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
+#EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-name="Argentinísima Satelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ARGST.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="1" type="channel",Argentinísima Satelital
+http://francope.elementfx.com/live/c6eds/Argentinisima/SA_Live_dash_enc/Argentinisima.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1421/CH_LOGO/600/600/0/0/97778346077157.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="2" type="channel",Ceosca Tv
+http://francope.elementfx.com/output/NDS/CEOSCAD/output.mpd?|Referer=https://player.sensa.com.ar/&webtoken=1.0&Origin=https://player.sensa.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
+#EXTINF:-1 tvg-id="Canal Rural.ar" tvg-name="Canal Rural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="3" type="channel",Canal Rural
+http://francope.elementfx.com/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-name="Telemax.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/08%29Telemax_%282018%29.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="4" type="channel",Telemax
+http://francope.elementfx.com/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
+#EXTINF:-1 tvg-id="[T5SATA] T5 Satelital" tvg-name="[T5SATA] T5 Satelital" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="5" type="channel",T5 Satelital
+http://francope.elementfx.com/bpk-tv/T5Satelital/default/index_fk.mpd?|Referer=https://player.sensa.com.ar/&webtoken=1.0&Origin=https://player.sensa.com.ar/
+
+#EXTINF:-1 tvg-id="[CARASTV] Caras TV" tvg-name="[CARASTV] Caras TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CARAS.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="6" type="channel",Caras TV
+http://francope.elementfx.com/live/carastv
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+#EXTINF:-1 tvg-id="TV Pública.ar" tvg-name="TV Pública.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C7TVP.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="7" type="channel",TV Pública
+http://francope.elementfx.com/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=103ce214b4d04c8eb4dd43670e956dad:20e030576b8dc4df0d1c68e16af3bc0f
+#EXTINF:-1 tvg-id="Telefe Cordoba.ar" tvg-name="Telefe Cordoba.ar" tvg-logo="https://git.io/JOTOu" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="8" type="channel",Telefé Córdoba
+http://francope.elementfx.com/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+#EXTINF:-1 tvg-id="Canal 9.uy" tvg-name="Canal 9.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN9.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="9" type="channel",El nueve
+http://francope.elementfx.com/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
+#EXTINF:-1 tvg-id="Canal 10.ar" tvg-name="Canal 10.ar" tvg-logo="https://i.imgur.com/87WCHtd.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="10" type="channel",Canal 10 Córdoba
+http://francope.elementfx.com/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://git.io/JOTOu" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="11" type="channel",Telefé
+http://francope.elementfx.com/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
+#EXTINF:-1 tvg-id="Telefe HD.uy" tvg-name="Telefe HD.uy" tvg-logo="https://i.ibb.co/Xk2ZFyC/telefe-internacional.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="11" type="channel",Telefé Internacional
+http://francope.elementfx.com/live/c4eds/Telefe_Internacional/SA_Live_dash_enc/Telefe_Internacional.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="135#El Doce CANAL 12 DE CORDOBA" tvg-logo="https://i.imgur.com/HfyKPpD.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="12" type="channel",El Doce Córdoba
+http://francope.elementfx.com/live/eldoce
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+#EXTINF:-1 tvg-id="Canal 13.ar" tvg-name="Canal 13.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="13" type="channel",El Trece
+http://francope.elementfx.com/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
+#EXTINF:-1 tvg-id="784#El Trece Internacional" tvg-name="784#El Trece Internacional" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EL13.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="13" type="channel",El Trece Internacional
+http://francope.elementfx.com/live/c6eds/Artear_Internacional/SA_Live_dash_enc/Artear_Internacional.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+#EXTINF:-1 tvg-id="America.uy" tvg-name="America.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMER2.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="14" type="channel",América
+http://francope.elementfx.com/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-name="Net TV.ar" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="15" type="channel",Net TV
+http://francope.elementfx.com/live/c6eds/Net_TV/SA_Live_dash_enc/Net_TV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+#EXTINF:-1 tvg-id="126#Bravo TV (ARG)" tvg-name="126#Bravo TV (ARG)" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BRAVO.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="16" type="channel",Bravo TV
+http://francope.elementfx.com/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
+#EXTINF:-1 tvg-id="199#KZO" tvg-name="199#KZO" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjDcEftxHSDqjmbRp_AmsP6jXlMfUUvvrTzRZZbNq-kGf1XhqB795jNAXWnFFEdCJPUMHQjHroAsauEZzGAl-YEmMHUe_aVTCh_08dUrag2ycjSRHL1KqCspurZr_tQF7XZmjjGcWAgJKjIuFCFk2hHpcF1a1KN_RFZHrSyyotJ3Fz8lMYo0vKrs1sx=s336" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="17" type="channel",KZO Entertaiment
+http://francope.elementfx.com/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
+#EXTINF:-1 tvg-id="MIX TV" tvg-name="MIX TV" tvg-logo="https://static.flow.com.ar/images/10017/CH_LOGO/600/400/0/0/96357727079072.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="18" type="channel",Mix TV
+http://francope.elementfx.com/live/c4eds/MixTV/SA_Live_dash_enc/MixTV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68e7788389d18bfa49daf812c581a3b0:b4ef16f31325e24d16390ea74b088512
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/591/CH_LOGO/800/542/0/0/44952019073840.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="19" type="channel",Chacra TV
+http://francope.elementfx.com/bpk-tv/ChacraTV/default/index.mpd?|Referer=https://player.sensa.com.ar/&webtoken=1.0&Origin=https://player.sensa.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+#EXTINF:-1 tvg-id="Metro.ar" tvg-name="Metro.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/METRO.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="20" type="channel",METRO
+http://francope.elementfx.com/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
+#EXTINF:-1 tvg-id="Canal a.uy" tvg-name="Canal a.uy" tvg-logo="https://2.bp.blogspot.com/-Qt2mjUh2TJ0/W3HqV99lVtI/AAAAAAAAXZE/jbqehkicYhAtiKy6IotwRFuo9OT3InafgCLcBGAs/s1600/Logo_canal_a.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="21" type="channel",Canal (á)
+http://francope.elementfx.com/live/c6eds/Canal_a/SA_Live_dash_enc/Canal_a.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
+#EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-name="Ciudad Magazine.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CIUMA.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="22" type="channel",Ciudad Magazine
+http://francope.elementfx.com/live/c3eds/Magazine/SA_Live_dash_enc/Magazine.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+#EXTINF:-1 tvg-id="Volver.ar" tvg-name="Volver.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VLVER.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="23" type="channel",Volver
+http://francope.elementfx.com/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
+#EXTINF:-1 tvg-id="America 24.uy" tvg-name="America 24.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A24.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="24" type="channel",A24
+http://francope.elementfx.com/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+#EXTINF:-1 tvg-id="C5N.uy" tvg-name="C5N.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/C5NAR.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="25" type="channel",C5N
+http://francope.elementfx.com/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
+#EXTINF:-1 tvg-id="Canal 26.uy" tvg-name="Canal 26.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN26.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="26" type="channel",Canal 26
+http://francope.elementfx.com/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
+#EXTINF:-1 tvg-id="CANAL E" tvg-name="CANAL E" tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="27" type="channel",Canal E
+https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
+#EXTINF:-1 tvg-id="Cronica TV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/800/542/0/0/90907313073986.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="28" type="channel",Crónica
+http://francope.elementfx.com/live/c7eds/CronicaTV/SA_Live_dash_enc/CronicaTV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
+#EXTINF:-1 tvg-id="721#IP Noticias HD" tvg-name="721#IP Noticias HD" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/IPNOT.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="29" type="channel",IP Noticias
+http://francope.elementfx.com/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+#EXTINF:-1 tvg-id="La Nacion.uy" tvg-name="La Nacion.uy" tvg-logo="https://git.io/J35ry" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="30" type="channel",La Nación +
+http://francope.elementfx.com/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+#EXTINF:-1 tvg-id="TN HD.uy" tvg-name="TN HD.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNARG.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="31" type="channel",TN
+http://francope.elementfx.com/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="CineAr.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/INCAA.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="32" type="channel",Cine.AR
+http://francope.elementfx.com/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/Dd74e-construirtv.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="33" type="channel",Construír TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://francope.elementfx.com/mnp/construiriptv/output.mpd?|Referer=https://play.rocstar.tv/|Origin=https://play.rocstar.tv
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
+#EXTINF:-1 tvg-id="encuentro.uy" tvg-name="encuentro.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/Cenc.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="34" type="channel",encuentro
+http://francope.elementfx.com/live/c6eds/encuentro/SA_Live_dash_enc/encuentro.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PAKAP.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="35" type="channel",Paka Paka
+http://francope.elementfx.com/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="36" type="channel",Tec TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://francope.elementfx.com/mnp/tecnopolis/output.mpd?|Referer=https://play.rocstar.tv/|Origin=https://play.rocstar.tv
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
+#EXTINF:-1 tvg-id="Canal de la Ciudad.ar" tvg-name="Canal de la Ciudad.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Logo_Canal_de_la_Ciudad.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="37" type="channel",Canal de la Ciudad
+http://francope.elementfx.com/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc/Canal_de_la_ciudad.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
+#EXTINF:-1 tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HCDTV.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="38" type="channel",Diputados TV
+http://francope.elementfx.com/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/UNIFE_logo.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="39" type="channel",unifé
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://francope.elementfx.com/mnp/cn23/output.mpd?|Referer=https://play.rocstar.tv/|Origin=https://play.rocstar.tv
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af0566c50e733c311bdfa6736a95ce50:e4dfd12993097b3c35ad47562d61b4ce
+#EXTINF:-1 tvg-id="El Destape" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4126/CH_LOGO/800/542/0/0/49015720078226.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="40" type="channel",El Destape
+http://francope.elementfx.com/bpk-tv/ElDestape/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" tvg-logo="https://git.io/JOTOg" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="100" type="channel",DeporTV
+http://francope.elementfx.com/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+#EXTINF:-1 tvg-id="TyC Sports.ar" tvg-name="TyC Sports.ar" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="101" type="channel",TyC Sports
+http://francope.elementfx.com/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="TyCSports2" tvg-name="TyC Sports 2 (Novedades)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="102" type="channel",TyC Sports 2
+http://francope.elementfx.com/live/TyCSports2
+
+#EXTINF:-1 tvg-id="TyCSports3" tvg-name="TyC Sports 3 (Novedades)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="103" type="channel",TyC Sports 3
+http://francope.elementfx.com/live/TyCSports3
+
+#EXTINF:-1 tvg-id="TyCSports4" tvg-name="TyC Sports 4 (Fútbol Oro)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="104" type="channel",TyC Sports 4
+http://francope.elementfx.com/live/TyCSports4
+
+#EXTINF:-1 tvg-id="TyCSports5" tvg-name="TyC Sports 5 (Polideportivo)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="105" type="channel",TyC Sports 5
+http://francope.elementfx.com/live/TyCSports5
+
+#EXTINF:-1 tvg-id="TyCSports6" tvg-name="TyC Sports 6 (Polideportivo)" tvg-logo="https://i.imgur.com/g0KRM2t.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="106" type="channel",TyC Sports 6
+http://francope.elementfx.com/live/TyCSports6
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+#EXTINF:-1 tvg-id="Claro Sports HD.uy" tvg-name="Claro Sports" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CLASP.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="107" type="channel",Claro Sports
+http://francope.elementfx.com/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-id="TyC Sports " tvg-name="TyC Sports Internacional USA" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/6/2/629_-_tyc_sports_blanco.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="108" type="channel",TyC Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://francope.elementfx.com/tycsportsplay/tyc.php?mode=play&channel=TyCInternacionalUSA
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-name="TNT Sports Premium" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSP.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="109" type="channel",TNT Sports Premium
+http://francope.elementfx.com/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-name="ESPN Premium" tvg-logo="https://static.flow.com.ar/images/3545/CH_LOGO/1000/1000/0/0/92564610073951.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="110" type="channel",ESPN Premium
+http://francope.elementfx.com/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/800/542/0/0/25899985073189.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="111" type="channel",ESPN
+http://francope.elementfx.com/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/84/CH_LOGO/800/542/0/0/32397574073429.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="112" type="channel",ESPN 2
+http://francope.elementfx.com/live/c6eds/ESPN2_Arg/SA_Live_dash_enc/ESPN2_Arg.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+#EXTINF:-1 tvg-id="ESPN 3.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/85/CH_LOGO/800/542/0/0/85904894074972.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="113" type="channel",ESPN 3
+http://francope.elementfx.com/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+#EXTINF:-1 tvg-id="ESPN 4.ar" tvg-name="ESPN 4" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/83/CH_LOGO/800/542/0/0/16514023071132.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="114" type="channel",ESPN 4
+http://francope.elementfx.com/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-id="espnextra1" tvg-logo="https://i.imgur.com/N54yB2z.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="115" type="channel",ESPN Extra 1
+http://francope.elementfx.com/live/espnextra1
+
+#EXTINF:-1 tvg-id="espnextra2" tvg-logo="https://i.imgur.com/N54yB2z.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="116" type="channel",ESPN Extra 2
+http://francope.elementfx.com/live/espnextra2
+
+#EXTINF:-1 tvg-id="espnextra3" tvg-logo="https://i.imgur.com/N54yB2z.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="117" type="channel",ESPN Extra 3
+http://francope.elementfx.com/live/espnextra3
+
+#EXTINF:-1 tvg-id="espnextra4" tvg-logo="https://i.imgur.com/N54yB2z.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="118" type="channel",ESPN Extra 4
+http://francope.elementfx.com/live/espnextra4
+
+#EXTINF:-1 tvg-id="espnextra5" tvg-logo="https://i.imgur.com/N54yB2z.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="119" type="channel",ESPN Extra 5
+http://francope.elementfx.com/live/espnextra5
+
+#EXTINF:-1 tvg-id="espnextra6" tvg-logo="https://i.imgur.com/N54yB2z.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="120" type="channel",ESPN Extra 6
+http://francope.elementfx.com/live/espnextra6
+
+#EXTINF:-1 tvg-id="espnextra7" tvg-logo="https://i.imgur.com/N54yB2z.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="121" type="channel",ESPN Extra 7
+http://francope.elementfx.com/live/espnextra7
+
+#EXTINF:-1 tvg-id="espnextra8" tvg-logo="https://i.imgur.com/N54yB2z.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="122" type="channel",ESPN Extra 8
+http://francope.elementfx.com/live/espnextra8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+#EXTINF:-1 tvg-id="FOX Sports HD.ar" tvg-name="FOX Sports" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXSP.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="123" type="channel",FOX Sports
+http://francope.elementfx.com/live/c3eds/FoxSports/SA_Live_dash_enc/FoxSports.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+#EXTINF:-1 tvg-id="FOX Sports 2.ar" tvg-name="FOX Sports 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP2.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="124" type="channel",FOX Sports 2
+http://francope.elementfx.com/live/c3eds/FoxSports2HD/SA_Live_dash_enc/FoxSports2HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+#EXTINF:-1 tvg-id="FOX Sports 3.ar" tvg-name="FOX Sports 3" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FXSP3.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="125" type="channel",FOX Sports 3
+http://francope.elementfx.com/live/c3eds/FoxSports3HD/SA_Live_dash_enc/FoxSports3HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
+#EXTINF:-1 tvg-id="NBA TV.ar" tvg-name="NBA TV" tvg-logo="http://stacypaetz.com/wp-content/uploads/2014/07/nbatv.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="126" type="channel",NBA TV
+http://francope.elementfx.com/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
+#EXTINF:-1 tvg-id="Golf Channel.ar" tvg-name="Golf TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GOLFC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="127" type="channel",Golf TV
+http://francope.elementfx.com/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vmvJHheBb2fmJZa+1GPFrQ","kid":"k5MyHa7xRj/H4uBgKY24Ug"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="[PXSP] PX Sports" tvg-name="PX Sports" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1811/CH_LOGO/800/542/0/0/70671934073582.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="128" type="channel",PX Sports
+http://francope.elementfx.com/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
+#EXTINF:-1 tvg-id="SHOW SPORTS CORDOBA" tvg-name="Show Sports Córdoba" tvg-logo="https://i.ibb.co/QnqdqBV/ss.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="129" type="channel",Show Sports Córdoba
+http://francope.elementfx.com/live/c4eds/Show_Sports/SA_Live_dash_enc/Show_Sports.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
+#EXTINF:-1 tvg-id="El Garage Tv.ar" tvg-name="Garage TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRGTV.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="130" type="channel",Garage TV
+http://francope.elementfx.com/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="131" type="channel",DSports
+http://francope.elementfx.com/live/dsports
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="132" type="channel",DSports 2
+http://francope.elementfx.com/live/dsports2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/DirecTV-Sports.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="133" type="channel",DSports +
+http://francope.elementfx.com/live/dsportsplus
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
+#EXTINF:-1 tvg-id="America Sports.ar" tvg-name="América Sports" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AMESP.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="134" type="channel",América Sports
+http://francope.elementfx.com/live/c6eds/America_Sports/SA_Live_dash_enc/America_Sports.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
+#EXTINF:-1 tvg-id="Baby TV.uy" tvg-name="Baby TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Babytvv.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="200" type="channel",Baby TV
+http://francope.elementfx.com/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
+#EXTINF:-1 tvg-id="CANAL INFANTIL" tvg-name="Canal Infantil" tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="201" type="channel",Canal Infantil
+http://francope.elementfx.com/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
+#EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-name="Cartoon Network" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CTOON.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="202" type="channel",Cartoon Network
+http://francope.elementfx.com/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
+#EXTINF:-1 tvg-id="Cartoonito HD.uy" tvg-name="Cartoonito" tvg-logo="https://static.flow.com.ar/images/266/CH_LOGO/350/500/0/0/3115537507174.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="203" type="channel",Cartoonito
+http://francope.elementfx.com/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
+#EXTINF:-1 tvg-id="Discovery Kids HD.uy" tvg-name="Discovery Kids" tvg-logo="https://git.io/JOTL6" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="204" type="channel",Discovery Kids
+http://francope.elementfx.com/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
+#EXTINF:-1 tvg-id="Disney Channel HD.uy" tvg-name="Disney Channel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNEY.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="205" type="channel",Disney Channel
+http://francope.elementfx.com/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
+#EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-name="Disney Junior" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSNJR.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="206" type="channel",Disney Junior
+http://francope.elementfx.com/live/c7eds//DisneyJr/SA_Live_dash_enc/DisneyJr.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
+#EXTINF:-1 tvg-id="[DREAMWS] Dreamworks" tvg-name="Dreamworks TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DRWKS.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="207" type="channel",Dreamworks TV
+http://francope.elementfx.com/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d
+#EXTINF:-1 tvg-id="KidOO" tvg-name="KidOO" tvg-logo="https://dl.dropbox.com/scl/fi/z8296ru65sv7idhivi2gm/kidoo.png?rlkey=75o8qsatemf9z87s5um3qonp6&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="208" type="channel",KidOO
+http://francope.elementfx.com/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
+#EXTINF:-1 tvg-id="Nickelodeon.uy" tvg-name="Nickelodeon" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NICKL.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="209" type="channel",Nickelodeon
+http://francope.elementfx.com/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
+#EXTINF:-1 tvg-id="Nick Jr..uy" tvg-name="Nick JR." tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NCKJR.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="210" type="channel",Nick JR.
+http://francope.elementfx.com/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=664cc28a59864059b80feda579e9f9b7:c4314017c1617f7383327b7b37885ed8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZmGD8f7/teen-nick-m.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="211" type="channel",TeenNick
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+https://cdn.trimi.com.ar/live/sm-live/TEEN_NICK/sa_live_dash/TEEN_NICK.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df
+#EXTINF:-1 tvg-id="EL CANAL DEL PAYASO PLIM PLIM" tvg-name="PLIM PLIM TV" tvg-logo="https://i.ibb.co/HgqtG9q/plim-plim.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="212" type="channel",PLIM PLIM TV
+http://francope.elementfx.com/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+#EXTINF:-1 tvg-id="Tooncast.uy" tvg-name="Tooncast" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TCAST.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="213" type="channel",Tooncast
+http://francope.elementfx.com/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=070660c4a07ab644fba62dab07306d43:6786eb56337a318fce0b7f9cccf96478
+#EXTINF:-1 tvg-id="ZooMoo.ar" tvg-name="Zoo Mo" tvg-logo="https://www.dropbox.com/scl/fi/kon8vexrj1s65pctcbjis/zoomoo.webp?rlkey=a5xyd3h3lc5l4rgh12ynevgww&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="214" type="channel",Zoo Mo
+http://francope.elementfx.com/live/sta01/ZooMoo/live_dash_cld/ZooMoo.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
+#EXTINF:-1 tvg-id="Adult Swim.uy" tvg-name="[adult swim]" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ADSM.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="300" type="channel",[adult swim]
+http://francope.elementfx.com/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
+#EXTINF:-1 tvg-id="AandE HD.uy" tvg-name="A&E" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/AETV.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="301" type="channel",A&E
+http://francope.elementfx.com/live/c7eds//AEHD/SA_Live_dash_enc/AEHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
+#EXTINF:-1 tvg-id="AMC HD.uy" tvg-name="AMC" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAAMC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="302" type="channel",AMC
+http://francope.elementfx.com/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
+#EXTINF:-1 tvg-id="AXN HD.uy" tvg-name="AXN" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNAXN.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="303" type="channel",AXN
+http://francope.elementfx.com/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
+#EXTINF:-1 tvg-id="A3 Cine HD.uy" tvg-name="Atrescine" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A3CIN.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="304" type="channel",Atrescine
+http://francope.elementfx.com/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
+#EXTINF:-1 tvg-id="A3 Series HD.uy" tvg-name="Atreseries" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/A3SER.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="305" type="channel",Atreseries
+http://francope.elementfx.com/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
+#EXTINF:-1 tvg-id="Cinecanal HD.uy" tvg-name="Cinecanal" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CINEC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="306" type="channel",Cinecanal
+http://francope.elementfx.com/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7686e3ee3e606e6694e6e39fcbc9a8b7:cd0fa59bb71a398843499febb859c341
+#EXTINF:-1 tvg-id="CINE FAMILIAR" tvg-name="Cine Familiar" tvg-logo="https://dl.dropbox.com/scl/fi/gm3q3q2b642htogo7rer6/cinefamiliar.jpg?rlkey=kxz5r5o947slc63z7owrhrm70&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="307" type="channel",Cine Familiar
+http://francope.elementfx.com/live/sta01/CineFamiliar/live_dash_cld/CineFamiliar.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3cb7320815d01cb41fdb0e9d5bd2915:7c89266b0cc60fa3419474fc96c18927
+#EXTINF:-1 tvg-id="CINE HISPANO" tvg-name="Cine Hispano" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="308" type="channel",Cine Hispano
+http://francope.elementfx.com/live/sta01/CineHispano/live_dash_cld/CineHispano.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
+#EXTINF:-1 tvg-id="Cinemax HD.uy" tvg-name="Cinemax" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNMAX.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="309" type="channel",Cinemax
+http://francope.elementfx.com/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=812f89cb0024d3699e832d72e4f0ebb6:851d7496cd1a7e03125b2b6d3b41c922
+#EXTINF:-1 tvg-id="CINE PREMIUM" tvg-name="Cine Premium" tvg-logo="https://dl.dropbox.com/scl/fi/pscy9v2fyrs6i8r84351q/cinehispano.jpg?rlkey=ke0zc0c9lfv8iv9bmpbvcgqkl&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="310" type="channel",Cine Premium
+http://francope.elementfx.com/live/sta01/CinePremium/live_dash_cld/CinePremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
+#EXTINF:-1 tvg-id="Comedy Central.ar" tvg-name="Comedy Central" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CCENT.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="311" type="channel",Comedy Central
+http://francope.elementfx.com/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
+#EXTINF:-1 tvg-id="De Película.ar" tvg-name="De película" tvg-logo="https://dl.dropbox.com/scl/fi/mpiciqqwxiy5z7u0opv9z/depelicula.jpg?rlkey=219iltoyf7si8dgco7g5vv6g7&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="312" type="channel",De película
+http://francope.elementfx.com/live/eds/DePelicula/live_dash_cld/DePelicula.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
+#EXTINF:-1 tvg-id="DHE.ar" tvg-name="DHE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHELA.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="313" type="channel",DHE
+http://francope.elementfx.com/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0fc214d9844a7590f0884d55b44c42:b2fe1bb5f9c79035301c328c1e93b0ee
+#EXTINF:-1 tvg-id="EUROCHANNEL" tvg-name="Eurochannel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EUROC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="314" type="channel",Eurochannel
+http://francope.elementfx.com/live/c6eds/Eurochannel/SA_Live_dash_enc/Eurochannel.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vcnxaWqC7nOY3Tp/qCMA4g","kid":"tH8lffAxTQmn+DVcOr4dxg"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="Europa Europa HD.uy" tvg-name="EUROPA EUROPA" tvg-logo="https://i.ibb.co/55MWDF3/EUROPAEUROPALOGO2016.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="315" type="channel",Europa Europa
+http://francope.elementfx.com/live/c6eds/Europa_Europa/SA_Live_dash_enc/Europa_Europa.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
+#EXTINF:-1 tvg-id="FX HD.uy" tvg-name="FX" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CANFX.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="316" type="channel",FX
+http://francope.elementfx.com/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7d085dbd4539afcc6a55445efb2b04e:0a55fbe044fed379d1632b589265b571
+#EXTINF:-1 tvg-id="Golden.ar" tvg-name="Golden" tvg-logo="https://i.ibb.co/s1yPj71/19d8ad2b2b4e8ec851d2bcbf42691efe.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="317" type="channel",Golden
+http://francope.elementfx.com/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#EXTINF:-1 tvg-id="Golden Edge.ar" tvg-name="Golden Edge" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="318" type="channel",Golden Edge
+http://francope.elementfx.com/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
+#EXTINF:-1 tvg-id="HBO HD.uy" tvg-name="HBO" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOLA.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="319" type="channel",HBO
+http://francope.elementfx.com/live/c4eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+#EXTINF:-1 tvg-id="HBO 2 HD.uy" tvg-name="HBO 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="320" type="channel",HBO 2
+http://francope.elementfx.com/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+#EXTINF:-1 tvg-id="HBO Plus HD.uy" tvg-name="HBO Plus" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPL.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="321" type="channel",HBO Plus
+http://francope.elementfx.com////live/c6eds/HBO_Plus/SA_Live_dash_enc/HBO_Plus.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
+#EXTINF:-1 tvg-id="HBO Family.uy" tvg-name="HBO Family" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOF.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="322" type="channel",HBO Family
+http://francope.elementfx.com////live/c6eds/HBO_Family/SA_Live_dash_enc/HBO_Family.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
+#EXTINF:-1 tvg-id="HBO Mundi HD.uy" tvg-name="HBO Mundi" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOMN.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="323" type="channel",HBO Mundi
+http://francope.elementfx.com/live/c6eds/HBO_Mundi/SA_Live_dash_enc/HBO_Mundi.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
+#EXTINF:-1 tvg-id="HBO POP HD.uy" tvg-name="HBO Pop" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOPP.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="324" type="channel",HBO Pop
+http://francope.elementfx.com/live/c7eds/HBO_POP/SA_Live_dash_enc/HBO_POP.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
+#EXTINF:-1 tvg-id="HBO Signature HD.uy" tvg-name="HBO Signature" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOSG.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="325" type="channel",HBO Signature
+http://francope.elementfx.com/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
+#EXTINF:-1 tvg-id="HBO Xtreme HD.uy" tvg-name="HBO Xtreme" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBOXT.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="326" type="channel",HBO Xtreme
+http://francope.elementfx.com/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9cab32316b3d8aae0452755cebdaadd:35e61869849168043a44045f2d7ff842
+#EXTINF:-1 tvg-id="Kanal D.uy" tvg-name="Kanal D Drama" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1803/CH_LOGO/165/165/0/0/91513859074694.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="327" type="channel",Kanal D Drama
+http://francope.elementfx.com/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a48e923df0b1783bfa0e82a3c51fc20:122676906256fb0154d841936909c57b
+#EXTINF:-1 tvg-id="MORBIDO TV" tvg-name="Mórbido tv" tvg-logo="https://dl.dropbox.com/scl/fi/6un36x6dt7errr3wvlqj5/morbido.jpg?rlkey=w7ljs0524jwwh7do59ayla4py&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="328" type="channel",Mórbido tv
+http://francope.elementfx.com/bpk-tv/Morbido/default/index_fk.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
+#EXTINF:-1 tvg-id="NOVELISIMA" tvg-name="Novelísima" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2484/CH_LOGO/800/542/0/0/68355397076898.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="329" type="channel",Novelísima
+http://francope.elementfx.com/bpk-tv/Novelis/default/index_fk.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
+#EXTINF:-1 tvg-id="Paramount HD.uy" tvg-name="Paramount Network" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/PRMT.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="330" type="channel",Paramount Network
+http://francope.elementfx.com/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d41cf825e878f0d8e276218af7f5b7e1:13d1b73ab578ab8623be9347bcf8972a
+#EXTINF:-1 tvg-id="Pasiones.uy" tvg-name="Pasiones" tvg-logo="https://i.ibb.co/Jd4QbVc/800px-Pasiones-Tv-logo-svg.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="331" type="channel",Pasiones
+http://francope.elementfx.com/live/c7eds/Pasiones/SA_Live_dash_enc/Pasiones.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
+#EXTINF:-1 tvg-id="Sony HD.uy" tvg-name="Sony Channel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SONYC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="332" type="channel",Sony Channel
+http://francope.elementfx.com/live/c7eds//SonyHD/SA_Live_dash_enc/SonyHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b9c41e72acd5b589bbfb4776969781:43b9403f7a9e28fc2d7cbf10373b85aa
+#EXTINF:-1 tvg-id="Sony Movies.uy" tvg-name="Sony Movies" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SNYMV.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="333" type="channel",Sony Movies
+http://francope.elementfx.com/live/c7eds/Sony_Movies/SA_Live_dash_enc/Sony_Movies.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
+#EXTINF:-1 tvg-id="Space HD.uy" tvg-name="Space" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SPAC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="334" type="channel",Space
+http://francope.elementfx.com/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
+#EXTINF:-1 tvg-id="STAR Channel HD.uy" tvg-name="Star Channel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STARC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="335" type="channel",Star Channel
+http://francope.elementfx.com/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
+#EXTINF:-1 tvg-id="Studio Universal HD.uy" tvg-name="Studio Universal" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/STUN.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="336" type="channel",Studio Universal
+http://francope.elementfx.com/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
+#EXTINF:-1 tvg-id="TCM SD.uy" tvg-name="TCM" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TCMLA.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="337" type="channel",TCM
+http://francope.elementfx.com/live/c6eds/TCM/SA_Live_dash_enc/TCM.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60cb38a05880cd0eb429f71398609540:c251aac7943c0d1324aa9a4129f3afd4
+#EXTINF:-1 tvg-id="TLNovelas.ar" tvg-name="TL Novelas" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/3871340007170.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="338" type="channel",TL Novelas
+http://francope.elementfx.com/live/c6eds/Telenovelas/SA_Live_dash_enc/Telenovelas.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
+#EXTINF:-1 tvg-id="TNT HD.uy" tvg-name="TNT" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTAR.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="339" type="channel",TNT
+http://francope.elementfx.com/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
+#EXTINF:-1 tvg-id="TNT Novelas.uy" tvg-name="TNT Novelas" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTNO.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="340" type="channel",TNT Novelas
+http://francope.elementfx.com/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
+#EXTINF:-1 tvg-id="TNT Series HD.uy" tvg-name="TNT Series" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TNTSE.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="341" type="channel",TNT Series
+http://francope.elementfx.com/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+#EXTINF:-1 tvg-id="Universal HD.uy" tvg-name="Universal TV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVTV.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="342" type="channel",Universal TV
+http://francope.elementfx.com/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
+#EXTINF:-1 tvg-id="Universal Premiere.uy" tvg-name="Universal Premiere" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIPR.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="343" type="channel",Universal Premiere
+http://francope.elementfx.com/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
+#EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-name="Universal Cinema" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="344" type="channel",Universal Cinema
+http://francope.elementfx.com/live/c6eds/Universal_Cinema/SA_Live_dash_enc/Universal_Cinema.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
+#EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-name="Universal Comedy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="345" type="channel",Universal Comedy
+http://francope.elementfx.com/live/c6eds/Universal_Comedy/SA_Live_dash_enc/Universal_Comedy.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
+#EXTINF:-1 tvg-id="Universal Crime.uy" tvg-name="Universal Crime" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="346" type="channel",Universal Crime
+http://francope.elementfx.com/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
+#EXTINF:-1 tvg-id="Universal Reality.uy" tvg-name="Universal Reality" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="347" type="channel",Universal Reality
+http://francope.elementfx.com/live/c6eds/Universal_Reality/SA_Live_dash_enc/Universal_Reality.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
+#EXTINF:-1 tvg-id="USA.uy" tvg-name="USA" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SYFY.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="348" type="channel",USA
+http://francope.elementfx.com/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
+#EXTINF:-1 tvg-id="Warner HD.uy" tvg-name="Warner" tvg-logo="https://static.flow.com.ar/images/298/CH_LOGO/350/500/0/0/90263585073787.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="349" type="channel",Warner
+http://francope.elementfx.com/live/c7eds//WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
+#EXTINF:-1 tvg-id="Animal Planet HD.uy" tvg-name="Animal Planet" tvg-logo="https://static.flow.com.ar/images/643/CH_LOGO/1920/1080/0/0/72827036071623.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="400" type="channel",Animal Planet
+http://francope.elementfx.com/live/c7eds//AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
+#EXTINF:-1 tvg-id="Discovery HD.uy" tvg-name="Discovery" tvg-logo="https://static.flow.com.ar/images/271/CH_LOGO/350/500/0/0/48950714073066.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="401" type="channel",Discovery
+http://francope.elementfx.com/live/c3eds/DiscoveryHD/SA_Live_dash_enc/DiscoveryHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b0a76dd7a0df1e1b4320aeb1254d1a9:d011267775c38d6d2ab09b428c03d63f
+#EXTINF:-1 tvg-id="Home and Health HD.uy" tvg-name="Discovery Home And Health" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSH&H.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="402" type="channel",Discovery Home And Health
+http://francope.elementfx.com/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
+#EXTINF:-1 tvg-id="Investigation Discovery.uy" tvg-name="Discovery ID" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSID.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="403" type="channel",Discovery ID
+http://francope.elementfx.com/live/c7eds//ID/SA_Live_dash_enc/ID.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46ba409fb04e40fb86b466d97e3a9588:f129fb9b5d213e20e2abe529b8cf2597
+#EXTINF:-1 tvg-id="Discovery Science HD.uy" tvg-name="Discovery Science" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCNC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="404" type="channel",Discovery Science
+http://francope.elementfx.com/live/c6eds/Discovery_Science/SA_Live_dash_enc/Discovery_Science.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5279c05ea51c4dae8e7fa6be88448089:b28dfafba4b848dfd5d7c177ebf19108
+#EXTINF:-1 tvg-id="Discovery Theater HD.uy" tvg-name="Discovery Theather" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DTHTR.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="405" type="channel",Discovery Theather
+http://francope.elementfx.com/live/c6eds/Theater_HD/SA_Live_dash_enc/Theater_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58761c7b2819491eb3a0d765842c341a:9dabc48f88bd7f266734e57501bd6f47
+#EXTINF:-1 tvg-id="TLC HD.uy" tvg-name="Discovery TLC" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSTLC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="406" type="channel",Discovery TLC
+http://francope.elementfx.com/live/c6eds/TLC/SA_Live_dash_enc/TLC.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a611ddbf8c15fa617a0c391cb7b3e128:0cd1300baf8890380fd41124962195c4
+#EXTINF:-1 tvg-id="Discovery Turbo HD.uy" tvg-name="Discovery Turbo" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DSCTR.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="407" type="channel",Discovery Turbo
+http://francope.elementfx.com/live/c7eds//DiscoveryTurbo/SA_Live_dash_enc/DiscoveryTurbo.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ee94c2263345f7a3a590661264e490:56757d656a697ab7a2e5e083b5d21bb5
+#EXTINF:-1 tvg-id="Discovery World HD.uy" tvg-name="Discovery World" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DWRLD.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="408" type="channel",Discovery World
+http://francope.elementfx.com/live/c6eds/Discovery_World_HD/SA_Live_dash_enc/Discovery_World_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5883553207f13e3dc8cecd1113d5ba68:45434d40636dfa0e5312b93218e02185
+#EXTINF:-1 tvg-id="E!.uy" tvg-name="E-Entertaiment" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ENTMN.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="409" type="channel",E-Entertaiment
+http://francope.elementfx.com/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=93d853ac4c8e24cf0295f6f97ee53bd3:fa5817fab4fb054ccea1abb9f3d767ed
+#EXTINF:-1 tvg-id="El Gourmet HD.uy" tvg-name="El Gourmet" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GRMT.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="410" type="channel",El Gourmet
+http://francope.elementfx.com/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91c540d350f34f5386f3f1c77f74001f:54ee72810551da0cba0c45a8df651962
+#EXTINF:-1 tvg-id="Film and Arts HD.uy" tvg-name="Film & Arts" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/F&ART.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="411" type="channel",Film & Arts
+http://francope.elementfx.com/live/c6eds/Film_Arts/SA_Live_dash_enc/Film_Arts.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ca0fbad21a0e908c0280dcc27e6ee0e:62670eedbafdf9360b4ecaed738e26cd
+#EXTINF:-1 tvg-id="Food Network HD.uy" tvg-name="Food Network" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FDNET.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="412" type="channel",Food Network
+http://francope.elementfx.com/live/c6eds/Food_Network/SA_Live_dash_enc/Food_Network.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43bc6a87ee4f21aa320ba00b980a6fd8:bd55130539a30faa1d90b3142eebe0b2
+#EXTINF:-1 tvg-id="HGTV.uy" tvg-name="HGTV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/DHGTV.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="413" type="channel",HGTV
+http://francope.elementfx.com/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
+#EXTINF:-1 tvg-id="History HD.uy" tvg-name="History" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HSTRY.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="414" type="channel",History
+http://francope.elementfx.com/live/c7eds//HistoryHD/SA_Live_dash_enc/HistoryHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
+#EXTINF:-1 tvg-id="History 2 HD.uy" tvg-name="History 2" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HST2.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="415" type="channel",History 2
+http://francope.elementfx.com/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
+#EXTINF:-1 tvg-id="Hola TV HD.uy" tvg-name="Hola! TV" tvg-logo="https://mma.prnewswire.com/media/1199606/HOLA_TV_Logo.jpg" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="416" type="channel",Hola! TV
+http://francope.elementfx.com/live/c7eds/Hola_TV/SA_Live_dash_enc/Hola_TV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d
+#EXTINF:-1 tvg-id="Lifetime.uy" tvg-name="Lifetime" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/LFTME.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="417" type="channel",Lifetime
+http://francope.elementfx.com/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-name="Love Nature" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/64384481074718.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="418" type="channel",Love Nature
+http://francope.elementfx.com/bpk-tv/LoveNature/default/index_fk.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac8ff1688994efd898222acdd05cafc:22fdf97c7233667518258ed16ccb2545
+#EXTINF:-1 tvg-id="Mas Chic.uy" tvg-name="Más Chic" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MCHIC.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="419" type="channel",Más Chic
+http://francope.elementfx.com/live/c6eds/Mas_Chic/SA_Live_dash_enc/Mas_Chic.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4be0c61ceddc62294cc9e23b627af53d:852c1935d11c3c53d0a1ceff3bb3bf16
+#EXTINF:-1 tvg-id="National Geographic HD.uy" tvg-name="National Geographic" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NTGEO.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="420" type="channel",National Geographic
+http://francope.elementfx.com/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
+#EXTINF:-1 tvg-id="Sun Channel HD.uy" tvg-name="Sun Channel" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/SUNCH.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="421" type="channel",Sun Channel
+http://francope.elementfx.com/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b93e6ce6b4fb51b890ac57d8c0b6a402:53eb2499d8c57cf6f9ea887c8683c591
+#EXTINF:-1 tvg-id="CBA24N" tvg-name="CBA24N córdoba" tvg-logo=" https://i.ibb.co/K2sJwVC/canal-u.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="450" type="channel",CBA24N córdoba
+http://francope.elementfx.com/live/c4eds/CBA24/SA_Live_dash_enc/CBA24.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a866ca98bef2351a68e4843139f8073:b0893077653d1ef842a1b65d8b34455a
+#EXTINF:-1 tvg-id="CanalC" tvg-name="Canal c córdoba" tvg-logo="https://i.ibb.co/F6bXsYs/canal-c.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="451" type="channel",Canal c córdoba
+http://francope.elementfx.com/live/c5eds/Canal_C/SA_Live_dash_enc/Canal_C.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7804609194dc7145bf297153276096d2:03d3f4e3d0b35362dadfddce10dee00c
+#EXTINF:-1 tvg-id="Local-Carlos-Paz" tvg-name="Canal Local Carlos Paz" tvg-logo="https://i.ibb.co/5RH9HTB/next-multimedio.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="452" type="channel",Canal Local Carlos Paz
+http://francope.elementfx.com/live/c4eds/Local_Carlos_Paz/SA_Live_dash_enc/Local_Carlos_Paz.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1e6f58369fa0457670eb452cb49f8a:4a5b005a7dbd38fe00c50d27fa23ab0a
+#EXTINF:-1 tvg-id="132#Telediario Television" tvg-name="TeleDiario TV" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="453" type="channel",TeleDiario TV
+http://francope.elementfx.com/bpk-tv/TelediarioTelevision/default/index_fk.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f7523ea5a2da78c465d928be1d81e2a5:870ad69e98abd52b443bd8f0204b3bc4
+#EXTINF:-1 tvg-id="354#Canal LUZ (ARG)" tvg-name="Canal Luz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Canal_Luz_actual.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="490" type="channel",Canal Luz
+http://francope.elementfx.com/live/c7eds/CANAL_LUZ/SA_Live_dash_enc/CANAL_LUZ.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
+#EXTINF:-1 tvg-id="350#Eternal Word TV Network" tvg-name="EWTN" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EWTNE.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="491" type="channel",EWTN
+http://francope.elementfx.com/live/c6eds/EWTN/SA_Live_dash_enc/EWTN.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
+#EXTINF:-1 tvg-id="351#Canal 21 (ARG)" tvg-name="Orbe 21" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CAN21.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="492" type="channel",Orbe 21
+http://francope.elementfx.com/live/c6eds/Canal_21/SA_Live_dash_enc/Canal_21.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
+#EXTINF:-1 tvg-id="[CNSTMAR] Canal Santa Maria" tvg-name="Santa María" tvg-logo="https://i.ibb.co/b1fNV1N/santamaria.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="493" type="channel",Santa María
+http://francope.elementfx.com/live/c3eds/Senal_Maria/SA_Live_dash_enc/Senal_Maria.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
+#EXTINF:-1 tvg-id="Allegro HD.uy" tvg-name="Allegro" tvg-logo="https://i.ibb.co/ts85rN6/allegro.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="500" type="channel",Allegro
+http://francope.elementfx.com/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
+#EXTINF:-1 tvg-id="El Canal de la Música.ar" tvg-name="CM" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CMMUS.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="501" type="channel",CM
+http://francope.elementfx.com/live/c6eds/CM/SA_Live_dash_enc/CM.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
+#EXTINF:-1 tvg-id="HTV.ar" tvg-name="HTV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HTVLA.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="502" type="channel",HTV
+http://francope.elementfx.com/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f1be10d0519e0c453105f01319fe407:9976d91bfcdc7dd2148d36af89027762
+#EXTINF:-1 tvg-id="MI MUSICA ROMANTICA" tvg-name="Mi Música Romántica" tvg-logo="https://dl.dropbox.com/scl/fi/oyoz88f5hzgaua0nje1tp/mimusicaromantica.jpg?rlkey=a0qrjtsg6hxnxumqidg4nftzx&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="503" type="channel",Mi Música Romántica
+http://francope.elementfx.com/live/sta01/MiMusicaRomantica/live_dash_cld/MiMusicaRomantica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d288fc2da0339c9cfa178be4a07c4cd2:c0e25b5d30b6829b15266e84807a0ca6
+#EXTINF:-1 tvg-id="MI MUSICA REGGAETON" tvg-name="Mi Música Reggaetón" tvg-logo="https://dl.dropbox.com/scl/fi/1yavhav8gktbcc4i9rwo9/mimusicareggaeton.jpg?rlkey=xshw7gl137ob57qqhee5f9xh3&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="504" type="channel",Mi Música Reggaetón
+http://francope.elementfx.com/live/sta01/MiMusicaReggaeton/live_dash_cld/MiMusicaReggaeton.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2246c747e5f4e1dc055050d178618935:c6c2a6693bec059ebced788d09d271f3
+#EXTINF:-1 tvg-id="MI MUSICA HITS" tvg-name="Mi Música Hit" tvg-logo="https://dl.dropbox.com/scl/fi/3d937mfna3nsyxztl23cl/mimusicahits.jpg?rlkey=e4w2p44563gbkx4mx707ayiot&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="505" type="channel",Mi Música Hit
+http://francope.elementfx.com/live/sta01/MiMusicaHit/live_dash_cld/MiMusicaHit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6f0b2b0142007b8624de0c2d53962c8:46b8fb713fdd09a1c55b85b6f8ad9c9c
+#EXTINF:-1 tvg-id="MI MUSICA K-POP" tvg-name="Mi Música Pop" tvg-logo="https://dl.dropbox.com/scl/fi/jqpghihetk0a1eg0vzetj/mimusicapop.jpg?rlkey=nsvi3mswdrf3bjhm28d5oqztq&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="506" type="channel",Mi Música Pop
+http://francope.elementfx.com/live/eds/MiMusicaKPOP/live_dash_cld/MiMusicaKPOP.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c9eb3ead38a122ac460ad96a8ebfd2e:66bfbfa4449eb8bc1bcf7577d5bffaad
+#EXTINF:-1 tvg-id="MTV HD.uy" tvg-name="MTV" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTVLA.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="507" type="channel",MTV
+http://francope.elementfx.com/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
+#EXTINF:-1 tvg-id="[MTV00S] MTV 00s" tvg-name="MTV 00s" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTV00.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="508" type="channel",MTV 00s
+http://francope.elementfx.com/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61008dfc867544cd872de99b1f2b82cf:716449756316b91c54803aaa22a2fbf0
+#EXTINF:-1 tvg-id="MTV Hits.uy" tvg-name="MTV Hits" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/MTVHS.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="509" type="channel",MTV Hits
+http://francope.elementfx.com/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=886601a4fdbcbfebacbabfebcb72a9ef:6513b2b8fda2b4d2f3d940c621e1c30e
+#EXTINF:-1 tvg-id="MTV LIVE" tvg-name="MTV Live" tvg-logo="https://dl.dropbox.com/scl/fi/7h4u38ddthfv66yf5qvy4/mtvlive.jpg?rlkey=n5gfbgi7wnbkngnrs21iy18ck&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="510" type="channel",MTV Live
+http://francope.elementfx.com/live/eds/MTVLive/live_dash_cld/MTVLive.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
+#EXTINF:-1 tvg-id="Quiero.ar" tvg-name="Quiero Musica" tvg-logo="https://static.flow.com.ar/images/715/CH_LOGO/1920/1080/0/0/80393273073281.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="511" type="channel",Quiero Musica
+http://francope.elementfx.com/live/c6eds/Quiero_HD/SA_Live_dash_enc/Quiero_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae6c12ccab349e6ae675ab6ed8a476c:4a4fd86ea9db4417ec86c237d3111b18
+#EXTINF:-1 tvg-id="[NIKMLA] Nickmusic" tvg-name="Nick Music" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/NKMUS.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="515" type="channel",Nick Music
+http://francope.elementfx.com/live/c6eds/Nickmusic/SA_Live_dash_enc/Nickmusic.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=930f2b33864637faf2b2dab6c8d0ba92:530e6561cc4197e9eab7bf7b6f35a3ed
+#EXTINF:-1 tvg-id="TELEHIT" tvg-name="TeleHit Música Plus" tvg-logo="https://dl.dropbox.com/scl/fi/cnsdchbhpht3u6wibavfe/telehitmusica.jpg?rlkey=y3f4n42wtb7mw94jmg31r6j4e&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="516" type="channel",TeleHit Música Plus
+http://francope.elementfx.com/live/eds/Telehit/live_dash_cld/Telehit.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabe2c22350c26c7f0ad84b34932f08d:39fa06836ec0f81d8dd9b6e01a3070e3
+#EXTINF:-1 tvg-name="Vorterix" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/VTRIX.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="517" type="channel",Vorterix
+http://francope.elementfx.com/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6075bd0304bd40812aaa2a113b30be24:98c85fae2ce02017573a23fad09a8dfa
+#EXTINF:-1 tvg-id="elfolclorico" tvg-name="El Folklórico" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/4061/CH_LOGO/800/542/0/0/46266908079132.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="518" type="channel",El Folklórico
+http://francope.elementfx.com/bpk-tv/ElFolklorico/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 tvg-id="billboard" tvg-name="BillBoard TV" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/901/CH_LOGO/600/600/0/0/12050400077728.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="519" type="channel",BillBoard TV
+http://francope.elementfx.com/output/SMT1/BLBD/output.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
+#EXTINF:-1 tvg-name="HEI NOW" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/47226827072588.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="520" type="channel",HEI NOW
+http://francope.elementfx.com/live/c4eds/HEI_NOW/SA_Live_dash_enc/HEI_NOW.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7aa008e0092f4475a414584368a043c4:a3882463c009fd78290cac6c9b958ca1
+#EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="Al Jazeera" tvg-logo="http://78.47.174.211/logos/aljazeera.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="600" type="channel",Al Jazeera
+http://francope.elementfx.com/out/v1/Alljazzera/SA_Live_dash_enc/Alljazzera.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e1ad422a6714482b66fa702c16e50c6:4fdf28a0ab91356ca55a75f4e9bf8c92
+#EXTINF:-1 tvg-id="Antena 3.uy" tvg-name="Antena 3 Internacional" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ANTN3.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="601" type="channel",Antena 3 Internacional
+http://francope.elementfx.com/live/c6eds/Antena_3/SA_Live_dash_enc/Antena_3.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=436d78a75fad9bdcc6d409640c116a62:c77471ac3b694513a9c5ff68b8d4fac5
+#EXTINF:-1 tvg-id="Ariran" tvg-name="Ariran" tvg-logo="https://dl.dropbox.com/scl/fi/ypa36be1uanbbg5tit6un/ariran.jpg?rlkey=95uva8kx766zprs4m5xytgdj2&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="602" type="channel",Ariran
+http://francope.elementfx.com/live/c7eds/Arirang/SA_Live_dash_cenc/Arirang.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
+#EXTINF:-1 tvg-id="BBC World.uy" tvg-name="BBC News" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/BBCNW.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="603" type="channel",BBC News
+http://francope.elementfx.com/live/c6eds/BBC_World_News/SA_Live_dash_enc/BBC_World_News.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e50891cdc64452aae20d049727f2f3f:551871ba1dc6a95597ec0cb82eb3b2a4
+#EXTINF:-1 tvg-id="Bloomberg.uy" tvg-name="Bloomberg tv" tvg-logo="https://i.ibb.co/kccgz9B/Bloomberg-symbol.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="604" type="channel",Bloomberg tv
+http://francope.elementfx.com/live/c3eds/Bloomberg/SA_Live_dash_enc/Bloomberg.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
+#EXTINF:-1 tvg-id="Las Estrellas HD.uy" tvg-name="Canal De Las Estrellas" tvg-logo="https://static.flow.com.ar/images/670/CH_LOGO/350/500/0/0/74835190079.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="605" type="channel",Canal De Las Estrellas
+http://francope.elementfx.com/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b20ed9da0e5457c9dfd3ae0b6092491:98997a7020c18cb28174a2490147830a
+#EXTINF:-1 tvg-id="CNN Español.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="606" type="channel",CNN En Español
+http://francope.elementfx.com/live/c6eds/CNN_en_Espanol/SA_Live_dash_enc/CNN_en_Espanol.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f24708ad1184ee3a04b650941f9894b:e5bc7c5ff392119423dbf1c023a7b21c
+#EXTINF:-1 tvg-id="CNN Internacional.uy" tvg-name="CNNEE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNNEE.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="607" type="channel",CNN Internacional
+http://francope.elementfx.com/live/c6eds/CNN_Internacional/SA_Live_dash_enc/CNN_Internacional.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21563d82cfb7fdd18b213f0bd92a274f:5940d8d0b57b9e6533e99cc0e7bf2f8e
+#EXTINF:-1 tvg-id="700#DNews" tvg-name="D News" tvg-logo="https://i.ibb.co/gJL91wN/DNews.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="608" type="channel",D News
+http://francope.elementfx.com/live/c7eds/DNews/SA_Live_dash_enc/DNews.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e21fc12c6ee185fbc90a052b05026be9:0f96fd52903707aac0b42853a043ffd0
+#EXTINF:-1 tvg-id="Deustche Welle.uy" tvg-name="Deutsche Welle" tvg-logo="https://git.io/JOTLM" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="609" type="channel",Deutsche Welle
+http://francope.elementfx.com/live/c6eds/DW/SA_Live_dash_enc/DW.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d86b0f56d32f45adb0a6b4e488c8f0c2:e4f180b0e61be3e80ab602df5e56ff3f
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/EURON.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="610" type="channel",Euronews
+http://francope.elementfx.com/live/c6eds/Euronews/SA_Live_dash_enc/Euronews.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72187f2651724db18505cdcad435841d:6f41e05476e34edf7bb9dc51f08f95df
+#EXTINF:-1 tvg-id="France 24 HD.uy" tvg-name="France24" tvg-logo="http://78.47.174.211/logos/france24.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="611" type="channel",France24
+http://francope.elementfx.com/live/c6eds/France_24/SA_Live_dash_enc/France_24.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8a3d29db38c4a9fa9a838c3d4d681db:d3aa374c4c0de33f463b4387a18297a6
+#EXTINF:-1 tvg-id="France 24 en Español.ar" tvg-name="France24 Español" tvg-logo="http://78.47.174.211/logos/france24.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="612" type="channel",France24 Español
+http://francope.elementfx.com/live/c3eds/France24_Flow/SA_Live_dash_enc/France24_Flow.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fe3f31a5e7b48a1b548e9364757ce66:32993fc281207fe915f6f1e990957868
+#EXTINF:-1 tvg-name="FOX News" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/FOXNW.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="613" type="channel",FOX News
+http://francope.elementfx.com/live/c6eds/Fox_News/SA_Live_dash_enc/Fox_News.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=23419f2a0a214038a94e24db13ee85a9:4c627ad6b8774e548e28d4aaf82a96a0
+#EXTINF:-1 tvg-id="TV Galicia.uy" tvg-name="Galicia TV America" tvg-logo="https://static.flow.com.ar/images/729/CH_LOGO/350/500/0/0/778293230765.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="614" type="channel",Galicia TV America
+http://francope.elementfx.com/live/c6eds/Tv_Galicia/SA_Live_dash_enc/Tv_Galicia.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abdfd83824e9ba585f74fb72c647aa4f:9967e06e39893998d16714988d9d87f1
+#EXTINF:-1 tvg-id="CanalRural.lat" tvg-name="Latam Rural" tvg-logo="https://dl.dropbox.com/scl/fi/kdj2xc9eagwc620spbpee/rurallatam.jpg?rlkey=8uusg0pp1ddsc9g4vu3jir4zm&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="615" type="channel",Latam Rural
+http://francope.elementfx.com/live/c4eds/Latam_Rural/SA_Live_dash_enc/Latam_Rural.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b4f56d5c19b45fb3e75a73b6ec06e6c:c464e2b6ded2b52e1e7753b3a859abce
+#EXTINF:-1 tvg-id="New-Brasil" tvg-name="New Brasil" tvg-logo="https://i.ibb.co/5vSfGjj/new-brasil.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="616" type="channel",New Brasil
+http://francope.elementfx.com/live/c7eds/Bandeirantes/SA_Live_dash_enc/Bandeirantes.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
+#EXTINF:-1 tvg-id="RAI Italia HD.uy" tvg-name="RAI Italia" tvg-logo="https://static.flow.com.ar/images/716/CH_LOGO/1920/1080/0/0/577119940729.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="617" type="channel",RAI Italia
+http://francope.elementfx.com/live/c6eds/RAI/SA_Live_dash_enc/RAI.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b0bd8ea11b3f4c219903085ef1d44b0d:9a25709a72c2ca93cb738665736cfa5a
+#EXTINF:-1 tvg-id="Record Internacional.uy" tvg-name="Rede Record Brasil" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/7054147807685.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="618" type="channel",Rede Record Brasil
+http://francope.elementfx.com/live/c3eds/Rede_Record/SA_Live_dash_enc/Rede_Record.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
+#EXTINF:-1 tvg-id="Telemundo Internacional.ar" tvg-name="Telemundo Internacional.ar" tvg-logo="https://git.io/JOTtz" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="619" type="channel",Telemundo Internacional (Argentina)
+http://francope.elementfx.com/live/c7eds//Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5235d8ee29f14ce6b26ea5d828aee77a:6bf6bd339e3098babc2ab0b984cd2376
+#EXTINF:-1 tvg-id="teleSUR.ar" tvg-name="Telesur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/TeleSUR_Logo.jpg" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="620" type="channel",Telesur
+http://francope.elementfx.com/live/c6eds/Telesur/SA_Live_dash_enc/Telesur.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62034ff5988b4787b17cdf6f751a3142:b3938f0af28b4c0c082b0d4210e389a0
+#EXTINF:-1 tvg-id="TV5.uy" tvg-name="TV5Monde Amerique Latine" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TV5AL.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="621" type="channel",TV5Monde Amerique Latine
+http://francope.elementfx.com/live/c6eds/TV5_Monde/SA_Live_dash_enc/TV5_Monde.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
+#EXTINF:-1 tvg-id="TV Chile.uy" tvg-name="TV Chile" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVNI.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="622" type="channel",TV Chile
+http://francope.elementfx.com/live/c6eds/Tv_Chile/SA_Live_dash_enc/Tv_Chile.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=53e0a3741e2e4ff5843f165b53309088:45095caabd9a359cd7ea3910d865d643
+#EXTINF:-1 tvg-id="TVE.uy" tvg-name="TVE" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TVESP.png?raw=true" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="623" type="channel",TVE
+http://francope.elementfx.com/live/c6eds/TV_Espana/SA_Live_dash_enc/TV_Espana.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8236bef638490a63aacdc424df908658:6229f752364cd5e71cd31a9ef9757bf1
+#EXTINF:-1 tvg-id="VE PLUS TV" tvg-name="Ve Plus" tvg-logo="https://dl.dropbox.com/scl/fi/xk05kx05hq2265pfgmdvk/ve-plus.jpg?rlkey=7ery39zxclpw9gp4swdl8fj89&dl=1" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="624" type="channel",Ve Plus
+http://francope.elementfx.com/bpk-tv/VePlus/default/index_fk.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+
+#EXTINF:-1 group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="625" type="channel",RT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://francope.elementfx.com/mnp/iptvrt/output.mpd?|Referer=https://play.rocstar.tv/|Origin=https://play.rocstar.tv
+
+#EXTINF:-1 group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="626" type="channel",NHK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+http://francope.elementfx.com/mnp/nhk/output.mpd?|Referer=https://play.rocstar.tv/|Origin=https://play.rocstar.tv
+
+#EXTINF:0 group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      group-logo="https://portal.app.flow.com.ar/theme/flow/logo.svg",CANALES FLOW [Logo del Grupo]
+#EXTGRP:CANALES FLOW
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="703" type="channel",Canal 3 ROSARIO
+http://francope.elementfx.com/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6df95979c5b379c56f6e87a19e37be00:034564e9816644d6618644246347bc64
+#EXTINF:-1 group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="704" type="channel",Cable y Diario
+http://francope.elementfx.com/live/c6eds/Cable_Y_Diario/SA_Live_dash_enc_2A/Cable_Y_Diario.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/Telefe_Rosario_%282018%29.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="705" type="channel",TELEFÉ ROSARIO
+http://francope.elementfx.com/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7caca846fda0ac308553f7eb7284a596:256934a336abbc242378af4a2dfcac4e
+#EXTINF:-1 group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="705" type="channel",RTS TELEVISIÓN SANTAFESINA
+http://francope.elementfx.com/live/c4eds/5RTV/SA_Live_dash_enc/5RTV.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a15243320c0a79defa8814252e3e8c07:0659db05632c0061c126db7a12582499
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Canal_Siete_Bahia_Blanca.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="707" type="channel",Canal 7 Bahía Blanca
+http://francope.elementfx.com/live/c3eds/Canal7_Bahia_Blanca/SA_Live_dash_enc/Canal7_Bahia_Blanca.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55828b728b8affe6d1d57d050025645d:8ac11ed6d0ccaeac3f8218419f65bb94
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Canalsiete-nqn-logo.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="707" type="channel",Canal 7 NEUQUÉN
+http://francope.elementfx.com/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo-Canal-8-tucum%C3%A1n.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="708" type="channel",Canal 8 TV TUCUMÁN
+http://francope.elementfx.com/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ccfc823faed878832b3e4a69fcb72a2:d68b394ab768f4a2ec148ab8cdac46ef
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Canalnuevebblanca.png/640px-Canalnuevebblanca.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="709" type="channel",Canal 9 BAHÍA BLANCA
+http://francope.elementfx.com/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dde29700ee0423e1afe3828c6f251295:1928b62bc191bd26c357137d7d909868
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="709" type="channel",Canal 9 Chaco
+http://francope.elementfx.com/live/c4eds/CH_9_Resistencia/SA_Live_dash_enc/CH_9_Resistencia.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd573858f3414066b9292ef6397a5c3c:593eb5f7facce4240ff7a5f26afd47e0
+#EXTINF:-1 tvg-logo="https://polotecparana.com.ar/wp-content/uploads/2021/09/LOGO-CANAL-NUEVE-LITORAL-01-NueveLitoral.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="709" type="channel",Canal 9 Litoral
+http://francope.elementfx.com/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="710" type="channel",Canal 10 TUCUMÁN
+http://francope.elementfx.com/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82d766840c7ea82b4f309ae1d4f9c0d7:41071d71fc94b54c87e6140d7b2e9226
+#EXTINF:-1 group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="711" type="channel",El 11 Paraná
+http://francope.elementfx.com/live/c7eds/Canal_11_Parana/SA_Live_dash_enc/Canal_11_Parana.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c7a5de392f874308e4dd8f2837f1115:9ccf9ec6922c403d67d0df7952547581
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo-Canal-Once-Salta.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="711" type="channel",Canal 11 SALTA
+http://francope.elementfx.com/live/c4eds/Telefe_Salta/SA_Live_dash_enc/Telefe_Salta.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c996a1465acddc9c3f7a2dd9b86aa88:a2b63e48c99bebb52bfcdb1830efdd3e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Logo_Canal_12_-_Misiones.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="712" type="channel",Canal 12 MISIONES
+http://francope.elementfx.com/live/c4eds/CH_12_Posadas/SA_Live_dash_enc/CH_12_Posadas.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59ef9057114f44a480b62e36a6b1374f:74ef97bc54df5655c3a1d4f80b16e8d7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="713" type="channel",TELEFÉ SANTA FE
+http://francope.elementfx.com/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed542fdaa4598671e26aca3e160afed7:cdb880c60523b9ebc61b9003c41f8048
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcj2knBfG_p6DC8Vxb9_1NzM8lSmu9TQVSFab8ToqU_gusu7kccOkTClxQW_LTsUw9JCGmZE8yvosjkFrO_rOS95mSvQT785RYYY-VQ1lQw71n-YtW8gW2SXg5Wuh3OMWhDb71COlJLOfG4ovsmf2vjx2ZaOBiQzl0Vg24snZ9bthlwC4gk8eLlTTI/s614/Am%C3%A9rica_Tucum%C3%A1n-2019.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="714" type="channel",AMERICA TUCUMÁN
+http://francope.elementfx.com/live/c7eds/America_Tucuman/SA_Live_dash_enc/America_Tucuman.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0179a4ba9f407dfdee057a33f8f220c:e0c3f11cb1d7f8d17b7a1532f29edb0b
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="715" type="channel",Somos Corrientes
+http://francope.elementfx.com/live/c4eds/Somos_Corrientes/SA_Live_dash_enc/Somos_Corrientes.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=726c0ccee1985d0d59738bfe8e9aee2b:0ff2c5a2381d8f0b7b92565dceb4ca58
+#EXTINF:-1 group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="716" type="channel",somos entre ríos
+http://francope.elementfx.com/live/c4eds/Somos_Parana/SA_Live_dash_enc/Somos_Parana.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=513f2056bf40d9123918fd7939fbf065:075ee6dd9b67d88be5642eaa510e91cb
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/8001/CH_LOGO/60/40/0/0/68046414071342.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="717" type="channel",Somos El Valle
+http://francope.elementfx.com/live/c4eds/Somos_El_Valle/SA_Live_dash_enc/Somos_El_Valle.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bffd3b447aa44a429a703245836e46fa:13be31c0bcb76b28b1248bf64ab3926e
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1045/CH_LOGO/60/40/0/0/6716887007729.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="718" type="channel",Somos La Plata
+http://francope.elementfx.com/live/c6eds/Somos_La_Plata/SA_Live_dash_enc/Somos_La_Plata.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b57763b8d9c205d609ea509432201fac:a476cf79190fe4810efdd81e32317ff3
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/6637/CH_LOGO/60/40/0/0/4485570807941.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="719" type="channel",SOMOS MAR DEL PLATA NECOCHEA
+http://francope.elementfx.com/live/c4eds/Canal_Ciudad_MDQ/SA_Live_dash_enc/Canal_Ciudad_MDQ.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee8a6cc35fdb4ab7adeed9d16593459f:5ca774838d5c887f7a8d7dee64b9a6b0
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/717/CH_LOGO/60/40/0/0/2025760607999.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="720" type="channel",Somos Norte
+http://francope.elementfx.com/live/c6eds/Somos_Norte/SA_Live_dash_enc/Somos_Norte.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7071b5b3283cebd376d1ba9c6e53ba6e:87a6c4c8baaefb073270e92f092b4c25
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7997/CH_LOGO/60/40/0/0/52917235072031.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="721" type="channel",Somos Rafaela
+http://francope.elementfx.com/live/c4eds/Somos_Rafaela/SA_Live_dash_enc/Somos_Rafaela.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="722" type="channel",Somos Rosario
+http://francope.elementfx.com/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9879546bcfd8a4231ce7502062f424fb:e071693afea3e58f8b28bf5b2311e3fc
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/7960/CH_LOGO/60/40/0/0/80711622072411.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="723" type="channel",Somos Salta Jujuy
+http://francope.elementfx.com/live/c4eds/Somos_Salta/SA_Live_dash_enc/Somos_Salta.mpd?|Origin=https://portal.app.flow.com.ar
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1344e18e45e6e6e5ec0a302d769c8e52:913cfe90bb3af2d402eada6ad50ce22d
+#EXTINF:-1 tvg-logo="https://static.flow.com.ar/images/1263/CH_LOGO/60/40/0/0/5370906407919.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="724" type="channel",Somos Santa Fe
+http://francope.elementfx.com/live/c5eds/Somos_STF/SA_Live_dash_enc/Somos_STF.mpd?|Origin=https://portal.app.flow.com.ar
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logotipo_de_Televisa_%282000-2016%29.png" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="801" type="channel",Novelas Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo Acción" tvg-name="Telemundo Acción" tvg-logo="https://git.io/JOTtz" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="802" type="channel",Telemundo Acción
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo Romance" tvg-name="Telemundo Romance" tvg-logo="https://git.io/JOTtz" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="803" type="channel",Caso Cerrado
+https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/solidLogoPNG.png?worldtv2" group-title="🇦🇷 SERVIDOR FLOW 🇦🇷"      ch-number="804" type="channel",Telefe Hits
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+
+
+
