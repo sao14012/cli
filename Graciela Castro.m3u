@@ -22486,3 +22486,78 @@ https://chromecast.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEF
 https://chromecast.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
 ```
 
+
+
+
+
+
+###########################################################################################################
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/340?cb=20221115002318&path-prefix=es" group-title="DSPORTS 1",DSPORTS +
+http://179.51.136.19:8000/play/a112/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="73" tvg-name="DirectTV Sports" tvg-logo="https://i.imgur.com/directv-sports-logo.png" group-title="Deportes",DirectTV Sports
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-id="74" tvg-name="DirectTV Sports 2" tvg-logo="https://i.imgur.com/directv-sports2-logo.png" group-title="Deportes",DirectTV Sports 2
+http://179.51.136.19:8000/play/a112/index.m3u8
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD1
+http://172.93.102.112:8989/279390_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD2
+http://199.127.63.143:8989/278892_.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD3
+http://38.187.3.110:8000/play/a04m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD4
+http://38.199.6.1:17001/play/a0d0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD5
+http://179.63.6.17:9000/play/a08e
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD6
+http://38.252.213.17:8000/play/a08e
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD7
+http://201.230.121.85:8000/play/a0yv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD8
+http://38.56.98.38:8050/play/a06p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD9
+http://38.199.5.160:8000/play/a09q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(PE)HD10
+http://179.63.6.17:9000/play/a08e
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(ACC)HD11
+http://209.45.81.84:8000/play/a03d
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(ACC)HD12
+http://190.117.20.39:8000/play/a08d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(ACC)HD13
+http://190.117.20.38:8000/play/a08d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(ACC)HD14
+http://38.199.6.1:17001/play/a0d0/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(ACC)HD15
+http://181.176.69.236:8028/play/a03d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(ACC)HD16
+http://191.97.63.230:2053/play/a0q8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(ACC)HD17
+http://191.97.63.230:2053/play/a0q8/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT1(ACC)HD18
+http://200.60.124.20:29000/play/a081/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT2.HD1
+http://179.51.136.19:8000/play/a112/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT2.HD2
+http://179.63.6.17:9000/play/a08c
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT2.HD3
+http://38.252.213.17:8000/play/a08c
+#EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT+.HD1
+http://38.199.6.1:17001/play/a0vx/index.m3u8
