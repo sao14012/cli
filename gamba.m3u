@@ -22563,3 +22563,452 @@ http://38.252.213.17:8000/play/a08c
 http://38.199.6.1:17001/play/a0vx/index.m3u8
 
 
+
+
+
+
+
+
+
+
+
+
+######################################################################################################################
+
+
+
+####   ESPAÑA     ########
+
+
+
+
+#############################################################################################################
+
+
+
+
+
+
+##################https://raw.githubusercontent.com/franperal352-hue/I/d3eba4675f201198ab393c15664046e271df59d0/E1%20%C3%B1a%C3%B1a.m3u#######
+
+
+
+
+
+#EXTM3U refresh="0.01" url-tvg="https://raw.githubusercontent.com/davidamalla/logos/refs/heads/main/miEPG.xml"
+
+
+
+#EXTINF:-1 tvg-id="TVG 2" tvg-name="ESPAÑA | TVG2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVG2.png" group-title="ESPAÑA ",ESPAÑA | TVG2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/524155.m3u
+#EXTINF:-1 tvg-id="AndaluciaTV" tvg-name="ESPAÑA | ANDALUCIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="ESPAÑA ",ESPAÑA | ANDALUCIA TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/524153.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | CAZAVISION" tvg-logo="https://play-lh.googleusercontent.com/Zr7aKt50FNHFA4ChHm7DbxkFwn1wY-rB8K6Ek8n1Njqv8sj1u0zY4K-BT2Ij7oKRAzU" group-title="ESPAÑA ",ESPAÑA | CAZAVISION
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/519704.m3u
+#EXTINF:-1 tvg-id="M+ BRAD PITT" tvg-name="ESPAÑA | Musicales por M+ SD" tvg-logo="https://tarifasweb.com/wp-content/uploads/2024/08/BradPitt_mp.jpg" group-title="ESPAÑA ",ESPAÑA | Musicales por M+ SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/500470.m3u
+#EXTINF:-1 tvg-name="PORTADA" tvg-logo="s:1:/images/jD2zXNV3D77Kyv8QAT_VEeKi4yagKJGT8SxBvIuhivXTMy-NPd7nPZXKQYM35n_47sS0s-VVzNUtpEYv7cagJMW_a5Fe5gdKROBM78MrAWY.png" group-title="ESPAÑA ",PORTADA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1.m3u
+#EXTINF:-1 tvg-name="************** TDT  **************" group-title="ESPAÑA ",************** TDT  **************
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/32398.m3u
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="ESPAÑA | LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="ESPAÑA ",ESPAÑA | LA 1
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/110.m3u
+#EXTINF:-1 tvg-id="La 2" tvg-name="ESPAÑA | LA 2 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="ESPAÑA ",ESPAÑA | LA 2 (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/109.m3u
+#EXTINF:-1 tvg-id="ANTENA 3" tvg-name="ESPAÑA | ANTENA 3 (SD)" tvg-logo="https://cadenaser.com/resizer/6aiwAhedMI2-sJTs-5ubCuzrE2E=/1200x900/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/prisaradio/OR447XI2O5MULDXVOU4QQMPRVM.jpg" group-title="ESPAÑA ",ESPAÑA | ANTENA 3 (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/111.m3u
+#EXTINF:-1 tvg-id="CUATRO" tvg-name="ESPAÑA | CUATRO (SD)" tvg-logo="https://estaticos.elmundo.es/television/programacion-tv/img/programas/88/346760.png" group-title="ESPAÑA ",ESPAÑA | CUATRO (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/88.m3u
+#EXTINF:-1 tvg-id="TELECINCO" tvg-name="ESPAÑA | TELECINCO (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="ESPAÑA ",ESPAÑA | TELECINCO (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/496.m3u
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="ESPAÑA | LA SEXTA (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/1425px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA ",ESPAÑA | LA SEXTA (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/81.m3u
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ESPAÑA | 24 HORAS (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="ESPAÑA ",ESPAÑA | 24 HORAS (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1042.m3u
+#EXTINF:-1 tvg-name="************** MOVISTAR  **************" group-title="ESPAÑA ",************** MOVISTAR  **************
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/32401.m3u
+#EXTINF:-1 tvg-id="M+ Suspense" tvg-name="ESPAÑA | M+ Los 90 (SD)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/cracks-reflejo.png?resize=440%2C264&ssl=1" group-title="ESPAÑA ",ESPAÑA | M+ Los 90 (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/153757.m3u
+#EXTINF:-1 tvg-id="M+ Originales" tvg-name="ESPAÑA | M+ ORIGINAL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ ORIGINAL SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/51196.m3u
+#EXTINF:-1 tvg-id="M+ Cine" tvg-name="ESPAÑA | M+ ESTRENOS (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ ESTRENOS (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/17.m3u
+#EXTINF:-1 tvg-id="M+ ACCIÓN HD" tvg-name="ESPAÑA | M+ ACCION (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ ACCION (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/21.m3u
+#EXTINF:-1 tvg-id="M+ COMEDIA" tvg-name="ESPAÑA | M+ COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/800px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ COMEDIA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/22.m3u
+#EXTINF:-1 tvg-id="M+.Drama.es" tvg-name="ESPAÑA | M+ Drama SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/2560px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ Drama SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/14.m3u
+#EXTINF:-1 tvg-id="M+.Clásicos.es" tvg-name="ESPAÑA | M+ CLASICO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg/250px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ CLASICO SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/93794.m3u
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="ESPAÑA | M+ CINE ESPAÑOL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="ESPAÑA ",ESPAÑA | M+ CINE ESPAÑOL
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/48.m3u
+#EXTINF:-1 tvg-id="Movistar Plus+" tvg-name="ESPAÑA | Movistar Plus+ SD" tvg-logo="https://play-lh.googleusercontent.com/58WhUbhDxh9K0a98dI4qNjwAyOBaNyGauw4RBENw7y4NMHTJQcKufiDUXFaRaTy8Xzc=w600-h300-pc0xffffff-pd" group-title="ESPAÑA ",ESPAÑA | Movistar Plus+ SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/13.m3u
+#EXTINF:-1 tvg-id="Movistar Plus+ 2" tvg-name="ESPAÑA | Movistar Plus 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS2.png" group-title="ESPAÑA ",ESPAÑA | Movistar Plus 2 SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/453655.m3u
+#EXTINF:-1 tvg-id="M+ Documentales" tvg-name="ESPAÑA | M+ DOCUMENTALES (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/2560px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ DOCUMENTALES (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/334349.m3u
+#EXTINF:-1 tvg-id="M+ Indie" tvg-name="ESPAÑA | M+ Indie" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/07/movistar_indie.png?fit=440%2C264&ssl=1" group-title="ESPAÑA ",ESPAÑA | M+ Indie
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/334352.m3u
+#EXTINF:-1 tvg-id="M+ Música HD" tvg-name="ESPAÑA | VELEVISA" group-title="ESPAÑA ",ESPAÑA | VELEVISA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/95109.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | VEGA FIBRA TV LOS DOLORES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEWdZCwMa1toDmAj0e2a1eYyDjEwYfzk3-w&s" group-title="ESPAÑA ",ESPAÑA | VEGA FIBRA TV LOS DOLORES
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/253623.m3u
+#EXTINF:-1 tvg-id="DreamWorks" tvg-name="ESPAÑA | M+ DREAMWORK" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/Dreamworks_200x200.jpg" group-title="ESPAÑA ",ESPAÑA | M+ DREAMWORK
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/92702.m3u
+#EXTINF:-1 tvg-id="SkyShowtime" tvg-name="ESPAÑA | SkyShowtime SD" tvg-logo="https://cdn.alza.sk/Foto/ImgGalery/Image/skyshowtime-cestina-info.jpg" group-title="ESPAÑA ",ESPAÑA | SkyShowtime SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/361004.m3u
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-name="ESPAÑA | HOLLYWOOD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/HWD_logo.svg" group-title="ESPAÑA ",ESPAÑA | HOLLYWOOD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/23.m3u
+#EXTINF:-1 tvg-id="TCM" tvg-name="ESPAÑA | TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="ESPAÑA ",ESPAÑA | TCM
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/45.m3u
+#EXTINF:-1 tvg-id="TCM" tvg-name="ESPAÑA | TCM 2 (EUSKATEL)" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/TCM-NOW-Logo.png" group-title="ESPAÑA ",ESPAÑA | TCM 2 (EUSKATEL)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/450531.m3u
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ESPAÑA | SUNDANCE" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SUNDAN" group-title="ESPAÑA ",ESPAÑA | SUNDANCE
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1305.m3u
+#EXTINF:-1 tvg-id="DARK" tvg-name="ESPAÑA | DARK" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/dark.jpg" group-title="ESPAÑA ",ESPAÑA | DARK
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/319589.m3u
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ESPAÑA | XTRM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="ESPAÑA ",ESPAÑA | XTRM
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/13465.m3u
+#EXTINF:-1 tvg-id="Somos" tvg-name="ESPAÑA | SOMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="ESPAÑA ",ESPAÑA | SOMOS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/7876.m3u
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="ESPAÑA | PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="ESPAÑA ",ESPAÑA | PARAMOUNT CHANNEL
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/86.m3u
+#EXTINF:-1 tvg-id="BOM" tvg-name="ESPAÑA | BOM CINE" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/bom_cine_200x200.png" group-title="ESPAÑA ",ESPAÑA | BOM CINE
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/38900.m3u
+#EXTINF:-1 tvg-name="************** SERIES  **************" group-title="ESPAÑA ",************** SERIES  **************
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/32400.m3u
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="ESPAÑA | M+ HITS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hits_por_Movistar_Plus%2B_2025_Logo.svg/2560px-Hits_por_Movistar_Plus%2B_2025_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ HITS SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/32.m3u
+#EXTINF:-1 tvg-id="CALLE 13" tvg-name="ESPAÑA | CALLE 13" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13" group-title="ESPAÑA ",ESPAÑA | CALLE 13
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/24.m3u
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="ESPAÑA | STAR" tvg-logo="https://pics.filmaffinity.com/star-153397291560362-nm_200.jpg" group-title="ESPAÑA ",ESPAÑA | STAR
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/28.m3u
+#EXTINF:-1 tvg-id="AXN" tvg-name="ESPAÑA | AXN" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN" group-title="ESPAÑA ",ESPAÑA | AXN
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/18.m3u
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-name="ESPAÑA | AXN Movies" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1" group-title="ESPAÑA ",ESPAÑA | AXN Movies
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/19.m3u
+#EXTINF:-1 tvg-id="AMC" tvg-name="ESPAÑA | AMC SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC" group-title="ESPAÑA ",ESPAÑA | AMC SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/29.m3u
+#EXTINF:-1 tvg-id="WARNERTV" tvg-name="ESPAÑA | Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="ESPAÑA ",ESPAÑA | Warner TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/30.m3u
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="ESPAÑA | SYFY" tvg-logo="https://www.syfy.es/sites/all/themes/pint_themes/base_syfywire/logo.svg" group-title="ESPAÑA ",ESPAÑA | SYFY
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/15.m3u
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="ESPAÑA | COSMOS" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/cosmo_200x200.png" group-title="ESPAÑA ",ESPAÑA | COSMOS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/629.m3u
+#EXTINF:-1 tvg-id="COMEDY CENTRAL" tvg-name="ESPAÑA | COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="ESPAÑA ",ESPAÑA | COMEDY CENTRAL
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/26.m3u
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ESPAÑA | MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/MTV-2021.svg" group-title="ESPAÑA ",ESPAÑA | MTV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/7.m3u
+#EXTINF:-1 tvg-id="FDF" tvg-name="ESPAÑA | FDF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="ESPAÑA ",ESPAÑA | FDF
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/46.m3u
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ESPAÑA | DIVINITY" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_circular_500_-1_d687.png" group-title="ESPAÑA ",ESPAÑA | DIVINITY
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/80.m3u
+#EXTINF:-1 tvg-id="mega" tvg-name="ESPAÑA | MEGA" tvg-logo="https://www.redestelecom.es/wp-content/uploads/2015/07/94610_37.jpg" group-title="ESPAÑA ",ESPAÑA | MEGA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/43.m3u
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="ESPAÑA | AMC CRIMEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/AMC_Crime.svg/320px-AMC_Crime.svg.png" group-title="ESPAÑA ",ESPAÑA | AMC CRIMEN
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/40.m3u
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="ESPAÑA | DECASA" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/decasa_200x200.png" group-title="ESPAÑA ",ESPAÑA | DECASA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/449.m3u
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="ESPAÑA | Canal COCINA" tvg-logo="https://yt3.googleusercontent.com/dNzSb2qIcXtaUAXmOeCmq4RXh36RoEaEYL7WNa05ua4DE8e8h9bm9-QTc9dyqk3nARQzaKM1=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA ",ESPAÑA | Canal COCINA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/117.m3u
+#EXTINF:-1 tvg-id="BeMad tv HD" tvg-name="ESPAÑA | BE MAD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/b/e/-/xbe-mad.jpg.pagespeed.ic.zX_t13597p.jpg" group-title="ESPAÑA ",ESPAÑA | BE MAD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/9100.m3u
+#EXTINF:-1 tvg-id="NEOX" tvg-name="ESPAÑA | NEOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGXzByEOYPhhHngZrKpoGvpGFxJkHKvDmnHfs1idOigA&s" group-title="ESPAÑA ",ESPAÑA | NEOX
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/41.m3u
+#EXTINF:-1 tvg-id="NOVA" tvg-name="ESPAÑA | NOVA" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/nova_200x200.png" group-title="ESPAÑA ",ESPAÑA | NOVA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/42.m3u
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ESPAÑA | CANAL ODISEA" tvg-logo="https://i.blogs.es/d18e49/logocanalodisea/450_1000.jpg" group-title="ESPAÑA ",ESPAÑA | CANAL ODISEA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/31.m3u
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ESPAÑA | HISTORIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="ESPAÑA ",ESPAÑA | HISTORIA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/52.m3u
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ESPAÑA | DISCOVERY  CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFwpTc74lBPdua8QmxpIklwbvhfBX92vYD_GTncJPIw&s" group-title="ESPAÑA ",ESPAÑA | DISCOVERY  CHANNEL
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/9.m3u
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ESPAÑA | NATIONAL GEOGRAFIC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | NATIONAL GEOGRAFIC
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/37.m3u
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ESPAÑA | NATIONAL GEOGRAFIC WILD" tvg-logo="https://logowik.com/content/uploads/images/nat-geo-wild7342.logowik.com.webp" group-title="ESPAÑA ",ESPAÑA | NATIONAL GEOGRAFIC WILD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/34.m3u
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="ESPAÑA| ENERGY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Energy.svg/1200px-Energy.svg.png" group-title="ESPAÑA ",ESPAÑA| ENERGY
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/72.m3u
+#EXTINF:-1 tvg-id="DMAX" tvg-name="ESPAÑA | DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/DMax_Espa%C3%B1a.svg/1200px-DMax_Espa%C3%B1a.svg.png" group-title="ESPAÑA ",ESPAÑA | DMAX
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1171.m3u
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ESPAÑA | DKISS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/800px-DKiss.svg.png" group-title="ESPAÑA ",ESPAÑA | DKISS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1192.m3u
+#EXTINF:-1 tvg-id="TEN" tvg-name="ESPAÑA | TEN SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/TEN_2024_Logo.svg/1200px-TEN_2024_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | TEN SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1014.m3u
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="ESPAÑA | AMC BREAK" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/04/picon_amc_break_lunar_amarillo_transparente_vo.png?fit=440%2C264&ssl=1" group-title="ESPAÑA ",ESPAÑA | AMC BREAK
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/7539.m3u
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="ESPAÑA | AMC SELECT (SD)" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/ec5526f6a94e70cbfdf97dd698b130b2_AMC%20SELE002.png" group-title="ESPAÑA ",ESPAÑA | AMC SELECT (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/357000.m3u
+#EXTINF:-1 tvg-id="CAZA Y PESCA" tvg-name="ESPAÑA | CAZA Y PESCA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Caza-pesca_m%2B.png" group-title="ESPAÑA ",ESPAÑA | CAZA Y PESCA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/11.m3u
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ESPAÑA | IBERALIA SD" tvg-logo="https://pbs.twimg.com/profile_images/1503716525575966734/K2IypHIc_400x400.jpg" group-title="ESPAÑA ",ESPAÑA | IBERALIA SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1108.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | IBERALIA CAZA SD" tvg-logo="https://satcesc.com/wp-content/uploads/2015/07/iberalia-e1437756041213.jpg" group-title="ESPAÑA ",ESPAÑA | IBERALIA CAZA SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/319017.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | IBERALIA PESCA" tvg-logo="https://contenidostv.es/images/iberaliaPesca-512.png" group-title="ESPAÑA ",ESPAÑA | IBERALIA PESCA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/319020.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | VEGA FIBRA TV GAMERS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWCUaZDMiJzH1d71FStO8OkhYCxaEHunN1tsKlcN5PmboloCx-VCRkGEkxuVyRjJ2wZ8&usqp=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" group-title="ESPAÑA ",ESPAÑA | VEGA FIBRA TV GAMERS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/153896.m3u
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="ESPAÑA | BUENVIAJE" tvg-logo="https://sincroguia-tv.expansion.com/uploads/channels/logo-buenviaje-1331.jpg" group-title="ESPAÑA ",ESPAÑA | BUENVIAJE
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/350273.m3u
+#EXTINF:-1 tvg-name="************** INFANTILES  **************" group-title="ESPAÑA ",************** INFANTILES  **************
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/32403.m3u
+#EXTINF:-1 tvg-id="DISNEY JR" tvg-name="ESPAÑA | DISNEY JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Disney_Junior_2019_logo.png/800px-Disney_Junior_2019_logo.png" group-title="ESPAÑA ",ESPAÑA | DISNEY JR
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/319021.m3u
+#EXTINF:-1 tvg-id="CLAN TVE" tvg-name="ESPAÑA | CLAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="ESPAÑA ",ESPAÑA | CLAN
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/4.m3u
+#EXTINF:-1 tvg-id="BOING" tvg-name="ESPAÑA | BOING SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/1200px-Boing_2020.svg.png" group-title="ESPAÑA ",ESPAÑA | BOING SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/453163.m3u
+#EXTINF:-1 tvg-id="ENFAMILIA" tvg-name="ESPAÑA | EnFamilia" tvg-logo="https://estaticos01.perseo.tv/DEVEL/CANALES/LOGOS/de77167ad894b94afd88f28e57c70b79.png" group-title="ESPAÑA ",ESPAÑA | EnFamilia
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/55.m3u
+#EXTINF:-1 tvg-id="BabyTV" tvg-name="ESPAÑA | BABY TV" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/babytv_200x200.png" group-title="ESPAÑA ",ESPAÑA | BABY TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/5.m3u
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="ESPAÑA | NICKELODEON" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Nickelodeon_2023_logo_%28alternative%29.svg/1200px-Nickelodeon_2023_logo_%28alternative%29.svg.png" group-title="ESPAÑA ",ESPAÑA | NICKELODEON
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/70.m3u
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="ESPAÑA | NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="ESPAÑA ",ESPAÑA | NICK JR
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/481.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | LEVANTE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwE5UWWB930VIZ3_7KhFvdiiiL6ZxEdY9Wg&s" group-title="ESPAÑA ",ESPAÑA | LEVANTE TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/320133.m3u
+#EXTINF:-1 tvg-id="Global Telenovelas" tvg-name="ESPAÑA | GLOBAL TELENOVELAS" tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/logovertical.png" group-title="ESPAÑA ",ESPAÑA | GLOBAL TELENOVELAS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/320129.m3u
+#EXTINF:-1 tvg-name="************** DEPORTE  **************" group-title="ESPAÑA ",************** DEPORTE  **************
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/32399.m3u
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="ESPAÑA | DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=762962501269_image-header_pDach_1662550975000&quality=70" group-title="ESPAÑA ",ESPAÑA | DAZN 1
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/23816.m3u
+#EXTINF:-1 tvg-id="DAZN LALIGA 2 HD" tvg-name="ESPAÑA | Dazn LaLiga 2 SD (ES)" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="ESPAÑA ",ESPAÑA | Dazn LaLiga 2 SD (ES)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/452688.m3u
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="ESPAÑA | DAZN 2 (SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/DAZN_2.svg" group-title="ESPAÑA ",ESPAÑA | DAZN 2 (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/348800.m3u
+#EXTINF:-1 tvg-id="DAZN F1." tvg-name="ESPAÑA | DAZN F1 (A)" tvg-logo="https://jungle-team.com/wp-content/uploads/2021/02/daznformula.png" group-title="ESPAÑA ",ESPAÑA | DAZN F1 (A)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/350276.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="ESPAÑA | DAZN F1 (B)" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2023/10/30121309/F1-on-DAZN.jpg" group-title="ESPAÑA ",ESPAÑA | DAZN F1 (B)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/53.m3u
+#EXTINF:-1 tvg-id="M+ VAMOSHD" tvg-name="ESPAÑA | M+ #VAMOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Vamos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ #VAMOS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/39.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | FTV" tvg-logo="https://www.hicamor-ftv.com/images/cache/thumb_1920_1080/uploads/images/5cc5d83fcd631310469349.png" group-title="ESPAÑA ",ESPAÑA | FTV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1003.m3u
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="ESPAÑA | DAZN LALIGATv (A)(SD)" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2022/05/laliga-dazn.jpg" group-title="ESPAÑA ",ESPAÑA | DAZN LALIGATv (A)(SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/175811.m3u
+#EXTINF:-1 tvg-id="DAZN LALIGA 2 HD" tvg-name="ESPAÑA | DAZN LALIGATV 2 SD" tvg-logo="https://imgpile.com/images/bxOBwc.md.png" group-title="ESPAÑA ",ESPAÑA | DAZN LALIGATV 2 SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/175820.m3u
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="ESPAÑA | M+ LaLigaTV (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" group-title="ESPAÑA ",ESPAÑA | M+ LaLigaTV (A)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/18893.m3u
+#EXTINF:-1 tvg-id="M+ LALIGA TV HD" tvg-name="ESPAÑA | M+ LaLigaTV (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/800px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LaLigaTV (B)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/348772.m3u
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="ESPAÑA | DAZN LALIGATV (B)" tvg-logo="https://static.eldiario.es/clip/259c9c39-f651-4d87-81a2-fdafbf325860_16-9-discover-aspect-ratio_default_0.jpg" group-title="ESPAÑA ",ESPAÑA | DAZN LALIGATV (B)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/360907.m3u
+#EXTINF:-1 tvg-id="M+ LALIGA TV HD" tvg-name="ESPAÑA | M+ LaLigaTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" group-title="ESPAÑA ",ESPAÑA | M+ LaLigaTV 4
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/73073.m3u
+#EXTINF:-1 tvg-id="M+ LALIGA TV 2" tvg-name="ESPAÑA | M+ LaLigaTV 2" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG2" group-title="ESPAÑA ",ESPAÑA | M+ LaLigaTV 2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/246.m3u
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="ESPAÑA | M+ LaLigaTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/LaLiga_TV_Por_M%2B_Logo.png" group-title="ESPAÑA ",ESPAÑA | M+ LaLigaTV 3
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/247.m3u
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/2560px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | LALIGA TV HYPERMOTION
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/235650.m3u
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/2560px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | LALIGA TV HYPERMOTION 2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/235651.m3u
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-name="ESPAÑA | LALIGA TV HYPERMOTION 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/2560px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | LALIGA TV HYPERMOTION 3
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/182705.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="ESPAÑA | M+ LIGA CAMPEONES (B)(SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES (B)(SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/256.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="ESPAÑA | M+ LIGA CAMPEONES (A) SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES (A) SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/335475.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | TV CANARIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/TV_Canaria.jpg" group-title="ESPAÑA ",ESPAÑA | TV CANARIAS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/97733.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON2" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/253.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON3" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 3" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 3
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/254.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 5
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/18888.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON6" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 6
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/257.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON7" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 7
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/258.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON8" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 8
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/18889.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON9" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 9" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP9" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 9
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/93789.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON10" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 10" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP10" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 10
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/93790.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON11" tvg-name="ESPAÑA | M+ LIGA CAMPEONES 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Liga_de_Campeones_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 4
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/175816.m3u
+#EXTINF:-1 tvg-id="M+LCAMPEON13" tvg-name="ESPAÑA | CANAL COSTA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KhvRv_BplbkPppBpS0HXFoM7tUDS2_K8pQ&s" group-title="ESPAÑA ",ESPAÑA | CANAL COSTA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/175818.m3u
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="ESPAÑA | M+ DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1280px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ DEPORTE
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/77.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES2" tvg-name="ESPAÑA | M+ DEPORTE 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ehK9Aam4I_ijSDtvEky9YluEw-pDmEGMp14CkNPn9Q&s" group-title="ESPAÑA ",ESPAÑA | M+ DEPORTE 2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/92553.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-name="ESPAÑA | M+ DEPORTE 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ehK9Aam4I_ijSDtvEky9YluEw-pDmEGMp14CkNPn9Q&s" group-title="ESPAÑA ",ESPAÑA | M+ DEPORTE 3
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/92556.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES4" tvg-name="ESPAÑA | M+ DEPORTE 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ehK9Aam4I_ijSDtvEky9YluEw-pDmEGMp14CkNPn9Q&s" group-title="ESPAÑA ",ESPAÑA | M+ DEPORTE 4
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/92554.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES5" tvg-name="ESPAÑA | M+ DEPORTE 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ehK9Aam4I_ijSDtvEky9YluEw-pDmEGMp14CkNPn9Q&s" group-title="ESPAÑA ",ESPAÑA | M+ DEPORTE 5
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/92552.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES6" tvg-name="ESPAÑA | M+ DEPORTE 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ehK9Aam4I_ijSDtvEky9YluEw-pDmEGMp14CkNPn9Q&s" group-title="ESPAÑA ",ESPAÑA | M+ DEPORTE 6
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/92557.m3u
+#EXTINF:-1 tvg-id="M+DEPORTES7" tvg-name="ESPAÑA | M+ DEPORTE 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ehK9Aam4I_ijSDtvEky9YluEw-pDmEGMp14CkNPn9Q&s" group-title="ESPAÑA ",ESPAÑA | M+ DEPORTE 7
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/92555.m3u
+#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="ESPAÑA | M+ ELLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ellas_V_por_Movistar_Plus%2B.svg/640px-Ellas_V_por_Movistar_Plus%2B.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ ELLAS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/169736.m3u
+#EXTINF:-1 tvg-id="M+ GOLF" tvg-name="ESPAÑA | M+ GOLF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6yNVjmJitjGjh5FqkbD9lvRljQtKmuIcq1VHfvUHnNn1vmuvDX1aVg6uhIkmLhuCieA&usqp=CAU" group-title="ESPAÑA ",ESPAÑA | M+ GOLF
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/16.m3u
+#EXTINF:-1 tvg-id="M+GOLF 2" tvg-name="ESPAÑA | M+ GOLF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="ESPAÑA ",ESPAÑA | M+ GOLF 2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/335052.m3u
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="ESPAÑA | EUROSPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="ESPAÑA ",ESPAÑA | EUROSPORT
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/83.m3u
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="ESPAÑA | EUROSPORT  2" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/eurosport2_200x200.png" group-title="ESPAÑA ",ESPAÑA | EUROSPORT  2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/47.m3u
+#EXTINF:-1 tvg-id="Realmadrid TV HD" tvg-name="ESPAÑA | REAL MADRID TV" tvg-logo="https://www.sportyou.es/blog/wp-content/uploads/2015/09/realmadridtv.jpg" group-title="ESPAÑA ",ESPAÑA | REAL MADRID TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/545.m3u
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="ESPAÑA | GOL PLAY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOL" group-title="ESPAÑA ",ESPAÑA | GOL PLAY
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/76.m3u
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="ESPAÑA | TDP SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1280px-Teledeporte.svg.png" group-title="ESPAÑA ",ESPAÑA | TDP SD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/451.m3u
+#EXTINF:-1 tvg-id="Torolé TV" tvg-name="ESPAÑA | Torole" tvg-logo="https://pbs.twimg.com/media/GetXLLtXMAAYFMt.jpg" group-title="ESPAÑA ",ESPAÑA | Torole
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/35.m3u
+#EXTINF:-1 tvg-id="Sevilla FC TV" tvg-name="ESPAÑA | SEVILLA TV" tvg-logo="https://pbs.twimg.com/media/BtNuOuKCMAEqBGM.jpg" group-title="ESPAÑA ",ESPAÑA | SEVILLA TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/318714.m3u
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="ESPAÑA | BETIS TV" tvg-logo="https://www.contenidostv.es/images/betis.png" group-title="ESPAÑA ",ESPAÑA | BETIS TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/318715.m3u
+#EXTINF:-1 tvg-name="************** AUTONOMICOS  **************" group-title="ESPAÑA ",************** AUTONOMICOS  **************
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/32402.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | Cines Verdi TV" tvg-logo="https://media.tvup.cloud/canales/color_lg_61c334655ca0550022dd5bad.png" group-title="ESPAÑA ",ESPAÑA | Cines Verdi TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/452696.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | REKTV" tvg-logo="https://pbs.twimg.com/profile_images/1460254281794297859/UPrT8gYd_400x400.jpg" group-title="ESPAÑA ",ESPAÑA | REKTV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/453208.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | ESCAPATV" tvg-logo="https://media.licdn.com/dms/image/D4D03AQFVH6XheGecQA/profile-displayphoto-shrink_200_200/0/1699983586606?e=2147483647&v=beta&t=sSBm9ZK-1yH0ufnZM0B8puW6uUK5quscTbaov7Lbvqo" group-title="ESPAÑA ",ESPAÑA | ESCAPATV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/453205.m3u
+#EXTINF:-1 tvg-id="MTV Hits" tvg-name="ESPAÑA | MTV HIT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="ESPAÑA ",ESPAÑA | MTV HIT
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/453196.m3u
+#EXTINF:-1 tvg-name="VH1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS03I7etYdMJpEB8GnAyk4g3NAd7h5oLufR0w&s" group-title="ESPAÑA ",VH1
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/452692.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | LOLLYKIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6DRMzf5L-MUahF7oHcwZIx1VOK6gS_ZtUTw&s" group-title="ESPAÑA ",ESPAÑA | LOLLYKIDS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/453201.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | EWTN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNLN1tvNvBjreKKY1HALUPkf-jy37eSHwpA&s" group-title="ESPAÑA ",ESPAÑA | EWTN
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/453200.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | VEGA FIBRA TV HORADADA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWCUaZDMiJzH1d71FStO8OkhYCxaEHunN1tsKlcN5PmboloCx-VCRkGEkxuVyRjJ2wZ8&usqp=CAU" group-title="ESPAÑA ",ESPAÑA | VEGA FIBRA TV HORADADA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/453197.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | ESPORT 3" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=700b86&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fesport3.png" group-title="ESPAÑA ",ESPAÑA | ESPORT 3
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/7879.m3u
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ESPAÑA | TRECE" tvg-logo="https://brandemia.org/sites/default/files/inline/images/destacado13-1200x750.jpg" group-title="ESPAÑA ",ESPAÑA | TRECE
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/2771.m3u
+#EXTINF:-1 tvg-id="Aragón TV" tvg-name="ESPAÑA | ARAGON TV" tvg-logo="s:1:/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXVM4lEjCBXXlFWoZvOYlZ3v-Q8lENppkgrD3yyYH2uOwc-us4dDpqWuICqbjccbPs.png" group-title="ESPAÑA ",ESPAÑA | ARAGON TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/1045.m3u
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="ESPAÑA | CANAL SUR FHD" tvg-logo="https://brandemia.org/contenido/subidas/2011/03/02-cnala-sur-estrena-identidad-grafica.jpg" group-title="ESPAÑA ",ESPAÑA | CANAL SUR FHD
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/7877.m3u
+#EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="ESPAÑA | CANAL SUR" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CANSUR" group-title="ESPAÑA ",ESPAÑA | CANAL SUR
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/9702.m3u
+#EXTINF:-1 tvg-id="CMM" tvg-name="ESPAÑA | CMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/800px-CMMedia.svg.png" group-title="ESPAÑA ",ESPAÑA | CMM
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/7871.m3u
+#EXTINF:-1 tvg-id="ETB 1 HD" tvg-name="ESPAÑA | ETB 1" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/eitb1_200x200.png" group-title="ESPAÑA ",ESPAÑA | ETB 1
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/7867.m3u
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="EXTREMADURA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png" group-title="ESPAÑA ",EXTREMADURA TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/7881.m3u
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ESPAÑA | EL TORO" tvg-logo="https://static.eldiario.es/clip/b5a6054c-546f-43d9-a46d-f5695186fa82_16-9-aspect-ratio_default_0.jpg" group-title="ESPAÑA ",ESPAÑA | EL TORO
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/443224.m3u
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="ESPAÑA | TELEMADRID (SD)" tvg-logo="https://tmbroadcast.es/wp-content/uploads/2020/02/Logo-telemadrid.jpg" group-title="ESPAÑA ",ESPAÑA | TELEMADRID (SD)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/319593.m3u
+#EXTINF:-1 tvg-name="324 Exclusiu" group-title="ESPAÑA ",324 Exclusiu
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/13494.m3u
+#EXTINF:-1 tvg-id="TV3" tvg-name="ESPAÑA | TV3" tvg-logo="https://www.premsacomarcal.cat/imatges/noticies/1200px-tv3hd.svg.png" group-title="ESPAÑA ",ESPAÑA | TV3
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/13491.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | Teleonuba" tvg-logo="https://pbs.twimg.com/profile_images/1621433052529319936/GsWVQvge_400x400.jpg" group-title="ESPAÑA ",ESPAÑA | Teleonuba
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/13479.m3u
+#EXTINF:-1 tvg-name="InterAlmería TV" group-title="ESPAÑA ",InterAlmería TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/13481.m3u
+#EXTINF:-1 tvg-name="Condavisión" tvg-logo="http://www.condavision.es/imagenes/logo_condavision_fb.png" group-title="ESPAÑA ",Condavisión
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/13487.m3u
+#EXTINF:-1 tvg-id="CLASSICA" tvg-name="ESPAÑA | CLASSICA" tvg-logo="https://banquet-celeste.fr/wp-content/uploads/2017/06/classica-logo.png" group-title="ESPAÑA ",ESPAÑA | CLASSICA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/8245.m3u
+#EXTINF:-1 tvg-name="TV 3 CAMERES" group-title="ESPAÑA ",TV 3 CAMERES
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/18903.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | VEGA FIBRA TV SAN MIGUEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEWdZCwMa1toDmAj0e2a1eYyDjEwYfzk3-w&s" group-title="ESPAÑA ",ESPAÑA | VEGA FIBRA TV SAN MIGUEL
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/32410.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | Super3/33" tvg-logo="s:1:/images/Jm6KUn_939-fH-gP9G6x9QRDlGhIFosp-27dXikP9s98Oy68cleJqVhI8-PbMfAnmB7V9ZpM7UN5OrtKLoL55AxtPBFePwUcLqbIoqBHR_-taThN3-vFZcdks4xyCQTRTjw67dXf_IHLbkxWJLoGfQ.jpg" group-title="ESPAÑA ",ESPAÑA | Super3/33
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/38028.m3u
+#EXTINF:-1 tvg-id="ETB 2 HD" tvg-name="ESPAÑA | ETB 2" tvg-logo="https://www.euskaltel.com/bundles/app/images/channels/eitb2_200x200.png" group-title="ESPAÑA ",ESPAÑA | ETB 2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/58295.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | PTV Malaga" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mRr5fsFofQcIO7p08hq4UyoqXQWhtZocyDtey6xnzUTgg=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA ",ESPAÑA | PTV Malaga
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/18906.m3u
+#EXTINF:-1 tvg-id="EXTREMADURA SAT" tvg-name="EXTREMADURA SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/CEXMA_new.png/1200px-CEXMA_new.png" group-title="ESPAÑA ",EXTREMADURA SAT
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/167676.m3u
+#EXTINF:-1 tvg-id="TVG HD" tvg-name="ESPAÑA | VEGA FIBRA TV TELECOLOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEWdZCwMa1toDmAj0e2a1eYyDjEwYfzk3-w&s" group-title="ESPAÑA ",ESPAÑA | VEGA FIBRA TV TELECOLOR
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/167677.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | MEDINFOR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA9gjKrIDDAKM8IdOAAcMVYJ84umNMeLa73Q&s" group-title="ESPAÑA ",ESPAÑA | MEDINFOR
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/320103.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | HUELVA TV" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/huelva-tv-en-directo.png" group-title="ESPAÑA ",ESPAÑA | HUELVA TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/320107.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | VEGA FIBRA TV COMARCAL 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEWdZCwMa1toDmAj0e2a1eYyDjEwYfzk3-w&s" group-title="ESPAÑA ",ESPAÑA | VEGA FIBRA TV COMARCAL 2
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/320124.m3u
+#EXTINF:-1 tvg-id="Onda Algeciras TV" tvg-name="Onda Algeciras" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqOhVh3n3KjPnOoGFgF9GYZ420_2WxNXXGRM1L1GLw=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA ",Onda Algeciras
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/320130.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | VEGA FIBRA TV BENEJUZAR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmEWdZCwMa1toDmAj0e2a1eYyDjEwYfzk3-w&s" group-title="ESPAÑA ",ESPAÑA | VEGA FIBRA TV BENEJUZAR
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/320134.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | TELENERJA" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqMKVurG8zCf7T_M-0uMNm5VJjoiDypk0vh3xbsyY-0=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA ",ESPAÑA | TELENERJA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/320135.m3u
+#EXTINF:-1 tvg-id="BBC TOP GEAR" tvg-name="TOP GEAR" tvg-logo="s:1:/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8crep0ONARIADE5syCgkDE7_fjSWM-fgiN_4KSyUUxlAZy43ikFo_BkwTLc-5EeDUfm8.png" group-title="ESPAÑA ",TOP GEAR
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/324339.m3u
+#EXTINF:-1 tvg-name="Vivaldi TV" tvg-logo="s:1:/images/4p0nAUGwoat0kryHRu9MXJUWy2OfH0GpZLkhfxoV94W8aJE14ZeGwCzsffaN57FZGCIVrEaN1JYe0q4niSWTt4T41x3JdOA0wRdrDdC_F6E.jpg" group-title="ESPAÑA ",Vivaldi TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/324345.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | GLOBAL TENDENCIAS" tvg-logo="https://api.patentes-y-marcas.com/uploads/BOPIBrand_imagen/global-tendencias-tv-m3601458.jpg" group-title="ESPAÑA ",ESPAÑA | GLOBAL TENDENCIAS
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/324349.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | VEGA FIBRA TV COMARCAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTWCUaZDMiJzH1d71FStO8OkhYCxaEHunN1tsKlcN5PmboloCx-VCRkGEkxuVyRjJ2wZ8&usqp=CAUHJdenp+/e/8UvG1eE/dn0zq3pAcr22fuAcCBMP5uaHqBs9+/2nzqmCAfC9Bog7PuuMwNkY4uwn8LcHXDpg/cD4a07fZ/+eADv3weCdGwRDoTp7X7Kdu3MieOLsM9tH9zq+6qzU45ji3AgTPsp25kgHV+EAyxmMLG+Nwj/duE3nZumHluEZ3prpTF29+zXjC/CQc17YlfPnTbOCC8K0/Mj/2OM8KIwZee/Z4wRXhSmn75nCD879z0fn3/wZpwRDnaf0C4a+R9nhOf3AG6/dwjPhumdC54OGxOE7EKEEKZ9D9ayi59LGW2EPbsY4aCb2YVBOtIIr+GLErWxM+2lk6t/0HcKG+wijgHCwfmoi59tu/6WCakxQPjn2AThJdkE4QThBOHwbYJwgnCCcPg2QThB+DaED0YC4W96p8K72S90/y/dLpR2f4YNbvEP0R68/d0m7253p0fiPZd/YZhef/Drv/xy7MFfBPHWiLjQIOSTvyBOp69MXf31331ZRu7/6V6cvjv4DMawjXz0C+2md7VbU5/cHI1/0W/Pbn40+AThH7T7t3/9V16uIfX44NrVP8lujgKTmdjEJjaxiU1sYhOb2MQmNrGJTWxiE5vYxCY2sYlNbGITm9jEJjaxiY2m/R9+591OuoazZgAAAABJRU5ErkJggg==" group-title="ESPAÑA ",ESPAÑA | VEGA FIBRA TV COMARCAL
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/324350.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | LEBRIJA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0uXsZEr5P_KaYpkk3uY_qymBy_JXHu9DrA&s" group-title="ESPAÑA ",ESPAÑA | LEBRIJA TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/324351.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | CANAL LUZ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXA5jjzQgf0qVGECmpG5U-EiXB8PcYjUme0Mz8gVeqACqR5zgiYUwIDkZX-7kI2xcb4E&usqp=CAU" group-title="ESPAÑA ",ESPAÑA | CANAL LUZ
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/324359.m3u
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ESPAÑA | A3SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/AtreseriesLogo.svg/1200px-AtreseriesLogo.svg.png" group-title="ESPAÑA ",ESPAÑA | A3SERIES
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/334347.m3u
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="ESPAÑA | DAZN LIGA 2 (B)" tvg-logo="https://static.eldiario.es/clip/259c9c39-f651-4d87-81a2-fdafbf325860_16-9-discover-aspect-ratio_default_0.jpg" group-title="ESPAÑA ",ESPAÑA | DAZN LIGA 2 (B)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/350270.m3u
+#EXTINF:-1 tvg-id="A Punt HD" tvg-name="ESPAÑA | A PUNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/800px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="ESPAÑA ",ESPAÑA | A PUNT
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/350272.m3u
+#EXTINF:-1 tvg-id="CMM" tvg-name="ESPAÑA | CMT" tvg-logo="https://brandemia.org/contenido/subidas/2016/09/cabecera-castilla_la_mancha-960x640.jpg" group-title="ESPAÑA ",ESPAÑA | CMT
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/350366.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | TELEJUMILLA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY-j2d8QqCRf_nHET9dVcKVZ31y63C2Gh6Ew&s" group-title="ESPAÑA ",ESPAÑA | TELEJUMILLA TV
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/354097.m3u
+#EXTINF:-1 tvg-id="MEZZO" tvg-name="ESPAÑA | Mezzo" tvg-logo="https://logowik.com/content/uploads/images/mezzo-tv3186.logowik.com.webp" group-title="ESPAÑA ",ESPAÑA | Mezzo
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/352924.m3u
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="MTV 80S" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="ESPAÑA ",MTV 80S
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/358177.m3u
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="ESPAÑA | MTV 00" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="ESPAÑA ",ESPAÑA | MTV 00
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/409407.m3u
+#EXTINF:-1 tvg-name="************** EVENTOS  **************" group-title="ESPAÑA ",************** EVENTOS  **************
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/350445.m3u
+#EXTINF:-1 tvg-id="LaOtra" tvg-name="ESPAÑA | LA OTRA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsY3hFWFijgcAEwmta6-b9ngvkfh9y6u5LZg&s" group-title="ESPAÑA ",ESPAÑA | LA OTRA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/319025.m3u
+#EXTINF:-1 tvg-name="*********** [XXX Channel (+180)] ***********" group-title="ESPAÑA ",*********** [XXX Channel (+180)] ***********
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/182.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | PTV SEVILLA" tvg-logo="https://yt3.googleusercontent.com/JwixrZQC8s-S_rNRdrA9oJevbNRBmQ-qo_uV3zMr_nH6KtBbwCjXL7ZUzyguughA-jNcbF9-2JI=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA ",ESPAÑA | PTV SEVILLA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/516958.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | PTV GRANADA" tvg-logo="https://yt3.googleusercontent.com/IIqQkwraA1RaZoDwMx1MBgBMdF_yaWVpFfZ0BI5COnF7eYBSi_jCFcp2zdOmF601syoo-GbAn2Q=s900-c-k-c0x00ffffff-no-rj" group-title="ESPAÑA ",ESPAÑA | PTV GRANADA
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/516957.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | M+ LIGA CAMPEONES 11" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 11
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693468.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | M+ LIGA CAMPEONES 12" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 12
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693469.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | M+ LIGA CAMPEONES 13" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 13
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693470.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | Liga Hypermotion 10 FHD (ES)" group-title="ESPAÑA ",ESPAÑA | Liga Hypermotion 10 FHD (ES)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693471.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | Liga Hypermotion 11 FHD (ES)" group-title="ESPAÑA ",ESPAÑA | Liga Hypermotion 11 FHD (ES)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693472.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | M+ LIGA CAMPEONES 16" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 16
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693473.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | M+ LIGA CAMPEONES 17" group-title="ESPAÑA ",ESPAÑA | M+ LIGA CAMPEONES 17
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693474.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | Liga Hypermotion 12 FHD (ES)" group-title="ESPAÑA ",ESPAÑA | Liga Hypermotion 12 FHD (ES)
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693475.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | BBC HISTORY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIxWJU3z8ZahM-esvpGyeZo3FS5nGMrya2hQ&s" group-title="ESPAÑA ",ESPAÑA | BBC HISTORY
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/693476.m3u
+#EXTINF:-1 tvg-name="Extreme Sports Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Extreme_Sports_Channel.png" group-title="ESPAÑA ",Extreme Sports Channel
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746015.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | CANAL PARLAMENTO" tvg-logo="https://www.congreso.es/webpublica/ficherosportal/canal_parlamento.gif" group-title="ESPAÑA ",ESPAÑA | CANAL PARLAMENTO
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746584.m3u
+#EXTINF:-1 tvg-name="ESPAÑA | CGTN Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/CGTN_Espanol.png" group-title="ESPAÑA ",ESPAÑA | CGTN Español
+http://cloriass.live:8080/live/k02Rrc2W/eEvMsiqaHC/746585.m3u
+
