@@ -22561,3 +22561,528 @@ http://179.63.6.17:9000/play/a08c
 http://38.252.213.17:8000/play/a08c
 #EXTINF:0 tvg-id="ext" group-title="DSPORTS 1",DSPORT+.HD1
 http://38.199.6.1:17001/play/a0vx/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#######################################################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo_Canales_Somos_de_Cablevisi%C3%B3n.png" group-title="ALTERNATIVOS FLW", Somos  
+http://45.5.151.151:8000/play/a0lk/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW", Metro
+http://200.80.230.123:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="ALTERNATIVOS FLW", America
+http://200.80.230.123:8000/play/a0a7/index.m3u8
+
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="ALTERNATIVOS FLW", Telefe
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="ALTERNATIVOS FLW", TV Pública
+http://200.80.230.123:8000/play/a0a8/index.m3u8
+
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="ALTERNATIVOS FLW", El Trece
+http://200.80.230.123:8000/play/a06d/index.m3u8
+
+#EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="ALTERNATIVOS FLW", El Nueve
+http://200.80.230.123:8000/play/a0a9/index.m3u8
+
+#EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="ALTERNATIVOS FLW", TN
+http://200.80.230.123:8000/play/a0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="ALTERNATIVOS FLW", A24
+http://200.80.230.123:8000/play/a01o/index.m3u8
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="ALTERNATIVOS FLW", C5N
+http://200.80.230.123:8000/play/a01p/index.m3u8
+
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="ALTERNATIVOS FLW", Cronica HD
+http://201.217.246.177:8000/play/a01q/index.m3u8
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="ALTERNATIVOS FLW", Canal 26
+http://200.80.230.123:8000/play/a01r/index.m3u8
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="ALTERNATIVOS FLW", La Nación +
+http://200.80.230.123:8000/play/a01s/index.m3u8
+
+#EXTINF:-1 tvg-id="CiudadMagazine.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="ALTERNATIVOS FLW", Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+#EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="ALTERNATIVOS FLW", Net TV
+https://unlimited-ar.dps.live/nettv/nettv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="ALTERNATIVOS FLW", Encuentro
+http://200.80.230.123:8000/play/a01m/index.m3u8
+
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="ALTERNATIVOS FLW", CNN en Español
+http://200.80.230.123:8000/play/a0ax/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/5yCPV36WLATWGEgkWv6h3D/5cc84285f9792100a4444091ddd3999b/07_BRAVO-TV-entretenimiento.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Bravo TV
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
+
+#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="ALTERNATIVOS FLW", IP Noticias
+http://181.78.27.128:12543/play/a055/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/j4t5hEoHBnlm_a7wiArlgkSYC7cU5W0gSPCWG3IWsu5zQrCuinV3PL57bFP8FVwKJEaR621ZXw=s160-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS FLW", Diputados TV 
+http://200.121.48.17:8000/play/a14m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS FLW", Senado TV
+
+ 
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="ALTERNATIVOS FLW", Deportv
+http://200.80.230.123:8000/play/a06h/index.m3u8
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="ALTERNATIVOS FLW", TyC Sports
+http://200.80.230.123:8000/play/a02s/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="ALTERNATIVOS FLW", ESPN 2
+http://200.80.230.123:8000/play/a0ac/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="ALTERNATIVOS FLW", ESPN
+http://200.80.230.123:8000/play/a0ab/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="ALTERNATIVOS FLW", ESPN 3
+http://200.80.230.123:8000/play/a0ad/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="ALTERNATIVOS FLW", ESPN 4
+http://200.80.230.123:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="ALTERNATIVOS FLW", FOX Sports
+http://200.80.230.123:8000/play/a07j/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="ALTERNATIVOS FLW", FOX Sports 2
+http://200.80.230.123:8000/play/a0aa/index.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="ALTERNATIVOS FLW", FOX Sports 3
+http://200.80.230.123:8000/play/a02t/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="ALTERNATIVOS FLW", Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+#EXTINF:-1 tvg-id="Golf.Channel.(Latin.America).(GOLF).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/118-GolfChannel.png" group-title="ALTERNATIVOS FLW", Golf Channel
+http://38.191.90.2:8000/play/a038/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Discovery Turbo
+http://200.80.230.123:8000/play/a01w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/45kfGAIjQV6l1g-dSf8A5Xa/737b30212189224ce8b1e13f4c1e8652/24_PXSports.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , PX Sports
+http://200.115.96.66:4000/play/a0e0/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_AM-sports-2019.svg/796px-Logo_AM-sports-2019.svg.png" group-title="ALTERNATIVOS FLW", AM Sports
+http://138.121.114.50:8000/play/a01v/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/1962.png" group-title="Eventos Flow", Eventos HD
+http://200.80.230.123:8000/play/a0bf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="ALTERNATIVOS FLW", ESPN Premium  
+http://200.80.230.123:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="ALTERNATIVOS FLW", TNT Sports 
+http://200.80.230.123:8000/play/a0bk/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="ALTERNATIVOS FLW", Paka Paka
+http://138.121.114.86:8000/play/a05t/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Disney Channel
+http://200.80.230.123:8000/play/a02r/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Nickelodeon
+http://200.80.230.123:8000/play/a0b0/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Cartoon Network
+http://200.80.230.123:8000/play/a075/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.reportv.com.ar/buscador/img/Logos/20068539.jpg" group-title="ALTERNATIVOS FLW", Dreamworks
+http://45.5.151.62:8000/play/a010/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Discovery Kids
+http://200.80.230.123:8000/play/a06t/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Cartoonito
+http://138.121.114.34:8000/play/a1a3/index.m3u8 
+
+#EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="ALTERNATIVOS FLW", Disney Jr
+http://200.80.230.123:8000/play/a0ay/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3uX75Uy298axY2CNWmBjdX/9b3bcc5728d57e876a2d41ac8357dfa3/40_BabyTV.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , BabyTV
+http://200.80.230.123:8000/play/a02e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/200px-Tooncast_logo.svg.png" group-title="ALTERNATIVOS FLW", Tooncast 
+http://45.5.150.5:8887/play/a08s/index.m3u8
+
+#EXTINF:-1 tvg-id="NickJrSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Nick Jr
+http://200.80.230.123:8000/play/a06u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDuoSxWJVs5GQ4lmyXdk5wnizqVZ1jFS7svg&s" group-title="ALTERNATIVOS FLW", Plim Plim
+http://200.115.120.1:8000/play/ca091/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" audio-track="spa" group-title="ALTERNATIVOS FLW", HBO
+http://181.13.252.102:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-2-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" audio-track="spa" group-title="ALTERNATIVOS FLW", HBO 2
+http://181.13.252.102:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" audio-track="spa" group-title="ALTERNATIVOS FLW", HBO Plus
+http://201.217.246.177:8000/play/a06p/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" audio-track="spa" group-title="ALTERNATIVOS FLW", HBO Family
+http://181.13.252.102:8000/play/a06r/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="ALTERNATIVOS FLW", HBO Pop
+http://201.217.246.177:8000/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="ALTERNATIVOS FLW", HBO Xtreme
+http://138.121.114.86:8000/play/a06g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/HBO%20Mundi.png" group-title="ALTERNATIVOS FLW", HBO Mundi
+http://201.217.246.177:8000/play/a02a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/135px-HBO_Signature.svg.png" group-title="ALTERNATIVOS FLW", HBO Signature
+http://201.217.246.177:8000/play/a02c/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6ZzSgskyQeKxH1jVARP4Be/f5e9c9bd641b4b6b524a2677e0f60842/universal-premiere.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Universal Premiere
+http://80.80.91.195:8000/play/a09u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Universal Cinema
+http://80.80.91.195:8000/play/a0a9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Universal Comedy
+http://80.80.91.195:8000/play/a09x/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3gBoVelP3w7EOJ9cF2AFxL/b7a0f9e1db82041c815a8754ed9abd05/universal-crime.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Universal Crime
+http://80.80.91.195:8000/play/a09w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Universal Reality
+http://80.80.91.195:8000/play/a09v/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="ALTERNATIVOS FLW", CineAr
+http://200.80.230.123:8000/play/a024/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Cinemax
+http://200.60.124.19:29000/play/a025/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Volver
+http://200.80.230.123:8000/play/a021/index.m3u8
+
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Space
+http://200.80.230.123:8000/play/a02w/index.m3u8
+
+#EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Cinecanal
+http://200.80.230.123:8000/play/a07b/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="ALTERNATIVOS FLW", TNT
+http://138.121.114.86:8000/play/a0d4/index.m3u8
+
+#EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" audio-track="spa" group-title="ALTERNATIVOS FLW", TNT Series
+http://200.80.230.123:8000/play/a07e/index.m3u8
+
+#EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="ALTERNATIVOS FLW", FX
+http://190.60.37.154:45000/play/a05e/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Star Channel
+http://200.80.230.123:8000/play/a079/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Sony Channel
+http://200.80.230.123:8000/play/a0b1/index.m3u8
+
+#EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Warner Channel
+http://200.80.230.123:8000/play/a0b3/index.m3u8
+
+#EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Universal TV
+http://200.80.230.123:8000/play/a0af/index.m3u8
+
+#EXTINF:-1 tvg-id="ar#axn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" audio-track="spa" group-title="ALTERNATIVOS FLW", AXN
+http://200.80.230.123:8000/play/a0aw/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3Q4Kcrs1ArtiZ3dA4QCCFW/7872da4c0f5bcc4bd5ca0f95041d7f1d/59_StudioUniversal.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Studio Universal
+http://200.80.230.123:8000/play/a022/index.m3u8
+
+#EXTINF:-1 tvg-id="AESouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" audio-track="spa" group-title="ALTERNATIVOS FLW", A&E
+http://138.121.114.86:8000/play/a0cz/index.m3u8
+
+#EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/129-EuropaEuropa.png" group-title="ALTERNATIVOS FLW", Europa Europa
+http://138.121.114.86:8000/play/a07t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="ALTERNATIVOS FLW", Usa
+http://200.80.230.123:8000/play/a023/index.m3u8
+
+#EXTINF:-1 tvg-id="TCMSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="ALTERNATIVOS FLW", TCM
+http://200.80.230.123:8000/play/a020/index.m3u8
+
+#EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="ALTERNATIVOS FLW", AMC
+http://200.80.230.123:8000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/34c67hv0nOq5BrBaEcSqDx/710f3144ad00783b2499a54737334199/64_Atreseries.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , ATRESERIES
+http://45.160.12.200:8008/play/090/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdsmeTJY2mvWtN2F5JoSICxKunTJlivjcEyg&s" audio-track="spa" group-title="Cine", Golden
+http://190.60.37.154:45000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/598px-Sony_Movies_Logo.svg.png" group-title="ALTERNATIVOS FLW", Sony Movies
+http://138.121.114.86:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/langfr-512px-InvestigationDiscoveryLogo2020.svg.png" group-title="ALTERNATIVOS FLW", ID
+http://200.60.124.19:29000/play/a0d9/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" group-title="ALTERNATIVOS FLW", Comedy Central
+http://200.80.230.123:8000/play/a02x/index.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="ALTERNATIVOS FLW", Paramount Channel
+http://200.80.230.123:8000/play/a02y/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReSzO0UauKeVnjiVx9Dccj-mmMa70EoZzXJQ&s" group-title="ALTERNATIVOS FLW", DHE
+http://190.104.67.219:234/play/a0p6/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/iEmoAG070AQj6Z04qanWm/eb443a668d8bb7ef8cf1c9f49cae701a/73_Pasiones.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Pasiones
+http://190.104.67.37:234/play/a0p3/index.m3u8
+
+#EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="ALTERNATIVOS FLW", Telemundo Internacional
+http://45.230.38.117:8000/play/a04i
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="ALTERNATIVOS FLW", TNT Novelas
+http://190.60.37.154:45000/play/a045/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/716px-Logo_tlnovelas_feb2019.png" group-title="ALTERNATIVOS FLW", Telenovelas
+http://200.115.120.1:8000/play/ca020/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariano2718/icons/main/adults.png"group-title="ALTERNATIVOS FLW", Adult Swin
+http://138.121.114.86:8000/play/a08d/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Lifetime
+http://200.80.230.123:8000/play/a06n/index.m3u8
+
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="ALTERNATIVOS FLW", El Gourmet
+http://200.80.230.123:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Food Network
+http://38.44.109.41:8003/play/a03f/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="ALTERNATIVOS FLW", E! 
+http://200.80.230.123:8000/play/a0az/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Discovery H&H
+http://200.80.230.123:8000/play/a07h/index.m3u8
+
+#EXTINF:-1 tvg-id="MasChicLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/101-MasChic.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Mas Chic
+http://200.115.96.61:9090/play/a0dj/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="ALTERNATIVOS FLW", Discovery TLC
+http://181.78.109.48:9998/play/a04o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6XQjTLV1YxXlHhne0eIg6T/7cdfa6b28114f0c346bf0ba3be684c5b/88_HogarTV.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , HGTV 
+http://200.80.230.123:8000/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/7bpzYrUNwKD8bjUR4L4xEF/2b2c1bced3899a54e9143558f19e5ebd/78_HolaTV.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Hola TV
+http://190.61.55.234:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="ALTERNATIVOS FLW", Rural TV
+http://200.80.230.123:8000/play/a02f/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="ALTERNATIVOS FLW", Viajar
+https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="ALTERNATIVOS FLW", Telemax
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISANTAM.png" group-title="Religioso", Santa Maria
+https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="Religioso", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="Religioso", ORBE 21  
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/9730866.jpg" group-title="Religioso", CANAL LUZ
+https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/4Pdlm_CqA7QH1YapYrh5qEwiwgeg6lSZ1rwaBAL57gPJS3yxzQT3bHLihVRx6Y6-A4LFnGsXJg=s176-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS FLW", CHACRA TV
+https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="ALTERNATIVOS FLW", National Geographic
+http://200.80.230.123:8000/play/a0b8/index.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Discovery Channel
+http://200.80.230.123:8000/play/a07i/index.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="ALTERNATIVOS FLW", Animal Planet
+http://200.60.124.19:29000/play/a012/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/100px-2015_Discovery_theater_HD_logo.svg.png" group-title="ALTERNATIVOS FLW", Discovery Theater HD
+http://179.63.36.2:8000/play/a0p6/index.m3u8
+
+#EXTINF:-1 tvg-id="HistorySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png" audio-track="spa" group-title="ALTERNATIVOS FLW", History
+http://200.80.230.123:8000/play/a0ai/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3YRH1ARFHgPzmkpxYvdyYb/46d00e2d0c56fb9d172668de72f86b54/27_Metro.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Canal A 
+http://200.80.230.123:8000/play/a09j/index.m3u8
+
+#EXTINF:-1 tvg-id="FilmandArts.mx" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/film_and_arts-mediano.png" group-title="ALTERNATIVOS FLW", Film & Arts HD
+http://200.80.230.123:8000/play/a030/index.m3u8
+
+#EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="ALTERNATIVOS FLW", History 2
+http://38.159.227.126:8000/play/a07k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/100px-World_Discovery_HD_logo.svg.png" group-title="ALTERNATIVOS FLW", Discovery World HD
+http://201.217.246.166:8000/play/a076/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2Epkdd93g9ercbqDzKQFoe/36c820d026574873c07232d83a9e9cd1/89_DiscoveryScience.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Discovery Science 
+http://200.80.230.123:8000/play/a02k/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="ALTERNATIVOS FLW", MTV
+http://200.80.230.123:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , Quiero Música
+http://200.80.230.123:8000/play/a02n/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/W2KdC8bXe-lXWS7ki5lcoW9cJ_59kNiiiMmCvbfU6pM6Dj1lLVoRZmanBdJ3oXcVzzUbhymr2A=s176-c-k-c0x00ffffff-no-rj" group-title="ALTERNATIVOS FLW", VORTERIX
+https://g3.mc-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2G4IHnfxSj2GwTRpmR53wy/7ee34ba27d8dab44e2dddd82b16aca9f/558-mtv_00s.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , MTV 00's
+http://200.80.230.123:8000/play/a0ag/index.m3u8
+
+#EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="ALTERNATIVOS FLW", HTV
+http://200.80.230.123:8000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="CMElCanaldelaMusica.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="ALTERNATIVOS FLW", CM
+#EXTVLCOPT:http-referrer=https://vmf.edge-apps.net
+https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/33QT9mcUIUX6ezV5xXA61r/6da57dc09d602d6ba128357517588d3c/115_MTVHits.png?fm=webp&q=80" group-title="ALTERNATIVOS FLW" , MTV Hits
+http://45.5.117.182:8000/play/a0f1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="ALTERNATIVOS FLW", Canal de la Ciudad  
+http://200.80.230.123:8000/play/a06e/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.unlp.edu.ar/wp-content/uploads/2023/03/Marca-UNLP-TV-sin-fondo.png" group-title="ALTERNATIVOS FLW", TVU LA PLATA
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8 
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/rai@2x.png" group-title="ALTERNATIVOS FLW", RAI
+http://138.121.114.86:8000/play/a06u/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpSI5D9txUQlXVE0jnNLq48m5QVxeEdBQFJg&s" group-title="ALTERNATIVOS FLW", TV Chile
+http://207.248.2.105:3200/play/a09c/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKelKSEi9HoRVrZGjbBtgjZpa_KEQo6PyGBQ&s" tvg-language="Spanish" group-title="ALTERNATIVOS FLW", Antena 3
+http://160.20.165.246:8000/play/a00e/index.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png" group-title="ALTERNATIVOS FLW", Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="ALTERNATIVOS FLW", CNN
+http://186.125.218.199:13000/play/a054/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/BBC%20News%20128.png" group-title="ALTERNATIVOS FLW", BBC News
+http://45.5.151.151:8000/play/a0ld/index.m3u8
+
+#EXTINF:-1 tvg-id="60d3583ef310610007fb02b1" tvg-chno="280" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png" group-title="ALTERNATIVOS FLW", Euronews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-id="Deutsche.Welle.TV.Español.(DW-ES).ar" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRXa4spPp-4sq5SEYWTdxp-pclfjHHjFSqrnMbA=s900-c-k-c0x00ffffff-no-rj" tvg-language="Spanish" group-title="ALTERNATIVOS FLW", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://telecentro.com.ar/img/cm/channels/tve@2x.png" group-title="ALTERNATIVOS FLW", TVE
+http://200.60.124.19:29000/play/a01z/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Televisi%C3%B3n_de_Galicia_Logo.svg/1200px-Televisi%C3%B3n_de_Galicia_Logo.svg.png" group-title="ALTERNATIVOS FLW", Galicia TV
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62bb79a9e887494aeb7b53d7/e22297a85b98822efbb3ad61ec2ae898?tr=q-80&w=1920" group-title="ALTERNATIVOS FLW", Las Estrellas
+http://45.160.12.200:8008/play/151/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1382698919474380800/ZQ-bfjHp_400x400.jpg" group-title="ALTERNATIVOS FLW", UCL TV
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
+
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="ALTERNATIVOS FLW", Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-logo="https://pbs.twimg.com/profile_images/875649264826724352/7ZsxO5yi_400x400.jpg" group-title="ALTERNATIVOS FLW", France 24 ESPAÑOL
+http://200.26.177.54:8000/play/a0hu/index.m3u8
+
+
