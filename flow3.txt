@@ -1,22 +1,3 @@
-###############################3  FLOW 3 #########################################
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -164,10 +145,6 @@ https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc_C/FoxSports3
 #EXTINF:-1 tvg-id="ESPN 7 HD.uy" tvg-name="ESPN 7" tvg-logo="https://static.flow.com.ar/images/-/-/0/0/12041360073463.png" group-title="FLOW 3" ch-number="107" type="channel",ESPN 7
 https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc_C/FoxSports2_UY.mpd
 
-
-
-
-############################
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
