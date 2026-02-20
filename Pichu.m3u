@@ -1,7 +1,6 @@
 
 
 
-
 ######################################################################################################################
 ####################################################################################################################
 
@@ -17419,3 +17418,330 @@ https://nog-live1-ott.izzigo.tv/1/out/u/dash/SPACEHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=902f1f857c30081b249ae358e12f9b82:fff8cb0d93b57845c1ccba458f51970d
 https://lilac01.pontiscloud.com/live/eds/TNT/live_dash_cld/TNT.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+#############################################################################################################
+#############################################################################################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+###########https://raw.githubusercontent.com/Er2334/Er2334/refs/heads/main/mex2########################
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN
+http://217.26.190.76:8888/play/a0ee/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN 2
+http://217.26.190.76:8888/play/a0kp/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN 3
+http://217.26.190.76:8888/play/a0k0/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN 4
+http://217.26.190.76:8888/play/a0jy/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN 5
+http://217.26.190.76:8888/play/a0kh/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN 6
+http://217.26.190.76:8888/play/a0fa/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN 7
+http://217.26.190.76:8888/play/a0g2/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", ESPN Premium
+http://217.26.190.76:8888/play/a0es/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DirecTV
+http://217.26.190.76:8888/play/a0co/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", DirecTV +
+http://217.26.190.76:8888/play/a0jb/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DEPORTES.AR", TNT Sports Chile
+http://38.199.6.1:17001/play/a036/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7b05c7a737b7f0a5d571b91deaa2697:4079ac205b544b1c294ee1568906ff58
+#EXTINF:-1  ch-number="13" tvg-id="el13" tvg-name="Canal 13.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/57/CH_LOGO/160/160/0/0/42552730073067.png" group-title="DEPORTES.AR", El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
+#EXTINF:-1   tvg-id="America.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="DEPORTES.AR" tvg-group="Nacionales", América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bb54fccffaddd38916e85c08de98cc9:d06f509c418eb6f1b2fc2b766445328b
+#EXTINF:-1  ch-number="11" tvg-id="telefe" tvg-name="Telefe.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/115/CH_LOGO/160/160/0/0/57769025072354.png" group-title="DEPORTES.AR", Telefé
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Telefe/live_dash_cld/Telefe.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b4ebe3c68c4c95c7639096e76c233d0:0c48cd5e3298b762a099acdc05a5182a
+#EXTINF:-1   tvg-id="TN HD.uy" tvg-name="TNNOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/116/CH_LOGO/160/160/0/0/859370090736.png" group-title="DEPORTES.AR"tvg-group="Noticias", TN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b17538810f1dd4485f174dcc204872c:3d5b973772433ce07c8999aa659ea48c
+#EXTINF:-1  tvg-id="Television Pública.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/120/CH_LOGO/160/160/0/0/26428256071569.png" group-title="DEPORTES.AR", TV Pública
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/TVPublica/live_dash_cld/TVPublica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c1f50e3f51216bdd1efcc99d3a27217:3441c930277d824402aafee446ba8f90
+#EXTINF:-1   tvg-id="Canal 9.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/58/CH_LOGO/160/160/0/0/47205269072808.png" group-title="DEPORTES.AR"tvg-group="Nacionales", El nueve
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Canal9/live_dash_cld/Canal9.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd1767fe3554f1285222b5610105c0e9:839d5b1eec7eb70d68c1e1531fc0d6d4
+#EXTINF:-1   tvg-id="C5N.uy" tvg-name="C5NOT" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/56/CH_LOGO/160/160/0/0/8952752307709.png" group-title="DEPORTES.AR"tvg-group="Noticias", C5N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/C5N/live_dash_cld/C5N.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b35aecc554b859a97cf11b892731af1f:3a5da1a7c6a5cc6e488bdbbbf09132ff
+#EXTINF:-1   tvg-id="Canal 26.uy" tvg-name="CAN26" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/361/CH_LOGO/160/160/0/0/34056872073.png" group-title="DEPORTES.AR"tvg-group="Noticias", Canal 26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Canal26/live_dash_cld/Canal26.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194f0682180e147f7928078dcc78a019:ddfc08545e74a6bd8870f1189cd1bec0
+#EXTINF:-1   tvg-id="Cronica TV.uy" tvg-name="" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/62/CH_LOGO/160/160/0/0/90907313073986.png" group-title="DEPORTES.AR"tvg-group="Noticias", Crónica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5651806b42f087c58332b052de727c5:11901b35cc3e5aa73619f64d02c38a0f
+#EXTINF:-1   tvg-id="America.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/54/CH_LOGO/160/160/0/0/47462716073248.png" group-title="DEPORTES.AR"tvg-group="Nacionales", América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/America/live_dash_cld/America.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=014771c4a91db80e96f038ec0acfc304:e37fa696265923a6082de157662aab73
+#EXTINF:-1  tvg-id="Ciudad Magazine.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/367/CH_LOGO/160/160/0/0/917545880726.png" group-title="DEPORTES.AR", Ciudad Magazine
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/CiudadMagazine/live_dash_cld/CiudadMagazine.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d243ebd7a57bea4b4b052ae13f4c051:5c1925879de873d43b7c25925902539b
+#EXTINF:-1 ch-number="101" tvg-id="ESPN HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/21/CH_LOGO/160/160/0/0/25899985073189.png" group-title="DEPORTES.AR" , ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (SMART-TV; LINUX; Tizen 6.0) AppleWebKit/537.36 (KHTML, like Gecko) 76.0.3809.146/6.0 TV Safari/537.36
+https://mplus.pontiscloud.com/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://webclient.antinaplayplus.com.ar/
+
+
+
+
+
+
+
+
+
+
+
+
+###########################################################################
+###########################################################################
+
+
+
+######  DEPORTES AR
+
+
+
+
+
+##################https://raw.githubusercontent.com/edisontotv/tv/refs/heads/main/dep.m3u8##########
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN2HD
+http://181.78.82.6:46090/play/a00i/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN3HD
+http://181.78.82.6:46090/play/a00v/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN6HD
+http://181.78.82.6:46090/play/a00w/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN HD
+http://200.92.227.238:8000/play/a0tj/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN2 HD
+http://200.92.227.238:8000/play/a0tk/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN3 HD
+http://200.92.227.238:8000/play/a0tl/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN6 HD
+http://200.92.227.238:8000/play/a0tm/index.m3u8
+
+
+
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN PREMIUM HD
+http://181.205.130.194:4000/play/a0fk
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN DISNEY PREMIUM HD
+http://205.235.6.29:8000/play/a0pz/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN5 HD
+http://181.205.130.194:4000/play/a0fs
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN HD
+http://181.205.130.194:4000/play/a07j
+
+#EXTINF:-1 group-title="DEPORTES.AR",Claro Sports 1 HD
+http://45.5.117.57:8999/play/a05m/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",Claro Sports 2 HD
+http://45.5.117.57:8999/play/a05n/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",Fox SPORTS 2
+http://45.5.117.57:8999/play/a058/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",Fox SPORTS 3
+
+#EXTINF:-1 group-title="DEPORTES.AR",TUDN
+http://45.5.117.57:8999/play/a04t/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",TUDN2
+http://45.5.117.57:8999/play/a0ef/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",TUDN3
+http://45.5.119.43:4000/play/a05q/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES.AR",TyC SPORTS
+http://205.235.6.29:8000/play/a0oi/index.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",DSports
+http://205.235.6.29:8000/play/a0nq/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES.AR",ESPN PREMIIUM
+http://2.magmas5.com:8000/mruben33/NPMH7FTYFY/3526
+#EXTINF:-1 group-title="DEPORTES.AR",DIRECTV DEPORTES 
+http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/9568.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",DIRECTV SPORT 2
+http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/8530.m3u8
+#EXTINF:-1 group-title="DEPORTES.AR",DIRECTV SPORT plus 
+http://tv.proyectox.vip:8080/live/ibarrauru2019/PvwxELbOxu/8489.m3u8
+
+#EXTINF: -1 group-title="DEPORTES.AR",BRASIL | ESPN HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/46445.ts
+#EXTINF: -1 group-title="DEPORTES.AR",BRASIL | ESPN 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/46446.ts
+#EXTINF: -1 group-title="DEPORTES.AR",BRASIL | ESPN BRASIL HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/46447.ts
+
+#EXTINF: -1 group-title="DEPORTES.AR" ,DEPORTES | ESPN PLUS MEXICO
+http://kstv.us:8080/live/N427DpynGE/7049166651/47109.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | ESPN PLUS MEXICO HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47110.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | ESPN U MEXICO
+
+
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | ESPN SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47111.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | ESPN 2 SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47099.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | ESPN 2 SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47100.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | ESPN 3 SUR
+http://kstv.us:8080/live/N427DpynGE/7049166651/47103.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | ESPN 3 SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47104.ts
+#EXTINF: -1 group-title="DEPORTES.AR",LAT-A | TYC SPORTS (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46748.ts
+#EXTINF: -1 group-title="DEPORTES.AR",LAT-A | TYC SPORTS 1 (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46749.ts
+#EXTINF: -1 group-title="DEPORTES.AR",LAT-A | TYC SPORTS HD (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46750.ts
+
+#EXTINF: -1 group-title="DEPORTES.AR",BRASIL | FOX SPORTS HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/46453.ts
+#EXTINF: -1 group-title="DEPORTES.AR",BRASIL | FOX SPORTS 2 HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/46454.ts
+#EXTINF: -1 group-title="DEPORTES.AR",LAT-A | ESPN PREMIUM (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46727.ts
+#EXTINF: -1 group-title="DEPORTES.AR",LAT-A | ESPN PREMIUM HD (ARGENTINA)
+http://kstv.us:8080/live/N427DpynGE/7049166651/46728.ts
+
+
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | FOX SPORTS PREMIUM
+http://kstv.us:8080/live/N427DpynGE/7049166651/47129.ts
+
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | FOX SPORTS SUR HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47131.ts
+#EXTINF: -1 group-title="DEPORTES.AR",US | FOX DEPORTES
+http://kstv.us:8080/live/N427DpynGE/7049166651/23316.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | CLARO SPORTS
+http://kstv.us:8080/live/N427DpynGE/7049166651/47091.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | DIRECTV SPORTS
+http://kstv.us:8080/live/N427DpynGE/7049166651/47092.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | DIRECTV SPORTS HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47096.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | DIRECTV SPORTS 2
+http://kstv.us:8080/live/N427DpynGE/7049166651/47094.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | DIRECTV SPORTS 2 HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47095.ts
+#EXTINF: -1 group-title="DEPORTES.AR",DEPORTES | DIRECTV SPORTS + HD
+http://kstv.us:8080/live/N427DpynGE/7049166651/47093.ts
+
+
+
+#EXTINF: -1 group-title="DEPORTES.AR",Eventos
+http://181.78.27.128:12543/play/a05a/index.m3u8
+#EXTINF: -1 group-title="DEPORTES.AR",ESPN
+http://181.78.27.128:12543/play/a05b/index.m3u8
+#EXTINF: -1 group-title="DEPORTES.AR",Mundial TyC  
+http://181.78.27.128:12543/play/a04n/index.m3u8
+
+
+
+
+
+
+
+
+
